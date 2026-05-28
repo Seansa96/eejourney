@@ -1,0 +1,1 @@
+Typically used in Electroplating, it is a metallic, inorganic salt that in its natural form has a blue appearance.

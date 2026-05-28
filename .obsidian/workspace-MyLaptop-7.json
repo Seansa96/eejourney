@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "d55665e9f22d68fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "12e45e04ca468b62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2996f26d9ab065fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7 - Guides/Openblog Setup.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc2d69d5d8389bf3",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba77100e83751775",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbe485795af52009",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0064925dacf83a3b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d848ca68a3b9af1f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8c4b8b245682d654",
+    "type": "split",
+    "children": [
+      {
+        "id": "47e2b7e9cb1f99e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7051849788f73af1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cf959cf764da5a0a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "7 - Guides/Openblog Setup.md"
+              }
+            }
+          },
+          {
+            "id": "ebb1705d757d402b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "7 - Guides/Openblog Setup.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "37b33bbde865c914",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "7 - Guides/Openblog Setup.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2996f26d9ab065fd",
+  "lastOpenFiles": [
+    "10 - Glossary",
+    "6 - Full Notes/Wi-FI.md",
+    "1 - Rough Notes/AWS instance IP.md",
+    "7 - Guides/How to check if a port is in use.md",
+    "6 - Full Notes/How to check if a port is in use.md",
+    "6 - Full Notes/AWS instance IP.md",
+    "6 - Full Notes/AWS instance IP.md~RFb646598.TMP",
+    "6 - Full Notes/Setting Git up for Pushing Commits.md",
+    "9 - Game Notes/Enshrouded Crafting Needs.md",
+    "9 - Game Notes",
+    "6 - Full Notes/WECA.md",
+    "7 - Guides/SSH Key Gen.md",
+    "7 - Guides/Openblog Setup.md",
+    "8 - Explanations/Why -fsSL.md",
+    "6 - Full Notes/Interpreter.md",
+    "6 - Full Notes/FCC.md",
+    "6 - Full Notes/IEEE.md",
+    "Images/Pasted image 20240814185135.png",
+    "Images/Pasted image 20240814231923.png",
+    "6 - Full Notes/ERO.md",
+    "6 - Full Notes/ITU.md",
+    "6 - Full Notes/OSI.md",
+    "1 - Rough Notes/Meiko.md",
+    "2 - Source Material/802.11 Wireless Networks The Definitive Guide.md",
+    "3 - Tags/four-letter-orgs.md",
+    "3 - Tags/ssh.md",
+    "8 - Explanations",
+    "6 - Full Notes/Compiler Basic Structure.md",
+    "3 - Tags/language-processing.md",
+    "Images/Pasted image 20240812191905.png",
+    "3 - Tags/low-level.md",
+    "3 - Tags/compiler.md",
+    "Images/Pasted image 20240812184037.png",
+    "Images/cookie-basic-example.png",
+    "Images",
+    "7 - Guides",
+    "6 - Full Notes",
+    "5 - Templates",
+    "4 - Indexes",
+    "3 - Tags",
+    "2 - Source Material"
+  ]
+}

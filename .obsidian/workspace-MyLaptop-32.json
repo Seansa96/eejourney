@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "d55665e9f22d68fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "be07e7591ddc32da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8adb3dcecea743ef",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc2d69d5d8389bf3",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba77100e83751775",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbe485795af52009",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "710599f30488b682",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "0064925dacf83a3b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "kircho",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d848ca68a3b9af1f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8c4b8b245682d654",
+    "type": "split",
+    "children": [
+      {
+        "id": "47e2b7e9cb1f99e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7051849788f73af1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cf959cf764da5a0a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "ebb1705d757d402b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "9 - Game Notes/satisfactory.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for satisfactory"
+            }
+          },
+          {
+            "id": "37b33bbde865c914",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "6 - Full Notes/snprintf.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from snprintf"
+            }
+          },
+          {
+            "id": "1bda2886d9148b75",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": true,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "cmdr:Templater: Open insert template modal": false
+    }
+  },
+  "active": "8adb3dcecea743ef",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-03-28 05.15.40.excalidraw.md",
+    "11 - Images/Pasted image 20260328052717.png",
+    "16 - Mathematics/Problems and Solutions for Stats 1/14 - Probability.md",
+    "11 - Images/Pasted image 20260328051932.png",
+    "11 - Images/Pasted image 20260324164940.png",
+    "Excalidraw/Drawing 2026-03-24 13.27.04.excalidraw.md",
+    "11 - Images/Pasted image 20260324005421.png",
+    "11 - Images/Pasted image 20260324003520.png",
+    "11 - Images/Pasted image 20260323234248.png",
+    "11 - Images/Pasted image 20260323021616.png",
+    "11 - Images/Pasted image 20260323020811.png",
+    "16 - Mathematics/Problems and Solutions for Calc 1/Part Two/Test 2 Error Log.md",
+    "16 - Mathematics/Problems and Solutions for Calc 1/Part Two/3.3 - Derivatives of Trigonometric Functions.md",
+    "11 - Images/Pasted image 20260323015325.png",
+    "16 - Mathematics/Problems and Solutions for Calc 1/Part Two/3.6 - Derivatives of Logarithms.md",
+    "11 - Images/Pasted image 20260323003524.png",
+    "11 - Images/Pasted image 20260323003524.png~RFa2a9c9ba.TMP",
+    "11 - Images/Pasted image 20260322211622.png~RFa2a9c853.TMP",
+    "16 - Mathematics/Calculus/Chapter 4.1 Minimum and Maximum Values.md",
+    "16 - Mathematics/Problems and Solutions for Calc 1/Part Two/3.6 - Logarithmic Differentiation and Inverse Trig.md",
+    "16 - Mathematics/Problems and Solutions for Calc 1/Part Two/4.1 - Minimum and Maximum Values.md",
+    "16 - Mathematics/Precalculus/Discriminant.md",
+    "16 - Mathematics/Precalculus",
+    "16 - Mathematics/Calculus/Chapter 3.11 - Hyperbolic Functions.md",
+    "11 - Images/Pasted image 20260322005900.png~RF89d9888b.TMP",
+    "16 - Mathematics/Problems and Solutions for Calc 1/Part Two/3.11 Hyperbolic Functions.md",
+    "Excalidraw/Drawing 2026-03-21 17.20.06.excalidraw.md",
+    "16 - Mathematics/Problems and Solutions for Calc 1/Part Two/3.10 Linear Approximation and Differentials.md",
+    "1 - Rough Notes/Study Session for 3-6-2026.md",
+    "Excalidraw/Drawing 2026-03-11 01.16.26.excalidraw.md",
+    "11 - Images/Pasted image 20260320020514.png~RF7eff7346.TMP",
+    "Excalidraw/Drawing 2026-03-18 16.21.25.excalidraw.md",
+    "16 - Mathematics/Simplification Checklist.md",
+    "11 - Images/Pasted image 20260316192840.png~RF745ed639.TMP",
+    "16 - Mathematics/Problems and Solutions for Calc 1/Test 2 Textbook Exercise List.md",
+    "16 - Mathematics/Problems and Solutions for Stats 1/Error Log Chapter 14 - Probability.md",
+    "16 - Mathematics/Statistics/Statistics-Modeling the World/Chapter 14 - Probability.md",
+    "16 - Mathematics/Problems and Solutions for Calc 1/Part Two/3.9 - Related Rates.md",
+    "Excalidraw/Drawing 2026-03-08 15.35.58.excalidraw.md",
+    "16 - Mathematics/Calculus/Chapter 3.9 - Related Rates.md",
+    "16 - Mathematics/Problems and Solutions for Calc 1/Textbook Exercise List.md",
+    "Excalidraw/Drawing 2026-03-06 22.10.24.excalidraw.md",
+    "1 - Rough Notes/Study Session for 3-6-2026.md~RF3bd1d28f.TMP",
+    "11 - Images/Pasted image 20260304195036.png~RF3126dbab.TMP",
+    "11 - Images/Pasted image 20260304192118.png~RF3126daf0.TMP",
+    "6 - Full Notes/Untitled 4.base"
+  ]
+}

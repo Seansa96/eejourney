@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "d55665e9f22d68fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "12e45e04ca468b62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2996f26d9ab065fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/Interpreter.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc2d69d5d8389bf3",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba77100e83751775",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbe485795af52009",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0064925dacf83a3b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d848ca68a3b9af1f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8c4b8b245682d654",
+    "type": "split",
+    "children": [
+      {
+        "id": "47e2b7e9cb1f99e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7051849788f73af1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cf959cf764da5a0a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "6 - Full Notes/Interpreter.md"
+              }
+            }
+          },
+          {
+            "id": "ebb1705d757d402b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "6 - Full Notes/Interpreter.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "37b33bbde865c914",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "6 - Full Notes/Interpreter.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2996f26d9ab065fd",
+  "lastOpenFiles": [
+    "6 - Full Notes/Compiler Basic Structure.md",
+    "6 - Full Notes/Interpreter.md",
+    "3 - Tags/language-processing.md",
+    "Images/Pasted image 20240812191905.png",
+    "3 - Tags/low-level.md",
+    "3 - Tags/compiler.md",
+    "2 - Source Material/Compilers Principles Techniques and Tools (2nd Edition).md",
+    "2 - Source Material/3GPP TS 45.001 by the 3rd Generation Partnership Project.md",
+    "Images/Pasted image 20240812184037.png",
+    "2 - Source Material/A Brief History of Everything Wireless by Petri Launiainen.md",
+    "2 - Source Material/Modern Operating Systems - Andrew Tanenbaum.md",
+    "6 - Full Notes/cmake.md",
+    "6 - Full Notes/cookies.md",
+    "6 - Full Notes/Cross-Site Scripting.md",
+    "6 - Full Notes/GSM.md",
+    "6 - Full Notes/HTTP Protocol (History and Versions).md",
+    "6 - Full Notes/Managing Users and Groups in Linux.md",
+    "6 - Full Notes/Processes.md",
+    "6 - Full Notes/Power Management and Energy Conservation in Operating Systems.md",
+    "6 - Full Notes/snprintf.md",
+    "6 - Full Notes/Ternary Operator.md",
+    "6 - Full Notes/Time Division Multiple Access.md",
+    "6 - Full Notes/makefile.md",
+    "3 - Tags/wireless.md",
+    "3 - Tags/data transmission.md",
+    "3 - Tags/code-generation.md",
+    "3 - Tags/syntax-analysis.md",
+    "Images/cookie-basic-example.png",
+    "Images",
+    "7 - Guides",
+    "6 - Full Notes",
+    "5 - Templates",
+    "4 - Indexes",
+    "3 - Tags",
+    "2 - Source Material",
+    "1 - Rough Notes"
+  ]
+}

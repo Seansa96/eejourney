@@ -1,0 +1,3 @@
+Tags: [[netsec]]
+
+Referred to as a TPM, this is a hardware device integrated into a computer or other device.  It typically is responsible for the generation, storage, and management of cryptographic keys.  It can ensure the integrity of boot processes by measure the boot sector and keeping a record of hashes, refusing to decrypt unless the hashes match, supports encryption tasks, and provides hardware based authentication.

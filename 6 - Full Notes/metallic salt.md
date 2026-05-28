@@ -1,0 +1,1 @@
+A metallic salt is typically a crystal in state and is a chemical compound that exhibits metal properties.

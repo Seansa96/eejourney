@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "d55665e9f22d68fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "5cf56c3eca4774bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ef6df55b9e610bd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc2d69d5d8389bf3",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba77100e83751775",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbe485795af52009",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "710599f30488b682",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "0064925dacf83a3b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "kircho",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d848ca68a3b9af1f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8c4b8b245682d654",
+    "type": "split",
+    "children": [
+      {
+        "id": "47e2b7e9cb1f99e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7051849788f73af1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cf959cf764da5a0a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "ebb1705d757d402b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "9 - Game Notes/satisfactory.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for satisfactory"
+            }
+          },
+          {
+            "id": "37b33bbde865c914",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "6 - Full Notes/snprintf.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from snprintf"
+            }
+          },
+          {
+            "id": "1bda2886d9148b75",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": true,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "cmdr:Templater: Open insert template modal": false
+    }
+  },
+  "active": "3ef6df55b9e610bd",
+  "lastOpenFiles": [
+    "11 - Images/cloaksearch.png",
+    "16 - Mathematics/Mathematical Modeling and Functional Reasoning/The Art of Problem Solving/Chapters 1-4 --Exponents through Proportions.md",
+    "Excalidraw/Drawing 2026-05-02 00.02.57.excalidraw.md",
+    "16 - Mathematics/Calculus/Calc 2/Part 1/Chapter 6.1 - Area Between Curves.md",
+    "13 - Language Fundamentals/C++/C++ Fundamentals/Scope Resolution Operator.md",
+    "11 - Images/Pasted image 20260502005118.png",
+    "Excalidraw/Drawing 2026-05-01 13.59.30.excalidraw.md",
+    "11 - Images/Pasted image 20260501211137.png",
+    "11 - Images/Pasted image 20260501205758.png",
+    "16 - Mathematics/Problems and Solutions for Calc 1/Part 3/5.5 - Substitution Rule.md",
+    "16 - Mathematics/Calculus/Calc 2/Part 1",
+    "16 - Mathematics/Problems and Solutions for Calc 1/Part 3/Practice Final 1.md",
+    "16 - Mathematics/Problems and Solutions for Calc 1/Part 3/5.1 - Area and Distance.md",
+    "16 - Mathematics/Problems and Solutions for Calc 1/Part 3/4.2 - Mean Value Theorem.md",
+    "16 - Mathematics/Problems and Solutions for Calc 1/Part 3/4.3 - Derivative and what it tells us about the shape of a graph.md",
+    "16 - Mathematics/Problems and Solutions for Calc 1/Part 1/Practice Test 2.md",
+    "16 - Mathematics/Calculus/Calc 1/Drills/U-sub Integration.md",
+    "13 - Language Fundamentals/C++/C++ Fundamentals/Namespaces.md",
+    "13 - Language Fundamentals/C++/Projects and Experiments",
+    "13 - Language Fundamentals/C++/Snippets and Patterns",
+    "13 - Language Fundamentals/C++/Common Errors",
+    "13 - Language Fundamentals/C++/Standard Library",
+    "13 - Language Fundamentals/C++/C++ Differences",
+    "13 - Language Fundamentals/C++/Type System and Memory",
+    "13 - Language Fundamentals/C++/C++ Fundamentals",
+    "13 - Language Fundamentals/C++",
+    "Excalidraw/Drawing 2026-04-23 15.02.44.excalidraw.md",
+    "16 - Mathematics/Problems and Solutions for Calc 1/Part 2/3.10 Linear Approximation and Differentials.md",
+    "16 - Mathematics/Calculus/Calc 1/Chapter 3.6 - Logarithmic Differentiation and Inverse Trig Functions.md",
+    "6 - Full Notes/shring recommendations.md",
+    "16 - Mathematics/Mathematical Modeling and Functional Reasoning/The Art of Problem Solving",
+    "16 - Mathematics/Problems and Solutions for Calc 1/Part 1/2.3 Calculating Limits using Algebra.md",
+    "16 - Mathematics/Problems and Solutions for Calc 1/Part 1/2.5 - Continuity of Functions.md",
+    "16 - Mathematics/Calculus/Calc 1/Chapter 3.3 Derivatives of Trig Functions.md",
+    "16 - Mathematics/Problems and Solutions for Calc 1/Part 2/3.9 - Related Rates.md",
+    "16 - Mathematics/Problems and Solutions for Calc 1/Part 3/Final Exam Questions.md",
+    "16 - Mathematics/Problems and Solutions for Calc 1/Part 3/Test 3 and Problem Outline.md",
+    "16 - Mathematics/Problems and Solutions for Calc 1/Part 3/Textbook Exercise List Part 3.md",
+    "16 - Mathematics/Problems and Solutions for Calc 1/Part 3/Missed Test Questions.md",
+    "11 - Images/Pasted image 20260427190852.png",
+    "11 - Images/Pasted image 20260427163156.png",
+    "11 - Images/Pasted image 20260427160939.png",
+    "11 - Images/Pasted image 20260427160930.png",
+    "11 - Images/Pasted image 20260427160920.png",
+    "11 - Images/Pasted image 20260427160905.png",
+    "11 - Images/Pasted image 20260427160852.png"
+  ]
+}

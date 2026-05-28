@@ -1,0 +1,11 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Atom",
+  "enabledCssSnippets": [
+    "custom-styles",
+    "list-color",
+    "inline-math",
+    "block-math",
+    "line-numbers"
+  ]
+}

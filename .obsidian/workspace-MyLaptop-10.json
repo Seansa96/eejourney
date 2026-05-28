@@ -1,0 +1,282 @@
+{
+  "main": {
+    "id": "d55665e9f22d68fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e3934c545f14582",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5a18c51af7ee862",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/stats workspace.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "stats workspace"
+            }
+          },
+          {
+            "id": "8b7af58f82315d13",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-02-14 08.56.59.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-02-14 08.56.59.excalidraw"
+            }
+          },
+          {
+            "id": "00ead16751e88c91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "16 - Mathematics/Problems and Solutions for Calc 1/3.1 - Polynomial and Exponential Functions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "3.1 - Polynomial and Exponential Functions"
+            }
+          },
+          {
+            "id": "06d2c55360f69b7d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-02-14 09.10.34.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-02-14 09.10.34.excalidraw"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc2d69d5d8389bf3",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba77100e83751775",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbe485795af52009",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0064925dacf83a3b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d848ca68a3b9af1f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "8c4b8b245682d654",
+    "type": "split",
+    "children": [
+      {
+        "id": "47e2b7e9cb1f99e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7051849788f73af1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cf959cf764da5a0a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-02-14 08.56.59.excalidraw.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Drawing 2026-02-14 08.56.59.excalidraw"
+            }
+          },
+          {
+            "id": "ebb1705d757d402b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "37b33bbde865c914",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "8b7af58f82315d13",
+  "lastOpenFiles": [
+    "9 - Glossary/General Purpose Registers.md",
+    "9 - Glossary/heap (memory).md",
+    "9 - Glossary/IMAP.md",
+    "9 - Glossary/JSON Web Token.md",
+    "9 - Glossary/stack.md",
+    "9 - Glossary/runtime.md",
+    "9 - Glossary/POP.md",
+    "9 - Glossary/SMS.md",
+    "9 - Glossary/Test Driven Development (TDD).md",
+    "9 - Glossary/Test Driven Development (TDD).md~RF20fa1ca.TMP",
+    "9 - Glossary/Transport Layer Security.md",
+    "9 - Glossary/Unit Tests.md",
+    "9 - Glossary/UTF-8 Encoding.md",
+    "7 - Guides/Finding the Derivative using a table of values.md",
+    "7 - Guides/How to do a slow motion edit.md",
+    "7 - Guides/How to do a slow motion edit.md~RF20fa015.TMP",
+    "7 - Guides/How to do a Zoom edit in Premiere Pro.md",
+    "7 - Guides/How to overlay a green screened clip in premiere pro.md",
+    "7 - Guides/How to overlay a green screened clip in premiere pro.md~RF20f9efb.TMP",
+    "7 - Guides/How to set up a local RAG pipeline.md",
+    "6 - Full Notes/11.1 Checklist.md",
+    "6 - Full Notes/basics of a polling function.md",
+    "6 - Full Notes/batch scipting.md",
+    "6 - Full Notes/Certificate Signing Request.md",
+    "6 - Full Notes/Diffie-Hellman.md",
+    "6 - Full Notes/Diffie-Hellman.md~RF20f9d27.TMP",
+    "6 - Full Notes/CIA Triad.md",
+    "6 - Full Notes/Conductor.md",
+    "6 - Full Notes/email to tim.md",
+    "6 - Full Notes/email and how it works.md",
+    "6 - Full Notes/resume.md~RF20f9825.TMP",
+    "6 - Full Notes/Untitled 1.base",
+    "6 - Full Notes/Untitled 2.base",
+    "6 - Full Notes/Untitled 3.base",
+    "6 - Full Notes/Untitled.base",
+    "11 - Images/bloodhorrorfiremagedmg.png~RF20f9353.TMP",
+    "11 - Images/cloaksearch.png",
+    "11 - Images/finisheditemupgradepanel.png",
+    "11 - Images/itemsearchpanel.png",
+    "11 - Images/itemsetspanel.png",
+    "11 - Images/itemupgradepanel.png",
+    "11 - Images/leathersearch.png",
+    "11 - Images/necksearch.png",
+    "11 - Images/Pasted image 20250601145422.png",
+    "11 - Images/Pasted image 20250421133821.png",
+    "11 - Images/Pasted image 20250607233552.png"
+  ]
+}

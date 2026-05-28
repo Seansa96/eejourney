@@ -1,0 +1,1 @@
+A member of the transition metals, it is known especially for its conductivity and ductility and the applications thereof in electrical systems and materials. It is also used widely in pipe systems due to its flexibility and can be found in many salts.  It has an atomic number of 29, with high thermal conductivity as well

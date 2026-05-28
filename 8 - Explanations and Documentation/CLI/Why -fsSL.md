@@ -1,0 +1,1 @@
+Using `curl -fsSL` is typically used when attempting to gather data from a link where links may be redirected. the `-f` tag causes the script to fail silently, while the `-s` tag prevents any progress meters or displays. `-S` is to still display error codes, just not other extraneous error messages, and `-L` will cause the script to follow redirects.
