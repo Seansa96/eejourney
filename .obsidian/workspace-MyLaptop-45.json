@@ -1,0 +1,317 @@
+{
+  "main": {
+    "id": "d55665e9f22d68fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "d203549a3e1ce683",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc5a26e485f51f53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "17 - Chemistry/Chemistry Textbook/Chapter 2 - Atoms, Molecules, and Ions.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 2 - Atoms, Molecules, and Ions"
+            }
+          },
+          {
+            "id": "55c38eb52cdbfcc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "18 - Physics/Physics for Scientists and Engineers/Part 1 - Mechanics/Chapter 4 - Motion in Two Dimensions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 4 - Motion in Two Dimensions"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc2d69d5d8389bf3",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba77100e83751775",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbe485795af52009",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "710599f30488b682",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "0064925dacf83a3b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d848ca68a3b9af1f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8c4b8b245682d654",
+    "type": "split",
+    "children": [
+      {
+        "id": "47e2b7e9cb1f99e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7051849788f73af1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cf959cf764da5a0a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "18 - Physics/Physics for Scientists and Engineers/Part 1 - Mechanics/Chapter 4 - Motion in Two Dimensions.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Chapter 4 - Motion in Two Dimensions"
+            }
+          },
+          {
+            "id": "ebb1705d757d402b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "9 - Game Notes/satisfactory.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for satisfactory"
+            }
+          },
+          {
+            "id": "37b33bbde865c914",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "13 - Language Fundamentals/C++/C++ Fundamentals/Chapter 2 - Language Features Dump.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Chapter 2 - Language Features Dump"
+            }
+          },
+          {
+            "id": "1bda2886d9148b75",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": true,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "cmdr:Templater: Open insert template modal": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "floating": {
+    "id": "7ab563d4802559f5",
+    "type": "floating",
+    "children": [
+      {
+        "id": "1c7a641c2a263207",
+        "type": "window",
+        "children": [
+          {
+            "id": "7bb64e153a35a0d9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0edc8ba27631fec6",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/black canvas.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "black canvas"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 72,
+        "y": 0,
+        "width": 1464,
+        "height": 816,
+        "maximize": false,
+        "zoom": 0.5
+      }
+    ]
+  },
+  "active": "55c38eb52cdbfcc2",
+  "lastOpenFiles": [
+    "7 - Guides/Setting up a repository for a Coding Agent.md",
+    "Excalidraw/black canvas.md",
+    "18 - Physics/Physics for Scientists and Engineers/Part 1 - Mechanics/Chapter 4 - Motion in Two Dimensions.md",
+    "7 - Guides/Making a new Git repo locally.md",
+    "5 - Templates/Mathematics CIR Remediation Protocol.md",
+    "5 - Templates/Physics CIR Remediation Protocol.md",
+    "5 - Templates/Mathematics CIR.md",
+    "5 - Templates/Physics CIR.md",
+    "5 - Templates/Cognitive Inquiry and Remediation.md",
+    "5 - Templates/Electronics CIR.md",
+    "5 - Templates/Programming CIR.md",
+    "5 - Templates/Chemistry CIR.md",
+    "16 - Mathematics/Mathematical Modeling and Functional Reasoning/Number Systems/Floating Point Number.md",
+    "16 - Mathematics/Mathematical Modeling and Functional Reasoning/Number Systems/Binary.md",
+    "16 - Mathematics/Mathematical Modeling and Functional Reasoning/Number Systems",
+    "17 - Chemistry/Chemistry Textbook/Chapter 2 - Atoms, Molecules, and Ions.md",
+    "9 - Glossary/Important Guys/Cathode-Ray Tubes.md",
+    "9 - Glossary/Important Guys/J.J. Thomson.md",
+    "16 - Mathematics/Precalculus/Chapter 9.3 - Geometric Sequences.md",
+    "11 - Images/Pasted image 20260525010310.png",
+    "11 - Images/Pasted image 20260525013650.png",
+    "11 - Images/Pasted image 20260525005516.png",
+    "11 - Images/Pasted image 20260525011223.png",
+    "16 - Mathematics/Mathematical Modeling and Functional Reasoning/The Art of Problem Solving Vol 1/Chapters 28-29 Prove It and Parting Shots.md",
+    "16 - Mathematics/Mathematical Modeling and Functional Reasoning/The Art of Problem Solving Vol 1/Chapters 20 - 27 - Geometric Potpourri through Sets.md",
+    "16 - Mathematics/Mathematical Modeling and Functional Reasoning/The Art of Problem Solving Vol 1/Chapters 14 - 19 Angle Chasing through Transformations.md",
+    "16 - Mathematics/Mathematical Modeling and Functional Reasoning/The Art of Problem Solving Vol 1/Chapters 9 - 13 - Circles through Polygons.md",
+    "16 - Mathematics/Precalculus/Chapter 9.2 - Arithmetic Sequences.md",
+    "11 - Images/Pasted image 20260524221822.png",
+    "11 - Images/Pasted image 20260524221822.png~RF34b4e006.TMP",
+    "16 - Mathematics/Mathematical Modeling and Functional Reasoning/The Art of Problem Solving Vol 2",
+    "16 - Mathematics/Mathematical Modeling and Functional Reasoning/The Art of Problem Solving Vol 1/Chapters 1-4 --Exponents through Proportions.md",
+    "16 - Mathematics/Mathematical Modeling and Functional Reasoning/The Art of Problem Solving Vol 1/Chapters 5-8 - Using the Integers through What Numbers Really Are.md",
+    "16 - Mathematics/Mathematical Modeling and Functional Reasoning/The Art of Problem Solving Vol 1",
+    "16 - Mathematics/Calculus/Calc 2/Part 1/Chapter 7.3 - Trigonometric Substitution.md",
+    "11 - Images/Pasted image 20260524174215.png",
+    "11 - Images/Pasted image 20260524152543.png",
+    "11 - Images/Pasted image 20260523192600.png",
+    "11 - Images/Pasted image 20260523185653.png",
+    "11 - Images/Pasted image 20260522233243.png",
+    "16 - Mathematics/Precalculus/Chapter 7.4 - The Dot Product.md~RF29f5b32e.TMP",
+    "13 - Language Fundamentals/C++/MSVC/nmake",
+    "13 - Language Fundamentals/C++/MSVC",
+    "22 - Anatomy and Physiology/Elizabeth Mack - Anatomy and Physiology/Unit 1 - Levels of Organization",
+    "22 - Anatomy and Physiology/Elizabeth Mack - Anatomy and Physiology",
+    "22 - Anatomy and Physiology"
+  ]
+}

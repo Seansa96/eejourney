@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Guides/Making a new Git repo locally.md",
+                "file": "7 - Guides/Setting up a repository for a Coding Agent.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Making a new Git repo locally"
+              "title": "Setting up a repository for a Coding Agent"
             }
           }
         ]
@@ -129,13 +129,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7 - Guides/Making a new Git repo locally.md",
+                "file": "7 - Guides/Setting up a repository for a Coding Agent.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Making a new Git repo locally"
+              "title": "Outline of Setting up a repository for a Coding Agent"
             }
           },
           {
@@ -243,8 +243,11 @@
   },
   "active": "397bf186b47dba1b",
   "lastOpenFiles": [
-    "1 - Rough Notes/Abstraction video ideas.md",
+    "7 - Guides/Setting Git up for Pushing Commits.md",
+    "7 - Guides/Setting up a repository for a Coding Agent.md",
+    "Excalidraw/black canvas.md",
     "7 - Guides/Making a new Git repo locally.md",
+    "1 - Rough Notes/Abstraction video ideas.md",
     "1 - Rough Notes/youtube links for ducky.md",
     "11 - Images/Customcodeweakaura.png",
     "11 - Images/cookie-basic-example.png",
@@ -281,11 +284,8 @@
     "16 - Mathematics/Calculus/Calc 2/Part 1/Chapter 7.2 - Trigonometric Integrals.md",
     "5 - Templates/Physics CIR Remediation Protocol.md",
     "5 - Templates/Cognitive Inquiry and Remediation.md",
-    "Excalidraw/black canvas.md",
     "5 - Templates/Electronics CIR.md",
     "5 - Templates/Programming CIR.md",
-    "5 - Templates/Chemistry CIR.md",
-    "5 - Templates/details-answer.md.md",
     "11 - Images/Pasted image 20260524221822.png~RF34b4e006.TMP",
     "16 - Mathematics/Mathematical Modeling and Functional Reasoning/The Art of Problem Solving Vol 2",
     "16 - Mathematics/Mathematical Modeling and Functional Reasoning/The Art of Problem Solving Vol 1"
