@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0c384b7994c7e52e",
+        "id": "08e3b90662ce4be3",
         "type": "tabs",
         "children": [
           {
-            "id": "397bf186b47dba1b",
+            "id": "cf38ca5d22a6b287",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 - Guides/Setting up a repository for a Coding Agent.md",
+                "file": "16 - Mathematics/Calculus/Calc 3/Openstax/Chapter 2.3 - Dot Product.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,55 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Setting up a repository for a Coding Agent"
+              "title": "Chapter 2.3 - Dot Product"
+            }
+          },
+          {
+            "id": "b4f7ebc765722112",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "16 - Mathematics/Calculus/Calc 3/Openstax/Chapter 2.3 - Dot Product Solutions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 2.3 - Dot Product Solutions"
+            }
+          },
+          {
+            "id": "adb8540f43c894cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "16 - Mathematics/Calculus/Calc 3/Openstax/Chapter 2.2 - Vectors in Three Dimensions Solutions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 2.2 - Vectors in Three Dimensions Solutions"
             }
           }
         ]
@@ -51,7 +99,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -124,27 +174,12 @@
             }
           },
           {
-            "id": "cf959cf764da5a0a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "7 - Guides/Setting up a repository for a Coding Agent.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Setting up a repository for a Coding Agent"
-            }
-          },
-          {
             "id": "ebb1705d757d402b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9 - Game Notes/satisfactory.md",
+                "file": "17 - Chemistry/Chemistry Textbook/Chapter 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for satisfactory"
+              "title": "Backlinks for Chapter 3"
             }
           },
           {
@@ -177,12 +212,27 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          },
+          {
+            "id": "13443d0f1ac6d9ba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "16 - Mathematics/Calculus/Calc 3/Openstax/Chapter 2.3 - Dot Product.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -190,7 +240,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -199,95 +248,60 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
       "cmdr:Templater: Open insert template modal": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "templates:Insert template": false
     }
   },
-  "floating": {
-    "id": "7ab563d4802559f5",
-    "type": "floating",
-    "children": [
-      {
-        "id": "1c7a641c2a263207",
-        "type": "window",
-        "children": [
-          {
-            "id": "7bb64e153a35a0d9",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0edc8ba27631fec6",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalidraw/black canvas.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "black canvas"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 256,
-        "y": 112,
-        "width": 1464,
-        "height": 816,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "397bf186b47dba1b",
+  "active": "bbe485795af52009",
   "lastOpenFiles": [
-    "README.md",
-    "7 - Guides/Setting Git up for Pushing Commits.md",
-    "7 - Guides/Setting up a repository for a Coding Agent.md",
+    "tmp/pdfs/qa/dot-product-solutions-final2-1.png",
+    "tmp/pdfs/qa/dot-product-solutions-final-1.png",
+    "tmp/pdfs/qa/dot-product-solutions-1.png",
+    "23 - Printables/Chapter 6.4 - Green's Theorem.pdf",
+    "23 - Printables/Chapter 6.4 - Green's Theorem Solutions.pdf",
+    "23 - Printables/Chapter 6.3 - Conservative Vector Fields.pdf",
+    "23 - Printables/Chapter 6.3 - Conservative Vector Fields Solutions.pdf",
+    "23 - Printables/Chapter 6.2 - Line Integrals.pdf",
+    "23 - Printables/Chapter 6.2 - Line Integrals Solutions.pdf",
+    "23 - Printables/Chapter 6.1 - Vector Fields.pdf",
+    "23 - Printables/Chapter 6.1 - Vector Fields Solutions.pdf",
+    "23 - Printables/Chapter 5.5 - Triple Integrals in Cylindrical and Spherical Coordinates.pdf",
+    "23 - Printables/Chapter 5.5 - Triple Integrals in Cylindrical and Spherical Coordinates Solutions.pdf",
+    "tmp/pdfs/qa/dot-product-1.png",
+    "16 - Mathematics/Calculus/Calc 3/Openstax/Chapter 2.3 - Dot Product Solutions.md",
+    "16 - Mathematics/Calculus/Calc 3/Openstax/Chapter 2.3 - Dot Product.md",
+    "16 - Mathematics/Calculus/Calc 3/Openstax/Chapter 2.2 - Vectors in Three Dimensions Solutions.md",
+    "16 - Mathematics/Calculus/Calc 3/Openstax/Chapter 2.2 - Vectors in Three Dimensions.md",
+    "16 - Mathematics/Calculus/Calc 3/Topic Lectures/Section 2.3 - Dot Product.md",
+    "16 - Mathematics/Calculus/Calc 3/Openstax/Chapter 2.1 - Vectors in the Plane Solutions.md",
+    "16 - Mathematics/Calculus/Calc 3/Topic Lectures/Section 2.2 - Vectors in Three Dimensions-MyLaptop-2.md",
+    "16 - Mathematics/Calculus/Calc 3/Topic Lectures/Section 2.2 - Vectors in Three Dimensions-MyLaptop.md",
+    "16 - Mathematics/Calculus/Calc 3/Topic Lectures/Section 2.4 - Cross Product.md",
+    "16 - Mathematics/Calculus/Calc 3/Topic Lectures/Section 2.2 - Vectors in Three Dimensions.md",
+    "16 - Mathematics/Calculus/Calc 3/Openstax/Chapter 2.1 - Vectors in the Plane.md",
     "Excalidraw/black canvas.md",
-    "7 - Guides/Making a new Git repo locally.md",
-    "1 - Rough Notes/Abstraction video ideas.md",
-    "1 - Rough Notes/youtube links for ducky.md",
-    "11 - Images/Customcodeweakaura.png",
-    "11 - Images/cookie-basic-example.png",
-    "11 - Images/finisheditemupgradepanel.png",
-    "11 - Images/firemageBBhorrorsept25.png",
-    "11 - Images/firerashanan.png",
-    "11 - Images/forgottenharbingerbbhorror.png",
-    "11 - Images/itemsearchpanel.png",
-    "11 - Images/itemsetspanel.png",
-    "11 - Images/leathersearch.png",
-    "11 - Images/lostwatcherbbhorror.png",
-    "6 - Full Notes/xcopy.md",
-    "6 - Full Notes/Time Division Multiple Access.md",
-    "6 - Full Notes/Untitled 7.base",
-    "6 - Full Notes/WECA.md",
-    "6 - Full Notes/Untitled 5.base",
-    "6 - Full Notes/Untitled 4.base",
-    "6 - Full Notes/Untitled 3.base",
-    "6 - Full Notes/Untitled 2.base",
-    "6 - Full Notes/Untitled 1.base",
-    "6 - Full Notes/Untitled.base",
-    "6 - Full Notes/remnant 2.md",
-    "6 - Full Notes/shring recommendations.md",
-    "6 - Full Notes/Power Management and Energy Conservation in Operating Systems.md",
-    "6 - Full Notes/makefile.md",
-    "6 - Full Notes/fantasy comp for liberation.md",
-    "3 - Tags/Wheel of Time.md",
-    "3 - Tags/Weakauras.md",
-    "16 - Mathematics/Calculus/Calc 1/Drills/U-sub Integration.md",
-    "16 - Mathematics/Calculus/Calc 1/Limit.md",
-    "5 - Templates/Physics CIR.md",
-    "5 - Templates/Mathematics CIR.md",
-    "5 - Templates/Mathematics CIR Remediation Protocol.md",
-    "16 - Mathematics/Calculus/Calc 2/Part 1/Chapter 7.2 - Trigonometric Integrals.md",
-    "5 - Templates/Physics CIR Remediation Protocol.md",
-    "5 - Templates/Cognitive Inquiry and Remediation.md",
-    "5 - Templates/Electronics CIR.md",
-    "11 - Images/Pasted image 20260524221822.png~RF34b4e006.TMP",
-    "16 - Mathematics/Mathematical Modeling and Functional Reasoning/The Art of Problem Solving Vol 2",
-    "16 - Mathematics/Mathematical Modeling and Functional Reasoning/The Art of Problem Solving Vol 1"
+    "17 - Chemistry/Chemistry - The Central Science (14th Edition)/Practice Problems/Chapter 1 - Introduction - Matter, Energy, and Measurement Practice Problems Solutions.md",
+    "17 - Chemistry/Chemistry - The Central Science (14th Edition)/Practice Problems/Chapter 2 - Atoms, Molecules, and Ions Practice Problems.md",
+    "17 - Chemistry/Chemistry - The Central Science (14th Edition)/Practice Problems/Chapter 2 - Atoms, Molecules, and Ions Practice Problems Solutions.md",
+    "17 - Chemistry/Chemistry - The Central Science (14th Edition)/Practice Problems/Chapter 3 - Chemical Reactions and Reaction Stoichiometry Practice Problems.md",
+    "17 - Chemistry/Chemistry - The Central Science (14th Edition)/Practice Problems/Chapter 3 - Chemical Reactions and Reaction Stoichiometry Practice Problems Solutions.md",
+    "17 - Chemistry/Chemistry - The Central Science (14th Edition)/Practice Problems/Chapter 4 - Reactions in Aqueous Solution Practice Problems.md",
+    "17 - Chemistry/Chemistry - The Central Science (14th Edition)/Practice Problems/Chapter 4 - Reactions in Aqueous Solution Practice Problems Solutions.md",
+    "17 - Chemistry/Chemistry - The Central Science (14th Edition)/Practice Problems/Chapter 5 - Thermochemistry Practice Problems.md",
+    "17 - Chemistry/Chemistry - The Central Science (14th Edition)/Practice Problems/Chapter 6 - Electronic Structure of Atoms Practice Problems.md",
+    "17 - Chemistry/Chemistry - The Central Science (14th Edition)/Practice Problems/Chapter 7 - Periodic Properties of the Elements Practice Problems.md",
+    "17 - Chemistry/Chemistry - The Central Science (14th Edition)/Practice Problems/Chapter 7 - Periodic Properties of the Elements Practice Problems Solutions.md",
+    "17 - Chemistry/Chemistry - The Central Science (14th Edition)/Practice Problems/Chapter 23 - Transition Metals and Coordination Chemistry Practice Problems.md",
+    "17 - Chemistry/Chemistry - The Central Science (14th Edition)/Practice Problems/Chapter 22 - Chemistry of the Nonmetals Practice Problems Solutions.md",
+    "11 - Images/Pasted Image 20260808202244_872.png",
+    "11 - Images/Pasted Image 20260808191645_381.png",
+    "11 - Images/Pasted Image 20260804020056_621.png",
+    "11 - Images/Pasted Image 20260804012735_258.png",
+    "11 - Images/Pasted Image 20260804012400_291.png",
+    "11 - Images/Pasted Image 20260804011902_009.png",
+    "11 - Images/Pasted Image 20260804010810_439.png"
   ]
 }

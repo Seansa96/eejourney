@@ -1,0 +1,1660 @@
+# Chapter 1 Practice Problems
+
+## Extracted problems
+
+# Problem 43
+
+43 . While traveling outside the United States, you
+feel sick. A companion gets you a thermometer,
+which says your temperature is 39. What scale is
+that on? What is your Fahrenheit temperature?
+Should you seek medical help?
+
+# Problem 45
+
+45 . (a) Suppose a cold front blows into your locale
+and drops the temperature by 40.0 Fahrenheit
+degrees. How many degrees Celsius does the
+temperature decrease when it decreases by
+? (b) Show that any change in
+temperature in Fahrenheit degrees is nine-fifths
+the change in Celsius degrees
+
+# Problem 47
+
+47 . (a) At what temperature do the Fahrenheit and
+Celsius scales have the same numerical value?
+(b) At what temperature do the Fahrenheit and
+Kelvin scales have the same numerical value?
+
+# Problem 49
+
+49 . The height of the Washington Monument is
+measured to be 170.00 m on a day when the
+temperature is  What will its height be
+on a day when the temperature falls to
+? Although the monument is made of
+limestone, assume that its coefficient of thermal
+expansion is the same as that of marble. Give
+your answer to five significant figures.
+
+# Problem 51
+
+51 . What is the change in length of a 3.00-cm-long
+column of mercury if its temperature changes
+from  to , assuming the mercury
+is constrained to a cylinder but unconstrained in
+length? Your answer will show why
+thermometers contain bulbs at the bottom
+instead of simple columns of liquid.
+
+# Problem 53
+
+53 . You are looking to buy a small piece of land in
+Hong Kong. The price is “only” $60,000 per
+square meter. The land title says the dimensions
+are . By how much would the total
+price change if you measured the parcel with a
+steel tape measure on a day when the
+temperature was  above the temperature
+that the tape measure was designed for? The
+dimensions of the land do not change.
+
+# Problem 55
+
+55 . (a) Suppose a meter stick made of steel and one
+made of aluminum are the same length at .
+What is their difference in length at ? (b)
+Repeat the calculation for two 30.0-m-long
+surveyor’s tapes.
+
+# Problem 57
+
+57 . Most cars have a coolant reservoir to catch
+radiator fluid that may overflow when the engine
+is hot. A radiator is made of copper and is filled
+to its 16.0-L capacity when at . What
+volume of radiator fluid will overflow when the
+radiator and fluid reach a temperature of
+ given that the fluid’s volume coefficient
+of expansion is ? (Your
+answer will be a conservative estimate, as most
+car radiators have operating temperatures
+greater than ).
+
+# Problem 59
+
+59 . The density of water at  is very nearly
+ (it is actually ),
+whereas the density of ice at  is
+Calculate the pressure necessary to keep ice
+from expanding when it freezes, neglecting the
+effect such a large pressure would have on the
+freezing temperature. (This problem gives you
+only an indication of how large the forces
+associated with freezing water might be.)
+
+# Problem 61
+
+61 . On a hot day, the temperature of an 80,000-L
+swimming pool increases by . What is
+the net heat transfer during this heating? Ignore
+any complications, such as loss of water by
+evaporation.
+
+# Problem 63
+
+63 . The same heat transfer into identical masses of
+different substances produces different
+temperature changes. Calculate the final
+temperature when 1.00 kcal of heat transfers
+into 1.00 kg of the following, originally at
+: (a) water; (b) concrete; (c) steel; and (d)
+mercury.
+
+# Problem 65
+
+65 . A  block of a pure material is heated
+from  to  by the addition of 4.35
+kJ of energy. Calculate its spec
+ific heat and
+identify the substance of which it is most likely
+composed.
+
+# Problem 67
+
+67 . (a) The number of kilocalories in food is
+determined by calorimetry techniques in which
+the food is burned and the amount of heat
+transfer is measured. How many kilocalories per
+gram are there in a 5.00-g peanut if the energy
+from burning it is transferred to 0.500 kg of
+water held in a 0.100-kg aluminum cup, causing
+a  temperature increase? Assume the
+process takes place in an ideal calorimeter, in
+54     1 • Chapter Review
+
+other words a perfectly insulated container. (b)
+Compare your answer to the following labeling
+information found on a package of dry roasted
+peanuts: a serving of 33 g contains 200 calories.
+Comment on whether the values are consistent.
+
+# Problem 69
+
+69 . In a study of healthy young men1 , doing 20
+push-ups in 1 minute burned an amount of
+energy per kg that for a 70.0-kg man
+corresponds to 8.06 calories (kcal). How much
+would a 70.0-kg man’s temperature rise if he did
+not lose any heat during that time?
+
+# Problem 71
+
+71 . Repeat the preceding problem, assuming the
+water is in a glass beaker with a mass of 0.200
+kg, which in turn is in a calorimeter. The beaker
+is initially at the same temperature as the water.
+Before doing the problem, should the answer be
+higher or lower than the preceding answer?
+Comparing the mass and specific heat of the
+beaker to those of the water, do you think the
+beaker will make much difference?
+1.5 Phase Changes
+
+# Problem 73
+
+73 . A bag containing  ice is much more effective
+in absorbing energy than one containing the
+same amount of  water. (a) How much heat
+transfer is necessary to raise the temperature of
+0.800 kg of water from  to ? (b) How
+much heat transfer is required to first melt 0.800
+kg of  ice and then raise its temperature to
+? (c) Explain how your answer supports
+the contention that the ice is more effective.
+
+# Problem 75
+
+75 . Condensation on a glass of ice water causes the
+ice to melt faster than it would otherwise. If 8.00
+g of vapor condense on a glass containing both
+water and 200 g of ice, how many grams of the
+ice will melt as a result? Assume no other heat
+transfer occurs. Use  for water at  as a
+better approximation than  for water at
+.)
+
+# Problem 77
+
+77 . On a certain dry sunny day, a swimming pool’s
+temperature would rise by  if not for
+evaporation. What fraction of the water must
+evaporate to carry away precisely enough energy
+to keep the temperature constant?
+
+# Problem 79
+
+79 . In 1986, an enormous iceberg broke away from
+the Ross Ice Shelf in Antarctica. It was an
+approximately rectangular prism 160 km long,
+40.0 km wide, and 250 m thick. (a) What is the
+mass of this iceberg, given that the density of ice
+is ? (b) How much heat transfer (in
+joules) is needed to melt it? (c) How many years
+would it take sunlight alone to melt ice this thick,
+if the ice absorbs an average of ,
+12.00 h per day?
+
+# Problem 81
+
+81 . (a) It is difficult to extinguish a fire on a crude oil
+tanker, because each liter of crude oil releases
+ of energy when burned. To
+illustrate this difficulty, calculate the number of
+liters of water that must be expended to absorb
+the energy released by burning 1.00 L of crude
+oil, if the water’s temperature rises from
+to , it boils, and the resulting steam’s
+temperature rises to  at constant
+pressure. (b) Discuss additional complications
+caused by the fact that crude oil is less dense
+than water.
+
+# Problem 83
+
+83 . To help prevent frost damage, 4.00 kg of water
+at  is sprayed onto a fruit tree. (a) How much
+heat transfer occurs as the water freezes? (b)
+How much would the temperature of the 200-kg
+tree decrease if this amount of heat transferred
+from the tree? Take the specific heat to be
+, and assume that no phase
+change occurs in the tree.
+
+# Problem 85
+
+85 . A 0.0500-kg ice cube at  is placed in
+0.400 kg of  water in a very well-
+insulated container. What is the final
+temperature?
+
+# Problem 87
+
+87 . Indigenous people sometimes cook in
+watertight baskets by placing hot rocks into
+water to bring it to a boil. What mass of
+granite must be placed in 4.00 kg of
+water to bring its temperature to , if
+0.0250 kg of water escapes as vapor from the
+initial sizzle? You may neglect the effects of the
+surroundings.
+
+# Problem 89
+
+89 . (a) Calculate the rate of heat conduction through
+house walls that are 13.0 cm thick and have an
+average thermal conductivity twice that of glass
+wool. Assume there are no windows or doors.
+The walls’ surface area is  and their
+inside surface is at , while their outside
+surface is at . (b) How many 1-kW room
+heaters would be needed to balance the heat
+transfer due to conduction?
+
+# Problem 91
+
+91 . Calculate the rate of heat conduction out of the
+human body, assuming that the core internal
+temperature is , the
+ skin temperature is
+, the thickness of the fatty tissues
+between the core and the skin averages 1.00
+cm, and the surface area is .
+
+# Problem 93
+
+93 . A man consumes 3000 kcal of food in one day,
+converting most of it to thermal energy to
+maintain body temperature. If he loses half this
+energy by evaporating water (through breathing
+56     1 • Chapter Review
+
+and sweating), how many kilograms of water
+evaporate?
+
+# Problem 95
+
+95 . (a) What is the rate of heat conduction through
+the 3.00-cm-thick fur of a large animal having a
+ surface area? Assume that the animal’s
+skin temperature is , that the air
+temperature is , and that fur has the
+same thermal conductivity as air. (b) What food
+intake will the animal need in one day to replace
+this heat transfer?
+
+# Problem 97
+
+97 . Compare the rate of heat conduction through a
+13.0-cm-thick wall that has an area of
+and a thermal conductivity twice that of glass
+wool with the rate of heat conduction through a
+0.750-cm-thick window that has an area of
+, assuming the same temperature
+difference across each.
+
+# Problem 99
+
+99 . Some stove tops are smooth ceramic for easy
+cleaning. If the ceramic is 0.600 cm th
+ick and
+heat conduction occurs through a 14 cm radius
+and at a rate of 2256 W, what is the temperature
+difference across it? Ceramic has the same
+thermal conductivity as glass and brick.
+
+# Problem 101
+
+101 . Many decisions are made on the basis of the
+payback period: the time it will take through
+savings to equal the capital cost of an
+investment. Acceptable payback times depend
+upon the business or philosophy one has. (For
+some industries, a payback period is as small as
+2 years.) Suppose you wish to install the extra
+insulation in the preceding problem. If energy
+cost  per million joules and the insulation
+was $4.00 per square meter, then calculate the
+simple payback time. Take the average  for
+the 120-day heating season to be
+Additional Problems
+
+# Problem 103
+
+103 . What is the percent error of thinking the melting
+point of tungsten is  instead of the
+correct value of 3695 K?
+
+# Problem 105
+
+105 . How much stress is created in a steel beam if its
+temperature changes from  to  but
+it cannot expand? For steel, the Young’s
+modulus  from Stress,
+Strain, and Elastic Modulus (http://openstax.org/
+books/university-physics-volume-1/pages/
+12-3-stress-strain-and-elastic-modulus).
+(Ignore the change in area resulting from the
+expansion.)
+
+# Problem 107
+
+107 . A mercury thermometer still in use for
+meteorology has a bulb with a volume of
+ and a tube for the mercury to expand
+into of inside diameter 0.130 mm. (a) Neglecting
+the thermal expansion of the glass, what is the
+spacing between marks  apart? (b) If the
+thermometer is made of ordinary glass (not a
+good idea), what is the spacing?
+
+# Problem 109
+
+109 . You leave a pastry in the refrigerator on a plate
+and ask your roommate to take it out before you
+get home so you can eat it at room temperature,
+the way you like it. Instead, your roommate
+plays video games for hours. When you return,
+you notice that the pastry is still cold, but the
+game console has become hot. Annoyed, and
+knowing that the pastry will not be good if it is
+microwaved, you warm up the
+ pastry by
+unplugging the console and putting it in a clean
+trash bag (which acts as a perfect calorimeter)
+with the pastry on the plate. After a while, you
+find that the equilibrium temperature is a nice,
+warm . You know that the game console
+has a mass of 2.1 kg. Approximate it as having a
+uniform initial temperature of . The pastry
+has a mass of 0.16 kg and a specific heat of
+ and is at a uniform initial
+temperature of . The plate is at the same
+temperature and has a mass of 0.24 kg and a
+specific heat of . What is the
+specific heat of the console?
+
+# Problem 111
+
+111 . In some countries, liquid nitrogen is used on
+dairy trucks instead of mechanical refrigerators.
+A 3.00-hour delivery trip requires 200 L of liquid
+nitrogen, which has a density of  (a)
+Calculate the heat transfer necessary to
+evaporate this amount of liquid nitrogen and
+raise its temperature to . (Use  and
+assume it is constant over the temperature
+range.) This value is the amount of cooling the
+liquid nitrogen supplies. (b) What is this heat
+transfer rate in kilowatt-hours? (c) Compare the
+amount of cooling obtained from melting an
+identical mass of  ice with that from
+evaporating the liquid nitrogen.
+
+# Problem 113
+
+113 . A 0.800-kg iron cylinder at a temperature of
+ is dropped into an insulated
+chest of
+1.00 kg of ice at its melting point. What
+is the final temperature, and how much ice has
+melted?
+
+# Problem 115
+
+115 . Repeat the preceding problem with 0.500 kg of
+ice, assuming that the ice is initially in a copper
+container of mass 1.50 kg in equilibrium with the
+ice.
+
+# Problem 117
+
+117 . (a) Calculate the rate of heat conduction through
+a double-paned window that has a  area
+and is made of two panes of 0.800-cm-thick
+glass separated by a 1.00-cm air gap. The inside
+58     1 • Chapter Review
+
+surface temperature is  while that on
+the outside is  (Hint: There are
+identical temperature drops across the two glass
+panes. First find these and then the temperature
+drop across the air gap. This problem ignores the
+increased heat transfer in the air gap due to
+convection.) (b) Calculate the rate of heat
+conduction through a 1.60-cm-thick window of
+the same area and with the same temperatures.
+Compare your answer with that for part (a).
+
+# Problem 119
+
+119 . For the human body, what is the rate of heat
+transfer by conduction through the body’s tissue
+with the following conditions: the tissue
+thickness is 3.00 cm, the difference in
+temperature is , and the skin area is
+. How does this compare with the
+average heat transfer rate to the body resulting
+from an energy intake of about 2400 kcal per
+day? (No exercise is included.)
+
+# Problem 121
+
+121 . An infrared heater for a sauna has a surface area
+of  and an emissivity of 0.84. What
+temperature must it run at if the required power
+is 360 W? Neglect the temperature of the
+environment.
+
+# Problem 123
+
+123 . A pendulum is made of a rod of length L and
+negligible mass, but capable of thermal
+expansion, and a weight of negligible size. (a)
+Show that when the temperature increases by
+dT, the period of the pendulum increases by a
+fraction . (b) A clock controlled by a brass
+pendulum keeps time correctly at . If the
+room temperature is , does the clock run
+faster or slower? What is its error in seconds per
+day?
+
+# Problem 125
+
+125 . In a calorimeter of negligible h
+eat capacity, 200
+
+g of steam at  and 100 g of ice at
+are mixed. The pressure is maintained at 1 atm.
+What is the final temperature, and how much
+steam, ice, and water are present?
+
+# Problem 127
+
+127 . Find the growth of an ice layer as a function of
+time in a Dewar flask as seen in Exercise 1.120.
+Call the thickness of the ice layer L. (a) Derive an
+equation for dL/dt in terms of L , the
+temperature T above the ice, and the properties
+of ice (which you can leave in symbolic form
+instead of substituting the numbers). (b) Solve
+this differential equation assuming that at ,
+you have  If you have studied differential
+equations, you will know a technique for solving
+equations of this type: manipulate the equation
+to get dL/dt multiplied by a (very simple)
+function of L on one side, and integrate both
+sides with respect to time. Alternatively, you
+may be able to use your knowledge of the
+derivatives of various functions to guess the
+solution,
+ which has a simple dependence on t.
+(c) Will the water eventually freeze to the bottom
+of the flask?
+
+# Problem 129
+
+129 . Let’s stop ignoring the greenhouse effect and
+incorporate it into the previous problem in a very
+rough way. Assume the atmosphere is a single
+layer, a spherical shell around Earth, with an
+emissivity  (chosen simply to give the
+right answer) at infrared wavelengths emitted by
+Earth and by the atmosphere. However, the
+atmosphere is transparent to the Sun’s radiation
+(that is, assume the radiation is at visible
+wavelengths with no infrared), so the Sun’s
+radiation reaches the surface. The greenhouse
+effect comes from the difference between the
+atmosphere’s transmission of visible light and its
+rather strong absorption of infrared. Note that
+the atmosphere’s radius is not signifi
+cantly
+different from Earth’s, but since the atmosphere
+is a layer above Earth, it emits radiation both
+upward and downward, so it has twice Earth’s
+area. There are three radiative energy transfers
+in this problem: solar radiation absorbed by
+Earth’s surface; infrared radiation from the
+surface, which is absorbed by the atmosphere
+according to its emissivity; and infrared radiation
+from the atmosphere, half of which is absorbed
+by Earth and half of which goes out into space.
+Apply the method of the previous problem to get
+an equation for Earth’s surface and one for the
+atmosphere, and solve them for the two
+unknown temperatures, surface and
+atmosphere.
+a. In terms of Earth’s radius, the constant ,
+and the unknown temperature  of the
+surface, what is the power of the infrared
+radiation from the surface?
+b. What is the power of Earth’s radiation
+absorbed by the atmosphere?
+c. In terms of the unknown temperature
+of the atmosphere, what is the power
+radiated from the atmosphere?
+d. Write an equation that says the power of
+60     1 • Chapter Review
+
+the radiation the atmosphere absorbs
+from Earth equals the power of the
+radiation it emits.
+e. Half of the power radiated by the
+atmosphere hits Earth. Write an equation
+that says that the power Earth absorbs
+from the atmosphere and the Sun equals
+the power that it emits.
+f. Solve your two equations for the unknown
+temperature of Earth.
+
+62     1 • Chapter Review
+
+INTRODUCTION
+CHAPTER 2
+The Kinetic Theory of Gases
+2.1 Molecular Model of an Ideal Gas
+2.2 Pressure, Temperature, and RMS Speed
+2.3 Heat Capacity and Equipartition of Energy
+2.4 Distribution of Molecular Speeds
+Gases are literally all around us—the air that we breathe is a mixture of gases. Other gases include
+those that make breads and cakes soft, those that make drinks fizzy, and those that burn to heat many homes.
+Engines and refrigerators depend on the behaviors of gases, as we will see in later chapters.
+As we discussed in the preceding chapter, the study of heat and temperature is part of an area of physics known as
+thermodynamics, in which we require a system to be macroscopic, that is, to consist of a huge number (such as
+) of molecules. We begin by considering some macroscopic properties of gases: volume, pressure, and
+temperature. The simple model of a hypothetical “ideal gas” describes these properties of a gas very accurately
+under many conditions. We move from the ideal gas model to a more widely applicable approximation, called the
+Van der Waals model.
+To understand gases even better, we must also look at them on the microscopic scale of molecules. In gases, the
+molecules interact weakly, so the microscopic behavior of gases is relatively simple, and they serve as a good
+introduction to systems of many molecules. The molecular model of gases is called the kinetic theory of gases and is
+one of the classic examples of a molecular model that explains everyday behavior.
+FIGURE 2.1 A volcanic eruption releases tons of gas and dust into the atmosphere. Most of the gas is water vapor, but several other gases
+are common, including greenhouse gases such as carbon dioxide and acidic pollutants such as sulfur dioxide. However, the emiss
+ion of
+volcanic gas is not all bad: Many geologists believe that in the earliest stages of Earth’s formation, volcanic emissions formed the early
+atmosphere. (credit: modification of work by “Boaworm”/Wikimedia Commons)
+CHAPTER OUTLINE
+
+2.1 Molecular Model of an Ideal Gas
+LEARNING OBJECTIVES
+By the end of this section, you will be able to:
+• Apply the ideal gas law to situations involving the pressure, volume, temperature, and the number of
+molecules of a gas
+• Use the unit of moles in relation to numbers of molecules, and molecular and macroscopic masses
+• Explain the ideal gas law in terms of moles rather than numbers of molecules
+• Apply the van der Waals gas law to situations where the ideal gas law is inadequate
+In this section, we explore the thermal behavior of gases. Our word “gas” comes from the Flemish word meaning
+“chaos,” first used for vapors by the seventeenth-century chemist J. B. van Helmont. The term was more
+appropriate than he knew, because gases consist of molecules moving and colliding with each other at random. This
+randomness makes the connection between the microscopic and macroscopic domains simpler for gases than for
+liquids or solids.
+How do gases differ from solids and liquids? Under ordinary conditions, such as those of the air around us, the
+difference is that the molecules of gases are much farther apart than those of solids and liquids. Because the typical
+distances between molecules are large compared to the size of a molecule, as illustrated in Figure 2.2, the forces
+between them are considered negligible, except when they come into contact with each other during collisions.
+Also, at temperatures well above the boiling temperature, the motion of molecules is fast, and the gases expand
+rapidly to occupy all of the accessible volume. In contrast, in liquids and solids, molecules are closer together, and
+the behavior of molecules in liquids and solids is highly constrained by the molecules’ interactions with one another.
+The macroscopic prope
+rties of such substances depend strongly on the forces between the molecules, and since
+many molecules are interacting, the resulting “many-body problems” can be extremely complicated (see
+Condensed Matter Physics (http://openstax.org/books/university-physics-volume-3/pages/9-introduction)).
+FIGURE 2.2 Atoms and molecules in a gas are typically widely separated. Because the forces between them are quite weak at these
+distances, the properties of a gas depend more on the number of atoms per unit volume and on temperature than on the type of atom.
+The Gas Laws
+In the previous chapter, we saw one consequence of the large intermolecular spacing in gases: Gases are easily
+compressed. Table 1.2 shows that gases have larger coefficients of volume expansion than either solids or liquids.
+These large coefficients mean that gases expand and contract very rapidly with temperature changes. We also saw
+(in the section on thermal expansion) that most gases expand at the same rate or have the same coefficient of
+volume expansion, . This raises a question: Why do all gases act in nearly the same way, when all the various
+liquids and solids have widely varying expansion rates?
+To study how the pressure, temperature, and volume of a gas relate to one another, consider what happens when
+you pump air into a deflated car tire. The tire’s volume first increases in direct proportion to the amount of air
+injected, without much increase in the tire pressure. Once the tire has expanded to nearly its full size, the tire’s walls
+limit its volume expansion. If we continue to pump air into the tire, the pressure increases. When the car is driven
+and the tires flex, their temperature increases, and therefore the pressure increases even further (Figure 2.3).
+64 2 • The Kinetic Theory
+of Gases
+
+FIGURE 2.3 (a) When air is pumped into a deflated tire, its volume first increases without much increase in pressure. (b) When the tire is
+filled to a certain point, the tire walls resist further expansion, and the pressure increases with more air. (c) Once the tire is inflated, its
+pressure increases with temperature.
+Figure 2.4 shows data from the experiments of Robert Boyle (1627–1691), illustrating what is now called Boyle’s
+law: At constant temperature and number of molecules, the absolute pressure of a gas and its volume are inversely
+proportional. (Recall from Fluid Mechanics (http://openstax.org/books/university-physics-volume-1/pages/
+14-introduction) that the absolute pressure is the true pressure and the gauge pressure is the absolute pressure
+minus the ambient pressure, typically atmospheric pressure.) The graph in Figure 2.4 displays this relationship as an
+inverse proportionality of volume to pressure.
+FIGURE 2.4 Robert Boyle and his assistant found that volume and pressure are inversely proportional. Here their data are plotted as V
+versus 1/p; the linearity of the graph shows the inverse proportionality. The number shown as the volume is actually the height in inches of
+air in a cylindrical glass tube. The actual volume was that height multiplied by the cross-sectional area of the tube, which Boyle did not
+publish. The data are from Boyle’s book A Defence of the Doctrine Touching the Spring and Weight of the Air…, p. 60.1
+Figure 2.5 shows experimental data illustrating what is called Charles’s law, after Jacques Charles (1746–1823).
+Charles’s law states that at constant pressure and number of molecules, the volume of a gas is proportional to its
+absolute temperature.
+1 http://bvpb.mcu.es/en/consulta/registro.cmd?id=406806
+2.1 •
+Molecular Model of an Ideal Gas 65
+
+FIGURE 2.5 Experimental data showing that at constant pressure, volume is approximately proportional to temperature. The best-fit line
+passes approximately through the origin.2
+Similar is Amonton’s or Gay-Lussac’s law, which states that at constant volume and number of molecules, the
+pressure is proportional to the temperature. That law is the basis of the constant-volume gas thermometer,
+discussed in the previous chapter. (The histories of these laws and the appropriate credit for them are more
+complicated than can be discussed here.)
+It is known experimentally that for gases at low density (such that their molecules occupy a negligible fraction of the
+total volume) and at temperatures well above the boiling point, these proportionalities hold to a good
+approximation. Not surprisingly, with the other quantities held constant, either pressure or volume is proportional to
+the number of molecules. More surprisingly, when the proportionalities are combined into a single equation, the
+constant of proportionality is independent of the composition of the gas. The resulting equation for all gases applies
+in the limit of low density and high temperature; it’s the same for oxygen as for helium or uranium hexafluoride. A
+gas at that limit is called an ideal gas; it obeys the ideal gas law, which is also called the equation of state of an
+ideal gas.
+The constant  is called the Boltzmann constant in honor of the Austrian physicist Ludwig Boltzmann
+(1844–1906) and has the value
+The ideal gas law describes the behavior of any real gas when its density is low enough or its temperature high
+enough that it is far from liquefaction. This encompasses many practical situations. In the next section, we’ll see
+why it’s independent of the type of gas.
+In many situ
+ations, the ideal gas law is applied to a sample of gas with a constant number of molecules; for
+instance, the gas may be in a sealed container. If N is constant, then solving for N shows that pV /T is constant. We
+IDEAL GAS LAW
+The ideal gas law states that
+where p is the absolute pressure of a gas, V is the volume it occupies, N is the number of molecules in the gas,
+and T is its absolute temperature.
+2.1
+2 http://chemed.chem.purdue.edu/genchem/history/charles.html
+66 2 • The Kinetic Theory of Gases
+
+can write that fact in a convenient form:
+where the subscripts 1 and 2 refer to any two states of the gas at different times. Again, the temperature must be
+expressed in kelvin and the pressure must be absolute pressure, which is the sum of gauge pressure and
+atmospheric pressure.
+EXAMPLE 2.1
+Calculating Pressure Changes Due to Temperature Changes
+Suppose your bicycle tire is fully inflated, with an absolute pressure of  (a gauge pressure of just
+under ) at a temperature of  What is the pressure after its temperature has risen to  on a
+hot day? Assume there are no appreciable leaks or changes in volume.
+Strategy
+The pressure in the tire is changing only because of changes in temperature. We know the initial pressure
+ the initial temperature  and the final temperature  We must find
+the final pressure  Since the number of molecules is constant, we can use the equation
+Since the volume is constant,  and  are the same and they divide out. Therefore,
+We can then rearrange this to solve for
+where the temperature must be in kelvin.
+Solution
+1. Convert temperatures from degrees Celsius to kelvin
+2. Substitute the known values into the equation,
+Significance
+The final temperature is about  greater than the original temperature, so the final pressure is about  greater as
+well. Note that absolute pressure (see Fluid Mechanics (http://openstax.org/books/university-physics-volume-1/
+pages/14-introduction)) and absolute temperature (see Temperature and Heat) must be used in the ideal gas law.
+EXAMPLE 2.2
+Calculating the Number of Molecules in a Cubic Meter of Gas
+How many molecules are in a typical object, such as gas in a tire or water in a glass? This calculation can give us an
+idea of how large N typically is. Let’s calculate the number of molecu
+les in the air that a typical healthy young adult
+2.2
+2.1 • Molecular Model of an Ideal Gas 67
+
+inhales in one breath, with a volume of 500 mL, at standard temperature and pressure (STP), which is defined as
+ and atmospheric pressure. (Our young adult is apparently outside in winter.)
+Strategy
+Because pressure, volume, and temperature are all specified, we can use the ideal gas law,  to find N.
+Solution
+1. Identify the knowns.
+2. Substitute the known values into the equation and solve for N.
+Significance
+N is huge, even in small volumes. For example,  of a gas at STP contains  molecules. Once again,
+note that our result for N is the same for all types of gases, including mixtures.
+As we observed in the chapter on fluid mechanics, pascals are , so  Thus, our result for N
+is dimensionless, a pure number that could be obtained by counting (in principle) rather than measuring. As it is the
+number of molecules, we put “molecules” after the number, keeping in mind that it is an aid to communication
+rather than a unit.
+Moles and Avogadro’s Number
+It is often convenient to measure the amount of substance with a unit on a more human scale than molecules. The
+SI unit for this purpose was developed by the Italian scientist Amedeo Avogadro (1776–1856). (He worked from the
+hypothesis that equal volumes of gas at equal pressure and temperature contain equal numbers of molecules,
+independent of the type of gas. As mentioned above, this hypothesis has been confirmed when the ideal gas
+approximation applies.) A mole (abbreviated mol) is the base SI unit representing the number of elementary entities
+(atoms, molecules, particles, etc.) and was historically defined as the number of atoms in 12 grams of 12C. The
+number of molecules in one mole is called Avogadro’s number  and the value of Avogadro’s number is now
+known to be
+We can now write , where n
+ represents the number of moles of a substance.
+Avogadro’s number relates the mass of an amount of substance in grams to the number of protons and neutrons in
+an atom or molecule (12 for a carbon-12 atom), which roughly determine its mass. It’s natural to define a unit of
+mass such that the mass of an atom is approximately equal to its number of neutrons and protons. The unit of that
+kind accepted for use with the SI is the unified atomic mass unit (u), also called the dalton. Specifically, a carbon-12
+atom has a mass of exactly 12 u, so that its molar mass M in grams per mole is numerically equal to the mass of one
+carbon-12 atom in u. That equality holds for any substance. In other words,  is not only the conversion from
+numbers of molecules to moles, but it is also the conversion from u to grams:  See Figure 2.6.
+FIGURE 2.6 How big is a mole? On a macroscopic level, Avogadro’s number of table tennis balls would cover Earth to a depth of about 40
+km.
+68 2 • The Kinetic Theory of Gases
+
+Now letting  stand for the mass of a sample of a substance, we have  Letting m stand for the mass of a
+molecule, we have
+CHECK YOUR UNDER STANDING 2.1
+The recommended daily amount of vitamin  or niacin,  for women who are not pregnant or nursing, is
+14 mg. Find the number of molecules of niacin in that amount.
+CHECK YOUR UNDER STANDING 2.2
+The density of air in a classroom  and  is . At what pressure is the density
+ if the temperature is kept constant?
+The Ideal Gas Law Restated using Moles
+A very common expression of the ideal gas law uses the number of moles in a sample, n, rather than the number of
+molecules, N. We start from the ideal gas law,
+and multiply and divide the right-hand side of the equation by Avogadro’s number  This gives us
+Note that  is the number of moles. We define the universal gas constant as  and obtain the
+ideal gas law in terms of moles.
+EXAMPLE 2.3
+Density of Air at STP and in a Hot Air Balloon
+Calculate the density of dry air (a) under standard conditions and (b) in a hot air balloon at a temperature of .
+Dry air is approximately  and .
+Strategy and Solution
+a. We are asked to find the density, or mass per cubic meter. We can begin by finding the molar mass. If we have
+a hundred molecules, of which 78 are nitrogen, 21 are oxygen, and 1 is argon, the average molecular mass is
+, or the mass of each constituent multiplied by its percentage. The same applies to the
+IDEAL GAS LAW (IN TERMS OF MOLES)
+In terms of number of moles n, the ideal gas law is written as
+In SI units,
+In other units,
+You can use whichever value of R is most convenient for a particular problem.
+2.3
+2.1 • Molecular Model of an Ideal Gas 69
+
+molar mass, which therefore is
+Now we can find the number of moles per cubic meter. We use the ideal gas law in terms of moles,
+ with , , , and . The most convenient choice
+for R in this case is  because the known quantities are in SI units:
+Then, the mass  of that air is
+Finally the density of air at STP is
+b. The air pressure inside the balloon is still 1 atm because the bottom of the balloon is open to the atmosphere.
+The calculation is the same except that we use a temperature of , which is 393 K. We can repeat the
+calculation in (a), or simply observe that the density is proportional to the number of moles, which is inversely
+proportional to the temperature. Then using the subscripts 1 for air at STP and 2 for the hot air, we have
+Significance
+Using the methods of Archimedes’ Principle and Buoyancy (http://openstax.org/books/university-physics-volume-1/
+pages/14-4-archimedes-principle-and-buoyancy), we can find that the net force on  of air at  is
+ or enough to lift about 867 kg. The mass density and
+molar density of air at STP, found above, are often useful numbers. From the molar density, we can easily determine
+another useful number, the volume of a mole of any ideal gas at STP, which is 22.4 L.
+CHECK YOUR UNDER STANDING 2.3
+Liquids and solids have densities on the order of 1000 times greater than gases. Explain how this implies that the
+distances between molecules in gases are on the order of 10 times greater than the size of their molecules.
+The ideal gas law is closely related to conservation of energy: The units on both sides of the equation are joules. The
+right-hand side of the ideal gas law equation is  This term is roughly the total translational kinetic energy
+(which, when discussing gases, refers to the energy of translati
+on of a molecule, not that of vibration of its atoms or
+rotation) of N molecules at an absolute temperature T, as we will see formally in the next section. The left-hand side
+of the ideal gas law equation is pV. As mentioned in the example on the number of molecules in an ideal gas,
+pressure multiplied by volume has units of energy. The energy of a gas can be changed when the gas does work as it
+increases in volume, something we explored in the preceding chapter, and the amount of work is related to the
+pressure. This is the process that occurs in gasoline or steam engines and turbines, as we’ll see in the next chapter.
+PROBLEM-SOL VING S TRATEGY
+The Ideal Gas Law
+Step 1. Examine the situation to determine that an ideal gas is involved. Most gases are nearly ideal unless they are
+close to the boiling point or at pressures far above atmospheric pressure.
+Step 2. Make a list of what quantities are given or can be inferred from the problem as stated (identify the known
+quantities).
+70 2 • The Kinetic Theory of Gases
+
+Step 3. Identify exactly what needs to be determined in the problem (identify the unknown quantities). A written list
+is useful.
+Step 4. Determine whether the number of molecules or the number of moles is known or asked for to decide
+whether to use the ideal gas law as  where N is the number of molecules, or  where n is
+the number of moles.
+Step 5. Convert known values into proper SI units (K for temperature, Pa for pressure,  for volume, molecules for
+N, and moles for n). If the units of the knowns are consistent with one of the non-SI values of R, you can leave them
+in those units. Be sure to use absolute temperature and absolute pressure.
+Step 6. Solve the ideal gas law for the quantity to be determined (the unknown quantity). You may need to take a
+ratio of final states to initial states to eliminate the unknown quantities that are kept fixed.
+Step 7. Substitute the known quantities, along with their units, into the appropriate equation and obtain numerical
+solutions complete with units.
+Step 8. Check the answer to see if it is reasonable: Does it make sense?
+The Van der Waals Equation of State
+We have repeatedly noted that the ideal gas law is an approximation. How can it be improved upon? The van der
+Waals equation of state (named after the Dutch physicist Johannes van der Waals, 1837−1923) improves it by
+taking into account two factors. First, the attractive forces between molecules, which are stronger at higher density
+and reduce the pressure, are taken into account by adding to the pressure a term equal to the square of the molar
+density multiplied by a positive coefficient a. Second, the volume of the molecules is represented by a positive
+constant b, which can be thought of as the volume of a mole of molecules. This is subtracted
+from the total volume
+to give the remaining volume that the molecules can move in. The constants a and b are determined experimentally
+for each gas. The resulting equation is
+In the limit of low density (small n), the a and b terms are negligible, and we have the ideal gas law, as we should for
+low density. On the other hand, if  is small, meaning that the molecules are very close together, the pressure
+must be higher to give the same nRT, as we would expect in the situation of a highly compressed gas. However, the
+increase in pressure is less than that argument would suggest, because at high density the  term is
+significant. Since it’s positive, it causes a lower pressure to give the same nRT.
+The van der Waals equation of state works well for most gases under a wide variety of conditions. As we’ll see in the
+next module, it even predicts the gas-liquid transition.
+pV Diagrams
+We can examine aspects of the behavior of a substance by plotting a pV diagram, which is a graph of pressure
+versus volume. When the substance behaves like an ideal gas, the ideal gas law  describes the
+relationship between its pressure and volume. On a pV diagram, it’s common to plot an isotherm, which is a curve
+showing p as a function of V with the number of molecules and the temperature fixed. Then, for an ideal gas,
+ For example, the volume of the gas decreases as the pressure increases. The resulting graph is a
+hyperbola.
+However, if we assume the van der Waals equation of state, the isotherms become more interesting, as shown in
+Figure 2.7. At high temperatures, the curves are approximately hyperbolas, representing approximately ideal
+behavior at various fixed temperatures. At lower temperatures, the curves look less and less like hyperbolas—that
+is, the gas is not beha
+ving ideally. There is a critical temperature  at which the curve has a point with zero slope.
+Below that temperature, the curves do not decrease monotonically; instead, they each have a “hump,” meaning that
+for a certain range of volume, increasing the volume increases the pressure.
+2.4
+2.1 • Molecular Model of an Ideal Gas 71
+
+FIGURE 2.7 pV diagram for a Van der Waals gas at various temperatures. The red curves are calculated at temperatures above the critical
+temperature and the blue curves at temperatures below it. The blue curves have an oscillation in which volume (V) increases with
+increasing pressure (P), an impossible situation, so they must be corrected as in Figure 2.8. (credit: “Eman”/Wikimedia Commons)
+Such behavior would be completely unphysical. Instead, the curves are understood as describing a liquid-gas phase
+transition. The oscillating part of the curve is replaced by a horizontal line, showing that as the volume increases at
+constant temperature, the pressure stays constant. That behavior corresponds to boiling and condensation; when a
+substance is at its boiling temperature for a particular pressure, it can increase in volume as some of the liquid turns
+to gas, or decrease as some of the gas turns to liquid, without any change in temperature or pressure.
+Figure 2.8 shows similar isotherms that are more realistic than those based on the van der Waals equation. The
+steep parts of the curves to the left of the transition region show the liquid phase, which is almost incompressible—a
+slight decrease in volume requires a large increase in pressure. The flat parts show the liquid-gas transition; the
+blue regions that they define represent combinations of pressure and volume where liquid and gas can coexist.
+FIGURE 2.8 pV diagrams. (a) Each curve (isotherm) represents the relationship between p and V at a fixed temperature; the upper curves
+are at higher temperatures. The lower curves are not hyperbolas because the gas is no longer an ideal gas. (b) An expanded portion of the
+72 2 • The Kinetic Theory of Gases
+
+pV diagram for low temperatures, where the phase can change from a gas to a liquid. The term “vapor” refers to the gas phase when it
+exists at a temperature below the boiling temperature.
+The isotherms above  do not go through the liquid-gas transition. Therefore, liquid cannot exist above that
+temperature, which is the critical temperature (described in the chapter on temperature and heat). At sufficiently
+low pressure above that temperature, the gas has the density of a liquid but will not condense; the gas is said to be
+supercritical. At higher pressure, it is solid. Carbon dioxide, for example, has no liquid phase at a temperature above
+. The critical pressure is the maximum pressure at which the liquid can exist. The point on the pV diagram at
+the critical pressure and temperature is the critical point (which you learned about in the chapter on temperature
+and heat). Table 2.1 lists representative critical temperatures and pressures.
+Substance Critical temperature Critical pressure
+K Pa atm
+Water 647.4 374.3 219.0
+Sulfur dioxide 430.7 157.6 78.0
+Ammonia 405.5 132.4 111.7
+Carbon dioxide 304.2 31.1 73.2
+Oxygen 154.8 –118.4 50.3
+Nitrogen 126.2 –146.9 33.6
+Hydrogen 33.3 –239.9 12.9
+Helium 5.3 –267.9 2.27
+TABLE 2.1 Critical Temperatures and Pressures for Various Substances
+2.2 Pressure, Temperature, and RMS Speed
+LEARNING OBJECTIVES
+By the end of this section, you will be able to:
+• Explain the relations between microscopic and macroscopic quantities in a gas
+• Solve problems involving mixtures of gases
+• Solve problems involving the distance and time between a gas molecule’s collisions
+We have examined pressure and temperature based on their macroscopic definitions. Pressure is the force divided
+by the area on which the force is exe
+rted, and temperature is measured with a thermometer. We can gain a better
+understanding of pressure and temperature from the kinetic theory of gases, the theory that relates the
+macroscopic properties of gases to the motion of the molecules they consist of. First, we make two assumptions
+about molecules in an ideal gas.
+1. There is a very large number N of molecules, all identical and each having mass m.
+2. The molecules obey Newton’s laws and are in continuous motion, which is random and isotropic, that is, the
+same in all directions.
+To derive the ideal gas law and the connection between microscopic quantities such as the energy of a typical
+molecule and macroscopic quantities such as temperature, we analyze a sample of an ideal gas in a rigid container,
+about which we make two further assumptions:
+3. The molecules are much smaller than the average distance between them, so their total volume is much less
+than that of their container (which has volume V). In other words, we take the Van der Waals constant b, the
+2.2 • Pressure, Temperature, and RMS Speed 73
+
+volume of a mole of gas molecules, to be negligible compared to the volume of a mole of gas in the container.
+4. The molecules make perfectly elastic collisions with the walls of the container and with each other. Other
+forces on them, including gravity and the attractions represented by the Van der Waals constant a, are
+negligible (as is necessary for the assumption of isotropy).
+The collisions between molecules do not appear in the derivation of the ideal gas law. They do not disturb the
+derivation either, since collisions between molecules moving with random velocities give new random velocities.
+Furthermore, if the velocities of gas molecules in a container are initially not random and isotropic, molecular
+collisions are what make them random and isotropic.
+We make still further assumptions that simplify the calculations but do not affect the result. First, we let the
+container be a rectangular box. Second, we begin by considering monatomic gases, those whose molecules consist
+of single atoms, such as helium. Then, we can assume that the atoms have no energy except their translational
+kinetic energy; for instance, they have neither rotational nor vibrational energy. (Later, we discuss the validity of this
+assumption for real monatomic gases and dispense with it to consider diatomic and polyatomic gases.)
+Figure 2.9 shows a collision of a gas molecule with the wall of a container, so that it exerts a force on the wall (by
+Newton’s third law). These collisions are the source of pressure in a gas. As the number of molecules increases, the
+number of collisions, and thus the pressure, increases. Similarly, if the average velocity of the molecules is higher,
+the gas pressure is higher.
+FIGURE 2.9 When a molecule collides with a rigid wall, the c
+omponent of its momentum perpendicular to the wall is reversed. A force is
+thus exerted on the wall, creating pressure.
+In a sample of gas in a container, the randomness of the molecular motion causes the number of collisions of
+molecules with any part of the wall in a given time to fluctuate. However, because a huge number of molecules
+collide with the wall in a short time, the number of collisions on the scales of time and space we measure fluctuates
+by only a tiny, usually unobservable fraction from the average. We can compare this situation to that of a casino,
+where the outcomes of the bets are random and the casino’s takings fluctuate by the minute and the hour. However,
+over long times such as a year, the casino’s takings are very close to the averages expected from the odds. A tank of
+gas has enormously more molecules than a casino has bettors in a year, and the molecules make enormously more
+collisions in a second than a casino has bets.
+A calculation of the average force exerted by molecules on the walls of the box leads us to the ideal gas law and to
+the connection between temperature and molecular kinetic energy. (In fact, we will take two averages: one over
+time to get the average force exerted by one molecule with a given velocity, and then another average over
+molecules with different velocities.) This approach was developed by Daniel Bernoulli (1700–1782), who is best
+74 2 • The Kinetic Theory of Gases
+
+known in physics for his work on fluid flow (hydrodynamics). Remarkably, Bernoulli did this work before Dalton
+established the view of matter as consisting of atoms.
+Figure 2.10 shows a container full of gas and an expanded view of an elastic collision of a gas molecule with a wall of
+the container, broken down into components. We have assumed that a molecule is small compared with the
+separation of molecules in the gas, and that its interaction with other molecules can be ignored. Under these
+conditions, the ideal gas law is experimentally valid. Because we have also assumed the wall is rigid and the
+particles are points, the collision is elastic (by conservation of energy—there’s nowhere for a particle’s kinetic energy
+to go). Therefore, the molecule’s kinetic energy remains constant, and hence, its speed and the magnitude of its
+momentum remain constant as well. This assumption is not always valid, but the results in the rest of this module
+are also obtained in models that let the molecules exchange energy and momentum with the wall.
+FIGURE 2.10 Gas in a box exerts an outward pressure on its walls. A molecule colliding with a rigid wall has its velocity and momentum in
+the x-direction reversed. This direction is perpendicular to the wall. The components of its velocity momentum in the y- and z-directions
+are not changed, which means there is no force parallel to the wall.
+If the molecule’s velocity changes in the x-direction, its momentum changes from  to  Thus, its change
+in momentum is  According to the impulse-momentum theorem given in the
+chapter on linear momentum and collisions, the force exerted on the ith molecule, where i labels the molecules
+from 1 to N, is given by
+(In this equation alone, p represents momentum, not pressure.) Th
+ere is no force between the wall and the
+molecule except while the molecule is touching the wall. During the short time of the collision, the force between
+the molecule and wall is relatively large, but that is not the force we are looking for. We are looking for the average
+force, so we take  to be the average time between collisions of the given molecule with this wall, which is the time
+in which we expect to find one collision. Let l represent the length of the box in the x-direction. Then  is the time
+the molecule would take to go across the box and back, a distance 2l, at a speed of  Thus  and the
+expression for the force becomes
+This force is due to one molecule. To find the total force on the wall, F, we need to add the contributions of all N
+2.2 • Pressure, Temperature, and RMS Speed 75
+
+molecules:
+We now use the definition of the average, which we denote with a bar, to find the force:
+We want the force in terms of the speed v, rather than the x-component of the velocity. Note that the total velocity
+squared is the sum of the squares of its components, so that
+With the assumption of isotropy, the three averages on the right side are equal, so
+Substituting this into the expression for F gives
+The pressure is F/A, so we obtain
+where we used  for the volume. This gives the important result
+Combining this equation with  gives
+We can get the average kinetic energy of a molecule, , from the left-hand side of the equation by dividing out
+N and multiplying by 3/2.
+The equation  is the average kinetic energy per molecule. Note in particular that nothing in this equation
+depends on the molecular mass (or any other property) of the gas, the pressure, or anything but the temperature. If
+samples of helium and xenon gas, with very different molecular masses, are at the same temperature, the
+molecules have the same average kinetic energy.
+The internal energy of a thermodynamic system is the sum of the mechanical energies of all of the molecules in it.
+We can now give an equation for the internal energy of a monatomic ideal gas. In such a gas, the molecules’ only
+energy is their translational kinetic energy. Therefore, denoting the internal energy by  we simply have
+ or
+2.5
+AVERAGE KINETIC ENERGY PER MOLECULE
+The average kinetic energy of a molecule is directly proportional to its absolute temperature:
+2.6
+76 2 • The Kinetic Theory of Gases
+
+Often we would like to use this equation in terms of moles:
+We can solve  for a typical speed of a molecule in an ideal gas in terms of temperature to
+determine what is known as the root-mean-square (rms) speed of a molecule.
+The rms speed is not the average or the most likely speed of molecules, as we will see in Distribution of Molecular
+Speeds, but it provides an easily calculated estimate of the molecules’ speed that is related to their kinetic energy.
+Again we can write this equation in terms of the gas constant R and the molar mass M in kg/mol:
+We digress for a moment to answer a question that may have occurred to you: When we apply the model to atoms
+instead of theoretical point particles, does rotational kinetic energy change our results? To answer this question, we
+have to appeal to quantum mechanics. In quantum mechanics, rotational kinetic energy cannot take on just any
+value; it’s limited to a discrete set of values, and the smallest value is inversely proportional to the rotational inertia.
+The rotational inertia of an atom is tiny because almost all of its mass is in the nucleus, which typically has a radius
+less than . Thus the minimum rotational energy of an atom is much more than  for any attainable
+temperature, and the energy available is not enough to make an atom rotate. We will return to this point when
+discussing diatomic and polyatomic gases in the next section.
+EXAMPLE 2.4
+Calculating Kinetic Energy and Speed of a Gas Molecule
+(a) What is the average kinetic energy of a gas molecule at  (room temperature)? (b) Find the rms speed of a
+nitrogen molecule  at this temperature.
+Strategy
+(a) The known in the equation for the average kinetic energy is the temperature:
+Before substituting values into this equation, we must c
+onvert the given temperature into kelvin:
+ We can find the rms speed of a nitrogen molecule by using the equation
+but we must first find the mass of a nitrogen molecule. Obtaining the molar mass of nitrogen  from the periodic
+table, we find
+2.7
+RMS SPEED OF A MOLECULE
+The root-mean-square (rms) speed of a molecule, or the square root of the average of the square of the speed
+, is
+2.8
+2.9
+2.2 • Pressure, Temperature, and RMS Speed 77
+
+Solution
+a. The temperature alone is sufficient for us to find the average translational kinetic energy. Substituting the
+temperature into the translational kinetic energy equation gives
+b. Substituting this mass and the value for  into the equation for  yields
+Significance
+Note that the average kinetic energy of the molecule is independent of the type of molecule. The average
+translational kinetic energy depends only on absolute temperature. The kinetic energy is very small compared to
+macroscopic energies, so that we do not feel when an air molecule is hitting our skin. On the other hand, it is much
+greater than the typical difference in gravitational potential energy when a molecule moves from, say, the top to the
+bottom of a room, so our neglect of gravitation is justified in typical real-world situations. The rms speed of the
+nitrogen molecule is surprisingly large. These large molecular velocities do not yield macroscopic movement of air,
+since the molecules move in all directions with equal likelihood. The mean free path (the distance a molecule moves
+on average between collisions, discussed a bit later in this section) of molecules in air is very small, so the
+molecules move rapidly but do not get very far in a second. The high value for rms speed is reflected in the speed of
+sound, which is about 340 m/s at room temperature. The higher the rms speed of air molecules, the faster sound
+vibrations can be transferred through the air. The speed of sound increases with temperature and is greater in gases
+with small molecular masses, such as helium (see Figure 2.11).
+FIGURE 2.11 (a) In an ordinary gas, so many molecules move so fast that they collide billions of times every second. (b) Individual
+molecules do not move very far in a small am
+ount of time, but disturbances like sound waves are transmitted at speeds related to the
+molecular speeds.
+EXAMPLE 2.5
+Calculating Temperature: Escape Velocity of Helium Atoms
+To escape Earth’s gravity, an object near the top of the atmosphere (at an altitude of 100 km) must travel away from
+Earth at 11.1 km/s. This speed is called the escape velocity. At what temperature would helium atoms have an rms
+78 2 • The Kinetic Theory of Gases
+
+speed equal to the escape velocity?
+Strategy
+Identify the knowns and unknowns and determine which equations to use to solve the problem.
+Solution
+1. Identify the knowns: v is the escape velocity, 11.1 km/s.
+2. Identify the unknowns: We need to solve for temperature, T. We also need to solve for the mass m of the
+helium atom.
+3. Determine which equations are needed.
+◦ To get the mass m of the helium atom, we can use information from the periodic table:
+◦ To solve for temperature T, we can rearrange
+to yield
+4. Substitute the known values into the equations and solve for the unknowns,
+and
+Significance
+This temperature is much higher than atmospheric temperature, which is approximately 250 K
+at high elevation. Very few helium atoms are left in the atmosphere, but many were present when the atmosphere
+was formed, and more are always being created by radioactive decay (see the chapter on nuclear physics). The
+reason for the loss of helium atoms is that a small number of helium atoms have speeds higher than Earth’s escape
+velocity even at normal temperatures. The speed of a helium atom changes from one collision to the next, so that at
+any instant, there is a small but nonzero chance that the atom’s speed is greater than the escape velocity. The
+chance is high enough that over the lifetime of Earth, almost all the helium atoms that have been in the atmosphere
+have reached escape velocity at high altitudes and escaped from Earth’s gravitational pull. Heavier molecules, such
+as oxygen, nitrogen, and water, have smaller rms speeds, and so it is much less likely that any of them will have
+speeds greater than the escape velocity. In fact, the likelihood is so small that billions of years are required to lose
+significant amounts of heavier molecule
+s from the atmosphere. Figure 2.12 shows the effect of a lack of an
+atmosphere on the Moon. Because the gravitational pull of the Moon is much weaker, it has lost almost its entire
+atmosphere. The atmospheres of Earth and other bodies are compared in this chapter’s exercises.
+2.2 • Pressure, Temperature, and RMS Speed 79
+
+FIGURE 2.12 This photograph of Apollo 17 Commander Eugene Cernan driving the lunar rover on the Moon in 1972 looks as though it was
+taken at night with a large spotlight. In fact, the light is coming from the Sun. Because the acceleration due to gravity on the Moon is so low
+(about 1/6 that of Earth), the Moon’s escape velocity is much smaller. As a result, gas molecules escape very easily from the Moon, leaving
+it with virtually no atmosphere. Even during the daytime, the sky is black because there is no gas to scatter sunlight. (credit: Harrison H.
+Schmitt/NASA)
+CHECK YOUR UNDER STANDING 2.4
+If you consider a very small object, such as a grain of pollen, in a gas, then the number of molecules striking its
+surface would also be relatively small. Would you expect the grain of pollen to experience any fluctuations in
+pressure due to statistical fluctuations in the number of gas molecules striking it in a given amount of time?
+Vapor Pressure, Partial Pressure, and Dalton’s Law
+If two or more gases are mixed, they will come to thermal equilibrium as a result of collisions between molecules;
+the process is analogous to heat conduction as described in the chapter on temperature and heat. As we have seen
+from kinetic theory, when the gases have the same temperature, their molecules have the same average kinetic
+energy. Thus, each gas obeys the ideal gas law separately and exerts the same pressure on the walls of a container
+that it would if it were alone. The pressure that a gas in a mixture would create if only it occupied the total volume
+available is called the gas’s partial pressure. Therefore, in a mixture of gases, the total pressure is the sum of partial
+pressures of the component gases, assuming ideal gas behavior and no chemical reactions be
+tween the
+components. This law is known as Dalton’s law of partial pressures, after the English scientist John Dalton
+(1766–1844) who proposed it. Dalton’s law is consistent with the fact that pressures add according to Pascal’s
+principle.
+In a mixture of ideal gases in thermal equilibrium, the number of molecules of each gas is proportional to its partial
+pressure. This result follows from applying the ideal gas law to each in the form  Because the right-
+hand side is the same for any gas at a given temperature in a container of a given volume, the left-hand side is the
+same as well.
+• Partial pressure is the pressure a gas would create if it existed alone.
+• Dalton’s law states that the total pressure is the sum of the partial pressures of all of the gases present.
+• For any two gases (labeled 1 and 2) in equilibrium in a container,
+An important application of partial pressure is that, in chemistry, it functions as the concentration of a gas in
+determining the rate of a reaction. Here, we mention only that the partial pressure of oxygen in a person’s lungs is
+80 2 • The Kinetic Theory of Gases
+
+crucial to life and health. Breathing air that has a partial pressure of oxygen below 0.16 atm can impair coordination
+and judgment, particularly in people not acclimated to a high elevation. Lower partial pressures of  have more
+serious effects; partial pressures below 0.06 atm can be quickly fatal, and permanent damage is likely even if the
+person is rescued. However, the sensation of needing to breathe, as when holding one’s breath, is caused much
+more by high concentrations of carbon dioxide in the blood than by low concentrations of oxygen. Thus, if a small
+room or closet is filled with air having a low concentration of oxygen, perhaps because a leaking cylinder of some
+compressed gas is stored there, a person will not feel any “choking” sensation and may go into convulsions or lose
+consciousness without noticing anything wrong. Safety engineers give considerable attention to this danger.
+Another important application of partial pressure is vapor pressure, which is the partial pressure of a vapor at which
+it is in equilibrium with the liquid (or solid, in the case of sublimation) phase of the same substance. At any
+temperature, the partial pressure of the water in the air cannot exceed the vapor pressure of the water at that
+temperature, because whenever the partial pressure reaches the vapor pressure, water condenses out of the air.
+Dew is an example of this condensation. The temperature at which condensation occurs for a sample of air is called
+the dew point. It is easily measured by slowly cooling a metal ball; the dew point is the temperature at which
+condensation first appears on the ball.
+The vapor pressures of water at some temperatures of interest for meteorology are given in Table 2.2.
+T Vapor Pressure (Pa)
+0 610.5
+3 757.9
+5 87
+2.3
+8 1073
+10 1228
+13 1497
+15 1705
+18 2063
+20 2338
+23 2809
+25 3167
+30 4243
+35 5623
+40 7376
+TABLE 2.2 Vapor Pressure of Water at
+Various Temperatures
+The relative humidity (R.H.) at a temperature T is defined by
+2.2 • Pressure, Temperature, and RMS Speed 81
+
+A relative humidity of  means that the partial pressure of water is equal to the vapor pressure; in other words,
+the air is saturated with water.
+EXAMPLE 2.6
+Calculating Relative Humidity
+What is the relative humidity when the air temperature is  and the dew point is ?
+Strategy
+We simply look up the vapor pressure at the given temperature and that at the dew point and find the ratio.
+Solution
+Significance
+R.H. is important to our comfort. The value of  is within the range of  recommended for comfort
+indoors.
+As noted in the chapter on temperature and heat, the temperature seldom falls below the dew point, because when
+it reaches the dew point or frost point, water condenses and releases a relatively large amount of latent heat of
+vaporization.
+Mean Free Path and Mean Free Time
+We now consider collisions explicitly. The usual first step (which is all we’ll take) is to calculate the mean free path,
+ the average distance a molecule travels between collisions with other molecules, and the mean free time , the
+average time between the collisions of a molecule. If we assume all the molecules are spheres with a radius r, then
+a molecule will collide with another if their centers are within a distance 2r of each other. For a given particle, we say
+that the area of a circle with that radius, , is the “cross-section” for collisions. As the particle moves, it traces a
+cylinder with that cross-sectional area. The mean free path is the length  such that the expected number of other
+molecules in a cylinder of length  and cross-section  is 1. If we temporarily ignore the motion of the molecules
+other than the one we’re looking at, the expected number is the number density of molecules, N/V, times the
+volume, and the volume is , so we have  or
+Taking t
+he motion of all the molecules into account makes the calculation much harder, but the only change is a
+factor of  The result is
+In an ideal gas, we can substitute  to obtain
+The mean free time  is simply the mean free path divided by a typical speed, and the usual choice is the rms
+speed. Then
+2.10
+2.11
+82 2 • The Kinetic Theory of Gases
+
+EXAMPLE 2.7
+Calculating Mean Free Time
+Find the mean free time for argon atoms  at a temperature of  and a pressure of 1.00 atm.
+Take the radius of an argon atom to be
+Solution
+1. Identify the knowns and convert into SI units. We know the molar mass is 0.0399 kg/mol, the temperature is
+273 K, the pressure is  and the radius is
+2. Find the rms speed: .
+3. Substitute into the equation for the mean free time:
+Significance
+We can hardly compare this result with our intuition about gas molecules, but it gives us a picture of molecules
+colliding with extremely high frequency.
+CHECK YOUR UNDER STANDING 2.5
+Which has a longer mean free path, liquid water or water vapor in the air?
+2.3 Heat Capacity and Equipartition of Energy
+LEARNING OBJECTIVES
+By the end of this section, you will be able to:
+• Solve problems involving heat transfer to and from ideal monatomic gases whose volumes are held
+constant
+• Solve similar problems for non-monatomic ideal gases based on the number of degrees of freedom of a
+molecule
+• Estimate the heat capacities of metals using a model based on degrees of freedom
+In the chapter on temperature and heat, we defined the specific heat capacity with the equation  or
+. However, the properties of an ideal gas depend directly on the number of moles in a sample, so
+here we define specific heat capacity in terms of the number of moles, not the mass. Furthermore, when talking
+about solids and liquids, we ignored any changes in volume and pressure with changes in temperature—a good
+approximation for solids and liquids, but for gases, we have to make some condition on volume or pressure changes.
+Here, we focus on the heat capacity with the volume held constant. We can calculate it for an ideal gas.
+Heat Capacity of an Ideal Mon
+atomic Gas at Constant Volume
+We define the molar heat capacity at constant volume  as
+This is often expressed in the form
+2.12
+2.13
+2.3 • Heat Capacity and Equipartition of Energy 83
+
+If the volume does not change, there is no overall displacement, so no work is done, and the only change in internal
+energy is due to the heat flow  (This statement is discussed further in the next chapter.) We use the
+equation  to write  and substitute  for Q to find , which gives
+the following simple result for an ideal monatomic gas:
+It is independent of temperature, which justifies our use of finite differences instead of a derivative. This formula
+agrees well with experimental results.
+In the next chapter we discuss the molar specific heat at constant pressure  which is always greater than
+EXAMPLE 2.8
+Calculating Temperature
+A sample of 0.125 kg of xenon is contained in a rigid metal cylinder, big enough that the xenon can be modeled as an
+ideal gas, at a temperature of . The cylinder is moved outside on a hot summer day. As the xenon comes into
+equilibrium by reaching the temperature of its surroundings, 180 J of heat are conducted to it through the cylinder
+walls. What is the equilibrium temperature? Ignore the expansion of the metal cylinder.
+Solution
+1. Identify the knowns: We know the initial temperature  is , the heat Q is 180 J, and the mass m of the
+xenon is 0.125 kg.
+2. Identify the unknown. We need the final temperature, so we’ll need .
+3. Determine which equations are needed. Because xenon gas is monatomic, we can use  Then
+we need the number of moles,
+4. Substitute the known values into the equations and solve for the unknowns.
+The molar mass of xenon is 131.3 g, so we obtain
+Therefore, the final temperature is . The problem could equally well be solved in kelvin; as a kelvin is
+the same size as a degree Celsius of temperature change, you would get
+Significance
+The heating of an ideal or almost ideal gas at constant vol
+ume is important in car engines and many other practical
+systems.
+CHECK YOUR UNDER STANDING 2.6
+Suppose 2 moles of helium gas at 200 K are mixed with 2 moles of krypton gas at 400 K in a calorimeter. What is the
+final temperature?
+We would like to generalize our results to ideal gases with more than one atom per molecule. In such systems, the
+molecules can have other forms of energy beside translational kinetic energy, such as rotational kinetic energy and
+vibrational kinetic and potential energies. We will see that a simple rule lets us determine the average energies
+present in these forms and solve problems in much the same way as we have for monatomic gases.
+Degrees of Freedom
+In the previous section, we found that  and , from which it follows that .
+84 2 • The Kinetic Theory of Gases
+
+The same equation holds for  and for . Thus, we can look at our energy of  as the sum of contributions of
+ from each of the three dimensions of translational motion. Shifting to the gas as a whole, we see that the 3 in
+the formula  also reflects those three dimensions. We define a degree of freedom as an independent
+possible motion of a molecule, such as each of the three dimensions of translation. Then, letting d represent the
+number of degrees of freedom, the molar heat capacity at constant volume of a monatomic ideal gas is
+where .
+The branch of physics called statistical mechanics tells us, and experiment confirms, that  of any ideal gas is
+given by this equation, regardless of the number of degrees of freedom. This fact follows from a more general result,
+the equipartition theorem, which holds in classical (non-quantum) thermodynamics for systems in thermal
+equilibrium under technical conditions that are beyond our scope. Here, we mention only that in a system, the
+energy is shared among the degrees of freedom by collisions.
+This result is due to the Scottish physicist James Clerk Maxwell (1831−1879), whose name will appear several more
+times in this book.
+For example, consider a diatomic ideal gas (a good model for nitrogen,  and oxygen,  Such a gas has more
+degrees of freedom than a monatomic gas. In addition to the three degrees of freedom for translation, it has two
+degrees of freedom for rotation perpendicular to its axis. Furthermore, the molecule can vibrate along its axis. This
+motion is often modeled by imagining a spring connecting the two atoms, and we know from simple harmonic
+motion that such motion has both kinetic and potential energy. Each of these forms of energy corresponds to a
+degree of freedom, giving two more.
+We m
+ight expect that for a diatomic gas, we should use 7 as the number of degrees of freedom; classically, if the
+molecules of a gas had only translational kinetic energy, collisions between molecules would soon make them
+rotate and vibrate. However, as explained in the previous module, quantum mechanics controls which degrees of
+freedom are active. The result is shown in Figure 2.13. Both rotational and vibrational energies are limited to
+discrete values. For temperatures below about 60 K, the energies of hydrogen molecules are too low for a collision
+to bring the rotational state or vibrational state of a molecule from the lowest energy to the second lowest, so the
+only form of energy is translational kinetic energy, and  or  as in a monatomic gas. Above that
+temperature, the two rotational degrees of freedom begin to contribute, that is, some molecules are excited to the
+rotational state with the second-lowest energy. (This temperature is much lower than that where rotations of
+monatomic gases contribute, because diatomic molecules have much higher rotational inertias and hence much
+lower rotational energies.) From about room temperature (a bit less than 300 K) to about 600 K, the rotational
+degrees of freedom are fully active, but the vibrational ones are not, and . Then, finally, above about 3000 K,
+the vibrational degrees of freedom are fully active, and  as the classical theory predicted.
+EQUIPARTITION THEOREM
+The energy of a thermodynamic system in equilibrium is partitioned equally among its degrees of freedom.
+Accordingly, the molar heat capacity of an ideal gas is proportional to its number of degrees of freedom, d:
+2.14
+2.3 • Heat Capacity and Equipartition of Energy 85
+
+FIGURE 2.13 The molar heat capacity of hydrogen as a function of temperature (on a logarithmic scale). The three “steps” or “plateaus”
+show different numbers of degrees of freedom that the typical energies of molecules must achieve to activate. Translational kinetic energy
+corresponds to three degrees of freedom, rotational to another two, and vibrational to yet another two.
+Polyatomic molecules typically have one additional rotational degree of freedom at room temperature, since they
+have comparable moments of inertia around any axis. Thus, at room temperature, they have  At high
+temperatures, the number of degrees of freedom increases by 2 for each vibrational mode. We usually assume that
+gases have the theoretical room-temperature values of d.
+As shown in Table 2.3, the results agree well with experiments for many monatomic and diatomic gases, but the
+agreement for triatomic gases is only fair. The differences arise from interactions that we have ignored between and
+within molecules.
+Gas  at  and 1 atm
+Ar 1.50
+He 1.50
+Ne 1.50
+CO 2.50
+2.47
+2.50
+2.53
+2.8
+3.48
+3.13
+3.66
+TABLE 2.3  for Various Monatomic,
+Diatomic, and Triatomic Gases
+86 2 • The Kinetic Theory of Gases
+
+What about internal energy for diatomic and polyatomic gases? For such gases,  is a function of temperature
+(Figure 2.13), so we do not have the kind of simple result we have for monatomic ideal gases.
+Molar Heat Capacity of Solid Elements
+The idea of equipartition leads to an estimate of the molar heat capacity of solid elements at ordinary temperatures.
+We can model the atoms of a solid as attached to neighboring atoms by springs (Figure 2.14).
+FIGURE 2.14 In a simple model of a solid element, each atom is attached to others by six springs, two for each possible motion: x, y, and z.
+Each of the three motions corresponds to two degrees of freedom, one for kinetic energy and one for potential energy. Thus
+Analogously to the discussion of vibration in the previous module, each atom has six degrees of freedom: one kinetic
+and one potential for each of the x-, y-, and z-directions. Accordingly, the molar specific heat of a metal should be
+3R. This result, known as the Law of Dulong and Petit, works fairly well experimentally at room temperature. (For
+every element, it fails at low temperatures for quantum-mechanical reasons. Since quantum effects are particularly
+important for low-mass particles, the Law of Dulong and Petit already fails at room temperature for some light
+elements, such as beryllium and carbon. It also fails for some heavier elements for various reasons beyond what we
+can cover.)
+PROBLEM-SOL VING S TRATEGY
+Heat Capacity and Equipartition
+The strategy for solving these problems is the same as the one in Phase Changes for the effects of heat transfer. The
+only new feature is that you should determine whether the case just presented—ideal gases at constant
+volume—applies to the problem. (For solid elements, looking up the specific
+heat capacity is generally better than
+estimating it from the Law of Dulong and Petit.) In the case of an ideal gas, determine the number d of degrees of
+freedom from the number of atoms in the gas molecule and use it to calculate  (or use  to solve for d).
+EXAMPLE 2.9
+Calculating Temperature: Calorimetry with an Ideal Gas
+A 300-g piece of solid gallium (a metal used in semiconductor devices) at its melting point of only  is in
+contact with 12.0 moles of air (assumed diatomic) at  in an insulated container. When the air reaches
+equilibrium with the gallium, 202 g of the gallium have melted. Based on those data, what is the heat of fusion of
+gallium? Assume the volume of the air does not change and there are no other heat transfers.
+2.3 • Heat Capacity and Equipartition of Energy 87
+
+Strategy
+We’ll use the equation  As some of the gallium doesn’t melt, we know the final temperature is still
+the melting point. Then the only  is the heat lost as the air cools,  where  The
+only  is the latent heat of fusion of the gallium,  It is positive because heat flows into the
+gallium.
+Solution
+1. Set up the equation:
+2. Substitute the known values and solve:
+We solve to find that the heat of fusion of gallium is 80.2 kJ/kg.
+2.4 Distribution of Molecular Speeds
+LEARNING OBJECTIVES
+By the end of this section, you will be able to:
+• Describe the distribution of molecular speeds in an ideal gas
+• Find the average and most probable molecular speeds in an ideal gas
+Particles in an ideal gas all travel at relatively high speeds, but they do not travel at the same speed. The rms speed
+is one kind of average, but many particles move faster and many move slower. The actual distribution of speeds has
+several interesting implications for other areas of physics, as we will see in later chapters.
+The Maxwell-Boltzmann Distribution
+The motion of molecules in a gas is random in magnitude and direction for individual molecules, but a gas of many
+molecules has a predictable distribution of molecular speeds. This predictable distribution of molecular speeds is
+known as the Maxwell-Boltzmann distribution, after its originators, who calculated it based on kinetic theory, and
+it has since been confirmed experimentally (Figure 2.15).
+To understand this figure, we must define a distribution function of molecular speeds, since with a finite number of
+molecules, the probability that a molecule will have exactly a given speed is 0.
+FIGURE 2.15 The Maxwell-Boltzmann distribution of molecular speeds in an ideal gas. The most likely speed  is less than the
+rms speed
+. Although very high speeds are possible, only a tiny fraction of the molecules have speeds that are an order of magnitude greater than
+88 2 • The Kinetic Theory of Gases
+
+We define the distribution function  by saying that the expected number  of particles with speeds
+between  and  is given by
+[Since N is dimensionless, the unit of f(v) is seconds per meter.] We can write this equation conveniently in
+differential form:
+In this form, we can understand the equation as saying that the number of molecules with speeds between v and
+ is the total number of molecules in the sample times f(v) times dv. That is, the probability that a molecule’s
+speed is between v and  is f(v)dv.
+We can now quote Maxwell’s result, although the proof is beyond our scope.
+The factors before the  are a normalization constant; they make sure that ∞  by making sure that
+∞
+ Let’s focus on the dependence on v. The factor of  means that  and for small v, the
+curve looks like a parabola. The factor of  means that
+∞
+ and the graph has an exponential
+tail, which indicates that a few molecules may move at several times the rms speed. The interaction of these factors
+gives the function the single-peaked shape shown in the figure.
+EXAMPLE 2.10
+Calculating the Ratio of Numbers of Molecules Near Given Speeds
+In a sample of nitrogen  with a molar mass of 28.0 g/mol) at a temperature of , find the ratio of the
+number of molecules with a speed very close to 300 m/s to the number with a speed very close to 100 m/s.
+Strategy
+Since we’re looking at a small range, we can approximate the number of molecules near 100 m/s as
+ Then the ratio we want is
+All we have to do is take the ratio of the two f values.
+Solution
+1. Identify the knowns and convert to SI units if necessary.
+2. Substitute the values and solve.
+MAXWELL-BOLTZMANN DISTRIBUTION OF SPEEDS
+The distribution function for speeds of particles in an ideal gas at temperature T is
+2.15
+2.4 • Di
+stribution of Molecular Speeds 89
+
+Figure 2.16 shows that the curve is shifted to higher speeds at higher temperatures, with a broader range of speeds.
+FIGURE 2.16 The Maxwell-Boltzmann distribution is shifted to higher speeds and broadened at higher temperatures.
+INTER ACTIVE
+With only a relatively small number of molecules, the distribution of speeds fluctuates around the Maxwell-
+Boltzmann distribution. However, you can view this simulation (https://openstax.org/l/21maxboltzdisim) to see the
+essential features that more massive molecules move slower and have a narrower distribution. Use the set-up “2
+Gases, Random Speeds”. Note the display at the bottom comparing histograms of the speed distributions with the
+theoretical curves.
+We can use a probability distribution to calculate average values by multiplying the distribution function by the
+quantity to be averaged and integrating the product over all possible speeds. (This is analogous to calculating
+averages of discrete distributions, where you multiply each value by the number of times it occurs, add the results,
+and divide by the number of values. The integral is analogous to the first two steps, and the normalization is
+analogous to dividing by the number of values.) Thus the average velocity is
+Similarly,
+∞
+as in Pressure, Temperature, and RMS Speed. The most probable speed, also called the peak speed  is the
+speed at the peak of the velocity distribution. (In statistics it would be called the mode.) It is less than the rms
+speed  The most probable speed can be calculated by the more familiar method of setting the derivative of the
+∞ 2.16
+90 2 • The Kinetic Theory of Gases
+
+distribution function, with respect to v, equal to 0. The result is
+which is less than  In fact, the rms speed is greater than both the most probable speed and the average speed.
+The peak speed provides a sometimes more convenient way to write the Maxwell-Boltzmann distribution function:
+In the factor , it is easy to recognize the translational kinetic energy. Thus, that expression is equal to
+ The distribution f(v) can be transformed into a kinetic energy distribution by requiring that
+ Boltzmann showed that the resulting formula is much more generally applicable if we replace
+the kinetic energy of translation with the total mechanical energy E. Boltzmann’s result is
+The first part of this equation, with the negative exponential, is the usual way to write it. We give the second part
+only to remark that  in the denominator is ubiquitous in quantum as well as classical statistical mechanics.
+PROBLEM-SOL VING S TRATEGY
+Speed Distribution
+Step 1. Examine the situation to determine that it relates to the distribution of molecular speeds.
+Step 2. Make a list of what quantities are given or can be inferred from the problem as stated (identify the known
+quantities).
+Step 3. Identify exactly what needs to be determined in the problem (identify the unknown quantities). A written list
+is useful.
+Step 4. Convert known values into proper SI units (K for temperature, Pa for pressure,  for volume, molecules for
+N, and moles for n). In many cases, though, using R and the molar mass will be more convenient than using  and
+the molecular mass.
+Step 5. Determine whether you need the distribution function for velocity or the one for energy, and whether you are
+using a formula for one of the characteristic speeds (average, most probably, or rms), finding a rat
+io of values of the
+distribution function, or approximating an integral.
+Step 6. Solve the appropriate equation for the ideal gas law for the quantity to be determined (the unknown
+quantity). Note that if you are taking a ratio of values of the distribution function, the normalization factors divide
+out. Or if approximating an integral, use the method asked for in the problem.
+Step 7. Substitute the known quantities, along with their units, into the appropriate equation and obtain numerical
+solutions complete with units.
+We can now gain a qualitative understanding of a puzzle about the composition of Earth’s atmosphere. Hydrogen is
+by far the most common element in the universe, and helium is by far the second-most common. Moreover, helium
+is constantly produced on Earth by radioactive decay. Why are those elements so rare in our atmosphere? The
+answer is that gas molecules that reach speeds above Earth’s escape velocity, about 11 km/s, can escape from the
+atmosphere into space. Because of the lower mass of hydrogen and helium molecules, they move at higher speeds
+than other gas molecules, such as nitrogen and oxygen. Only a few exceed escape velocity, but far fewer heavier
+molecules do. Thus, over the billions of years that Earth has existed, far more hydrogen and helium molecules have
+2.17
+2.18
+2.4 • Distribution of Molecular Speeds 91
+
+escaped from the atmosphere than other molecules, and hardly any of either is now present.
+We can also now take another look at evaporative cooling, which we discussed in the chapter on temperature and
+heat. Liquids, like gases, have a distribution of molecular energies. The highest-energy molecules are those that can
+escape from the intermolecular attractions of the liquid. Thus, when some liquid evaporates, the molecules left
+behind have a lower average energy, and the liquid has a lower temperature.
+92 2 • The Kinetic Theory of Gases
+
+Chapter Review
+Key Terms
+Avogadro’s number   the number of molecules in
+one mole of a substance;
+particles/mole
+Boltzmann constant   a physical constant that
+relates energy to temperature and appears in the
+ideal gas law;
+critical temperature   at which the isotherm has a
+point with zero slope
+Dalton’s law of partial pressures  physical law that
+states that the total pressure of a gas is the sum of
+partial pressures of the component gases
+degree of freedom  independent kind of motion
+possessing energy, such as the kinetic energy of
+motion in one of the three orthogonal spatial
+directions
+equipartition theorem  theorem that the energy of a
+classical thermodynamic system is shared equally
+among its degrees of freedom
+ideal gas  gas at the limit of low density and high
+temperature
+ideal gas law  physical law that relates the pressure
+and volume of a gas, far from liquefaction, to the
+number of gas molecules or number of moles of gas
+and the temperature of the gas
+internal energy  sum of the mechanical energies of all
+of the molecules in it
+kinetic theory of gases  theory that derives the
+macroscopic properties of gases from the motion of
+the molecules they consist of
+Maxwell-Boltzmann distribution  function that can
+be integrated to give the probability of finding ideal
+gas molecules with speeds in the range between the
+limits of integration
+mean free path  average distance between collisions
+of a particle
+mean free time  average time between collisions of a
+particle
+mole  quantity of a substance whose mass (in grams)
+is equal to its molecular mass
+most probable speed  speed near which the speeds
+of most molecules are found, the peak of the speed
+distribution function
+partial pressure  pressure a gas would create if it
+
+occupied the total volume of space available
+peak speed  same as “most probable speed”
+pV diagram  graph of pressure vs. volume
+root-mean-square (rms) speed  square root of the
+average of the square (of a quantity)
+supercritical  condition of a fluid being at such a high
+temperature and pressure that the liquid phase
+cannot exist
+universal gas constant  R, the constant that appears
+in the ideal gas law expressed in terms of moles,
+given by
+van der Waals equation of state  equation, typically
+approximate, which relates the pressure and
+volume of a gas to the number of gas molecules or
+number of moles of gas and the temperature of the
+gas
+vapor pressure  partial pressure of a vapor at which it
+is in equilibrium with the liquid (or solid, in the case
+of sublimation) phase of the same substance
+Key Equations
+Ideal gas law in terms of molecules
+Ideal gas law ratios if the amount of gas is constant
+Ideal gas law in terms of moles
+Van der Waals equation
+Pressure, volume, and molecular speed ​
+Root-mean-square speed
+Mean free path
+Mean free time
+The following two equations apply only to a monatomic ideal gas:
+Average kinetic energy of a molecule
+Internal energy
+
+Heat in terms of molar heat capacity at constant volume
+Molar heat capacity at constant volume for an ideal gas with d
+degrees of freedom
+Maxwell–Boltzmann speed distribution
+Average velocity of a molecule
+Peak velocity of a molecule
+Summary
+2.1 Molecular Model of an Ideal Gas
+• The ideal gas law relates the pressure and
+volume of a gas to the number of gas molecules
+and the temperature of the gas.
+• A mole of any substance has a number of
+molecules equal to the number of atoms in a
+12-g sample of carbon-12. The number of
+molecules in a mole is called Avogadro’s number
+• A mole of any substance has a mass in grams
+numerically equal to its molecular mass in
+unified mass units, which can be determined
+from the periodic table of elements. The ideal
+gas law can also be written and solved in terms
+of the number of moles of gas:
+where n is the number of moles and R is the
+universal gas constant,
+• The ideal gas law is generally valid at
+temperatures well above the boiling
+temperature.
+• The van der Waals equation of state for gases is
+valid closer to the boiling point than the ideal gas
+law.
+• Above the critical temperature and pressure for a
+given substance, the liquid phase does not exist,
+and the sample is “supercritical.”
+2.2 Pressure, Temperature, and RMS Speed
+• Kinetic theory is the atomic description of gases
+as well as liquids and solids. It models the
+properties of matter in terms of continuous
+random motion of molecules.
+• The ideal gas law can be expressed in terms of
+the mass of the gas’s molecules and  the
+average of the molecular speed squared, instead
+of the temperature.
+• The temperature of gases is proportional to the
+average translational kinetic energy of
+molecules. Hence, the typical speed of gas
+mole
+cules  is proportional to the square root
+of the temperature and inversely proportional to
+the square root of the molecular mass.
+• In a mixture of gases, each gas exerts a pressure
+equal to the total pressure times the fraction of
+the mixture that the gas makes up.
+• The mean free path (the average distance
+between collisions) and the mean free time of
+gas molecules are proportional to the
+temperature and inversely proportional to the
+molar density and the molecules’ cross-sectional
+area.
+2.3 Heat Capacity and Equipartition of Energy
+• Every degree of freedom of an ideal gas
+contributes  per atom or molecule to its
+changes in internal energy.
+• Every degree of freedom contributes  to its
+molar heat capacity at constant volume
+• Degrees of freedom do not contribute if the
+temperature is too low to excite the minimum
+energy of the degree of freedom as given by
+quantum mechanics. Therefore, at ordinary
+temperatures,  for monatomic gases,
+for diatomic gases, and  for polyatomic
+gases.
+2.4 Distribution of Molecular Speeds
+• The motion of individual molecules in a gas is
+random in magnitude and direction. However, a
+gas of many molecules has a predictable
+distribution of molecular speeds, known as the
+Maxwell-Boltzmann distribution.
+• The average and most probable velocities of
+molecules having the Maxwell-Boltzmann speed
+distribution, as well as the rms velocity, can be
+calculated from the temperature and molecular
+mass.
+94     2 • Chapter Review
+
+Conceptual Questions
+2.1 Molecular Model of an Ideal Gas

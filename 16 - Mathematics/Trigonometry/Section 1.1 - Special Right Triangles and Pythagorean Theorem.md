@@ -45,3 +45,22 @@ Part D)
 The shortest side of a 30-60-90 triangle is 4 meters. Find the lengths of the other two sides.
 
 ![[Pasted image 20260219033016.png]]
+
+
+# Pythagorean Identity
+
+$$
+\sin^2x+\cos^2x=1
+$$
+
+$$
+\sec^2-1=\tan^2
+$$
+
+$$
+\sec^2-\tan^2=1
+$$
+
+$$
+1+\tan^2=\sec^2
+$$

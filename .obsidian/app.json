@@ -1,5 +1,5 @@
 {
-  "newFileLocation": "folder",
+  "newFileLocation": "current",
   "newFileFolderPath": "6 - Full Notes",
   "alwaysUpdateLinks": true,
   "showLineNumber": true,
@@ -11,5 +11,30 @@
     "downscalePercent": 100
   },
   "attachmentFolderPath": "11 - Images",
-  "vimMode": true
+  "vimMode": true,
+  "userIgnoreFilters": [
+    "16 - Mathematics/Calculus/Calc 1/",
+    "16 - Mathematics/Problems and Solutions for Calc 1/",
+    "16 - Mathematics/Mathematical Modeling and Functional Reasoning/Chinese Pedagogy/",
+    "16 - Mathematics/Mathematical Modeling and Functional Reasoning/Number Systems/",
+    "1 - Rough Notes/",
+    "6 - Full Notes/",
+    "11 - Images/",
+    "2 - References/",
+    "3 - Tags/",
+    "4 - Indexes/",
+    "5 - Templates/",
+    "9 - Glossary/",
+    "10 - Issues and Solutions/",
+    "12 - Frameworks/",
+    "13 - Language Fundamentals/C++/MSVC/",
+    "14 - Development Paradigms/",
+    "22 - Anatomy and Physiology/",
+    "21 - Practical Electronics/",
+    "20 - Electrical Systems/",
+    "19 - Electromagnetism and Electronic Systems/EE Principles Course/",
+    "19 - Electromagnetism and Electronic Systems/Delmar's Standards of Electricity/",
+    "18 - Physics/An Introduction to Physical Science/",
+    "18 - Physics/Physics for Scientists and Engineers/"
+  ]
 }

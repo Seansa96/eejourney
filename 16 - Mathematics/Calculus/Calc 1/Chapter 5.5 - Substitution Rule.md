@@ -1,6 +1,6 @@
 
 
-
+**
 # Example 1
 
 $$
@@ -33,3 +33,14 @@ $$
 $$
 
 This is because the values instead of resulting in the same value, cancel each other out. Say you have a function $x^3$. If you do $f(-2)+f(2)$, you'll get $-8$ and $8$, which when added together cancel out.
+
+
+# Patterns
+
+Note that for any $\int e^n$ , the indefinite integral should be $1/n=e$
+
+For any linear function, you may note that the anti-derivative can be seen as such:
+
+The reciprocal of the leading coefficient of that linear function, with the argument or rather the substitution then being the argument of the anti-derivative.
+
+s

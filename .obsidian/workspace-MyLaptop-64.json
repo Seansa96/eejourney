@@ -1,0 +1,306 @@
+{
+  "main": {
+    "id": "d55665e9f22d68fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c384b7994c7e52e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06135af122f2b239",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "16 - Mathematics/Algebra/Factoring Polynomials.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Factoring Polynomials"
+            }
+          },
+          {
+            "id": "3d2511579a6152d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "16 - Mathematics/Problems for Calc 2/Chapter 7.2 - Trigonometric Integrals.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 7.2 - Trigonometric Integrals"
+            }
+          },
+          {
+            "id": "1345ab8091d66b13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "18 - Physics/Class Notes Dump/Lecture 6-15.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 6-15"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc2d69d5d8389bf3",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba77100e83751775",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbe485795af52009",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "710599f30488b682",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "0064925dacf83a3b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d848ca68a3b9af1f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8c4b8b245682d654",
+    "type": "split",
+    "children": [
+      {
+        "id": "47e2b7e9cb1f99e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7051849788f73af1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ebb1705d757d402b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "17 - Chemistry/Chemistry Textbook/Chapter 3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Chapter 3"
+            }
+          },
+          {
+            "id": "37b33bbde865c914",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "13 - Language Fundamentals/C++/C++ Fundamentals/Chapter 2 - Language Features Dump.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Chapter 2 - Language Features Dump"
+            }
+          },
+          {
+            "id": "1bda2886d9148b75",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          },
+          {
+            "id": "13443d0f1ac6d9ba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "18 - Physics/Class Notes Dump/Lecture 6-15.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Lecture 6-15"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": true,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "cmdr:Templater: Open insert template modal": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false,
+      "templates:Insert template": false
+    }
+  },
+  "active": "1345ab8091d66b13",
+  "lastOpenFiles": [
+    "16 - Mathematics/Problems for Calc 2/Chapter 7.5 - Rational Integration-MyLaptop.md",
+    "16 - Mathematics/Problems for Calc 2/Chapter 7.5 - Rational Integration.md",
+    "11 - Images/Scan from 2026-06-15 11_57_19 AM.pdf",
+    "11 - Images/Pasted image 20260615170308.png",
+    "11 - Images/Scan from 2026-06-15 11_57_44 AM.pdf",
+    "16 - Mathematics/Calculus/Calc 2/Part 1/Chapter 7.5 - Rational Integration.md",
+    "18 - Physics/Class Notes Dump/Lecture 6-15.md",
+    "11 - Images/Scan from 2026-06-15 10_47_18 AM.pdf",
+    "16 - Mathematics/Problems for Calc 2/Chapter 7.2 - Trigonometric Integrals.md",
+    "16 - Mathematics/Algebra/Factoring Polynomials.md",
+    "16 - Mathematics/Algebra/Euler's Number.md",
+    "16 - Mathematics/Trigonometry/Section 3.8 - Product-to-Sum Identities.md",
+    "16 - Mathematics/Algebra/Untitled",
+    "11 - Images/Scan from 2026-06-09 01_48_13 PM.pdf",
+    "11 - Images/Scan from 2026-06-09 01_30_59 PM.pdf",
+    "11 - Images/Scan from 2026-06-09 01_29_47 PM.pdf",
+    "16 - Mathematics/Problems for Calc 2/Chapter 7.3 - Trigonometric Substitution.md",
+    "16 - Mathematics/Mathematical Modeling and Functional Reasoning/Function Behavior.md",
+    "11 - Images/cosine_graph.svg",
+    "11 - Images/Pasted image 20260614155404.png",
+    "11 - Images/Pasted image 20260614161247.png",
+    "11 - Images/Pasted image 20260614164731.png",
+    "11 - Images/Pasted image 20260614170450.png",
+    "11 - Images/Pasted image 20260614171443.png",
+    "11 - Images/Pasted image 20260614171624.png",
+    "11 - Images/Pasted image 20260614212613.png",
+    "11 - Images/sine_graph.svg",
+    "11 - Images/Scan from 2026-06-09 11_15_45 AM.pdf",
+    "11 - Images/Scan from 2026-06-10 10_38_15 AM.pdf",
+    "11 - Images/Scan from 2026-06-10 11_14_00 AM.pdf",
+    "16 - Mathematics/Calculus/Calc 2/Part 1/Chapter 7.4 - Trigonometric Substitution.md",
+    "16 - Mathematics/Problems for Calc 2/Chapter 5.5 - U Sub Integration.md",
+    "16 - Mathematics/Precalculus/Chapter 8.10 - Partial Fractions.md",
+    "Excalidraw/black canvas.md",
+    "16 - Mathematics/Calculus/Calc 2/Part 1/Chapter 7.2 - Trigonometric Integrals.md",
+    "16 - Mathematics/Calculus/Calc 2/Part 1/Chapter 7.3 - Trigonometric Substitution.md",
+    "18 - Physics/Class Notes Dump/Lecture 1 6-8.md",
+    "17 - Chemistry/Electron.md",
+    "16 - Mathematics/Trigonometry/Section 1.1 - Special Right Triangles and Pythagorean Theorem.md",
+    "16 - Mathematics/Trigonometry/Section 4.4 - Multiple Angle Identities.md",
+    "17 - Chemistry/Chemistry Textbook/Chapter 3.md",
+    "17 - Chemistry/Chemistry Textbook/Chapter 2 - Atoms, Molecules, and Ions.md",
+    "17 - Chemistry/Chemistry Textbook/Chapter 1 - Chemical Foundations.md",
+    "18 - Physics/OPenStax University Physics 1/Chapter 3 - Motion Worksheets.md",
+    "18 - Physics/OPenStax University Physics 1/Chapter 3 Practice Problems.md",
+    "16 - Mathematics/Trigonometry/Trig Error Log.md"
+  ]
+}

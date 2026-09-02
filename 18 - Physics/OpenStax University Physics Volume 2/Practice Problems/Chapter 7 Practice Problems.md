@@ -1,0 +1,1307 @@
+# Chapter 7 Practice Problems
+
+## Extracted problems
+
+# Problem 29
+
+29 . Consider a charge  fixed at a site
+with another charge  (charge , mass
+ moving in the neighboring space. (a)
+Evaluate the potential energy of  when it is
+4.0 cm from  (b) If  starts from rest from
+a point 4.0 cm from  what will be its speed
+when it is 8.0 cm from ? (Note:  is held
+fixed in its place.)
+
+# Problem 31
+
+31 . To form a hydrogen atom, a proton is fixed at a
+point and an electron is brought from far away to
+a distance of  the average
+314     7 • Chapter Review
+
+distance between proton and electron in a
+hydrogen atom. How much work is done?
+
+# Problem 33
+
+33 . Find the ratio of speeds of an electron and a
+negative hydrogen ion (one having an extra
+electron) accelerated through the same voltage,
+assuming non-relativistic final speeds. Take the
+mass of the hydrogen ion to be
+
+# Problem 35
+
+35 . Show that units of V/m and N/C for electric field
+strength are indeed equivalent.
+
+# Problem 37
+
+37 . The electric field strength between two parallel
+conducting plates separated by 4.00 cm is
+. (a) What is the potential
+difference between the plates? (b) The plate
+with the lowest potential is taken to be zero
+volts. What is the potential 1.00 cm from that
+plate and 3.00 cm from the other?
+
+# Problem 39
+
+39 . Two parallel conducting plates are separated by
+10.0 cm, and one of them is taken to be at zero
+volts. (a) What is the electric field strength
+between them, if the potential 8.00 cm from the
+zero volt plate (an
+d 2.00 cm from the other) is
+450 V? (b) What is the voltage between the
+plates?
+
+# Problem 41
+
+41 . An electron is to be accelerated in a uniform
+electric field having a strength of
+ (a) What energy in keV is
+given to the electron if it is accelerated through
+0.400 m? (b) Over what distance would it have
+to be accelerated to increase its energy by 50.0
+GeV?
+
+# Problem 43
+
+43 . The electric field in a region is pointed away from
+the z-axis and the magnitude depends upon the
+distance s from the axis. The magnitude of the
+electric field is given as  where  is a
+constant. Find the potential difference between
+points , explicitly stating the path over
+which you conduct the integration for the line
+integral.
+
+# Problem 45
+
+45 . A 0.500-cm-diameter plastic sphere, used in a
+static electricity demonstration, has a uniformly
+distributed 40.0-pC charge on its surface. What
+is the potential near its surface?
+
+# Problem 47
+
+47 . If the potential due to a point charge is
+ at a distance of 15.0 m, what are
+the sign and magnitude of the charge?
+
+# Problem 49
+
+49 . A research Van de Graaff generator has a
+2.00-m-diameter metal sphere with a charge of
+5.00 mC on it. Assume the potential energy is
+zero at a reference point infinitely far away from
+the Van de Graaff. (a) What is the potential near
+its surface? (b) At what distance from its center
+is the potential 1.00 MV? (c) An oxygen atom
+with three missing electrons is released near the
+Van de Graaff generator. What is its kinetic
+energy in MeV when the atom is at the distance
+found in part b?
+
+# Problem 51
+
+51 . (a) What is the potential between two points
+situated 10 cm and 20 cm from a  point
+charge? (b) To what location should the point at
+20 cm be moved to increase this potential
+difference by a factor of two?
+
+# Problem 53
+
+53 . Two charges  are
+separated by 4.0 cm on the z-axis symmetrically
+about origin, with the positive one uppermost.
+Two space points of interest  are
+located 3.0 cm and 30 cm from origin at an
+angle  with respect to the z-axis. Evaluate
+electric potentials at  in two ways: (a)
+Using the exact formula for point charges, and
+(b) using the approximate dipole potential
+formula.
+
+# Problem 55
+
+55 . Throughout a region, equipotential surfaces are
+given by . The surfaces are equally
+spaced with  for
+ for
+ for  What is
+the electric field in this region?
+
+# Problem 57
+
+57 . Calculate the electric field of an infinite line
+charge, throughout space.
+7.5 Equipotential Surfaces and Conductors
+
+# Problem 59
+
+59 . A very large sheet of insulating material has had
+an excess of electrons placed on it to a surface
+charge density of . (a) As the
+distance from the sheet increases, does the
+potential increase or decrease? Can you explain
+why without any calculations? Does the location
+of your reference point matter? (b) What is the
+shape of the equipotential surfaces? (c) What is
+the spacing between surfaces that differ by 1.00
+V?
+
+# Problem 61
+
+61 . Two large charged plates of charge density
+ face each other at a separation of
+5.0 mm. (a) Find the electric potential
+everywhere. (b) An electron is released from rest
+at the negative plate; with what speed will it
+strike the positive plate?
+
+# Problem 63
+
+63 . Two parallel plates 10 cm on a side are given
+equal and opposite charges of magnitude
+ The plates are 1.5 mm apart.
+What is the potential difference between the
+plates?
+
+# Problem 65
+
+65 . Concentric conducting spherical shells carry
+charges Q and –Q, respectively. The inner shell
+has negligible thickness. What is the potential
+difference between the shells?
+
+# Problem 67
+
+67 . A solid cylindrical conductor of radius a is
+surrounded by a concentric cylindrical shell of
+inner radius b. The solid cylinder and the shell
+carry charges Q and –Q, respectively. Assuming
+that the length L of both conductors is much
+greater than a or b, what is the potential
+difference between the two conductors?
+7.6 Applications of Electrostatics
+
+# Problem 69
+
+69 . (a) What is the direction and magnitude of an
+electric field that supports the weight of a free
+electron near the surface of Earth? (b) Discuss
+what the small value for this field implies
+regarding the relative strength of the
+gravitational and electrostatic forces.
+
+# Problem 71
+
+71 . In a Geiger counter, a thin metallic wire at the
+cente
+r of a metallic tube is kept at a high voltage
+with respect to the metal tube. Ionizing radiation
+entering the tube knocks electrons off gas
+molecules or sides of the tube that then
+accelerate towards the center wire, knocking off
+even more electrons. This process eventually
+leads to an avalanche that is detectable as a
+current. A particular Geiger counter has a tube of
+radius R and the inner wire of radius a is at a
+potential of  volts with respect to the outer
+metal tube. Consider a point P at a distance s
+from the center wire and far away from the ends.
+(a) Find a formula for the electric field at a point
+P inside using the infinite wire approximation. (b)
+Find a formula for the electric potential at a
+point P inside. (c) Use
+ and
+find the value of the electric field at a point 1.00
+cm from the center.
+318     7 • Chapter Review
+
+# Problem 73
+
+73 . To form a helium atom, an alpha particle that
+contains two protons and two neutrons is fixed
+at one location, and two electrons are brought in
+from far away, one at a time. The first electron is
+placed at  from the alpha
+particle and held there while the second electron
+is brought to  from the alpha
+particle on the other side from the first electron.
+See the final configuration below. (a) How much
+work is done in each step? (b) What is the
+electrostatic energy of the alpha particle and two
+electrons in the final configuration?
+
+# Problem 75
+
+75 . The probability of fusion occurring is greatly
+enhanced when appropriate nuclei are brought
+close together, but mutual Coulomb repulsion
+must be overcome. This can be done using the
+kinetic energy of high-temperature gas ions or
+by accelerating the nuclei toward one another.
+(a) Calculate the potential energy of two singly
+charged nuclei separated by
+(b) At what temperature will atoms of a gas have
+an average kinetic energy equal to this needed
+electrical potential energy?
+
+# Problem 77
+
+77 . An electron enters a region between two large
+parallel pla
+tes made of aluminum separated by a
+distance of 2.0 cm and kept at a potential
+difference of 200 V. The electron enters through
+a small hole in the negative plate and moves
+toward the positive plate. At the time the
+electron is near the negative plate, its speed is
+ Assume the electric field
+between the plates to be uniform, and find the
+speed of electron at (a) 0.10 cm, (b) 0.50 cm, (c)
+1.0 cm, and (d) 1.5 cm from the negative plate,
+and (e) immediately before it hits the positive
+plate.
+
+# Problem 79
+
+79 . (a) Will the electric field strength between two
+parallel conducting plates exceed the
+breakdown strength of dry air, which is
+, if the plates are separated by
+2.00 mm and a potential difference of
+ is applied? (b) How close together
+can the plates be with this applied voltage?
+
+# Problem 81
+
+81 . A double charged ion is accelerated to an energy
+of 32.0 keV by the electric field between two
+parallel conducting plates separated by 2.00 cm.
+What is the electric field strength between the
+plates?
+
+# Problem 83
+
+83 . A lightning bolt strikes a tree, moving 20.0 C of
+charge through a potential difference of
+ (a) What energy was
+dissipated? (b) What mass of water could be
+raised from  to the boiling point and then
+boiled by this energy? (c) Discuss the damage
+that could be caused to the tree by the
+expansion of the boiling steam.
+
+# Problem 85
+
+85 . (a) A sphere has a surface uniformly charged
+with 1.00 C. At what distance from its center is
+the potential 5.00 MV? (b) What does your
+answer imply about the practical aspect of
+isolating such a large charge?
+
+# Problem 87
+
+87 . In one of the classic nuclear physics
+experiments at the beginning of the twentieth
+century, an alpha particle was accelerated
+toward a gold nucleus, and its path was
+substantially deflected by the Coulomb
+interaction. If the energy of the doubly charged
+alpha nucleus was 5.00 MeV, how close to the
+gold nucleus (79 protons) could it come before
+being deflected?
+Additional Problems
+
+# Problem 89
+
+89 . A battery-operated car uses a 12.0-V system.
+Find the charge the batteries must be able to
+move in order to accelerate the 750 kg car from
+rest to 25.0 m/s, make it climb a
+high hill, and finally cause it to travel at a
+constant 25.0 m/s while climbing with
+ force for an hour.
+
+# Problem 91
+
+91 . A uniformly charged half-ring of radius 10 cm is
+placed on a nonconducting table. It is found that
+3.0 cm above the center of the half-ring the
+potential is –3.0 V with respect to zero potential
+at infinity. How much charge is in the half-ring?
+
+# Problem 93
+
+93 . A CD disk of radius ( ) is sprayed with
+a charged paint so that the charge varies
+continually with radial distance r from the center
+in the following manner: .
+Find the potential at a point 4 cm above the
+center.
+
+# Problem 95
+
+95 . A large metal plate is charged uniformly to a
+densit
+y of . How far apart
+are the equipotential surfaces that represent a
+potential difference of 25 V?
+
+# Problem 97
+
+97 . (a) Find  limit of the potential of a finite
+uniformly charged rod and show that it coincides
+with that of a point charge formula. (b) Why
+would you expect this result?
+
+# Problem 99
+
+99 . Two parallel conducting plates, each of cross-
+sectional area , are 2.0 cm apart and
+uncharged. If  electrons are
+transferred from one plate to the other, (a) what
+is the potential difference between the plates?
+(b) What is the potential difference between the
+positive plate and a point 1.25 cm from it that is
+between the plates?
+
+# Problem 101
+
+101 . Earth has a net charge that produces an electric
+field of approximately 150 N/C downward at its
+surface. (a) What is the magnitude and sign of
+the excess charge, noting the electric field of a
+conducting sphere is equivalent to a point
+charge at its center? (b) What acceleration will
+the field produce on a free electron near Earth’s
+surface? (c) What mass object with a single extra
+electron will have its wei
+ght supported by this
+field?
+
+# Problem 103
+
+103 . What can you say about two charges ,
+if the electric field one-fourth of the way from
+ is zero?
+
+# Problem 105
+
+105 . An electron has an initial velocity of
+ in a uniform
+electric field. The field accelerates the electron
+in the direction opposite to its initial velocity. (a)
+What is the direction of the electric field? (b)
+How far does the electron travel before coming
+to rest? (c) How long does it take the electron to
+come to rest? (d) What is the electron’s velocity
+when it returns to its starting point?
+Challenge Problems
+
+# Problem 107
+
+107 . Look up (presumably online, or by dismantling
+an old device and making measurements) the
+magnitude of the potential deflection plates
+(and the space between them) in an ink jet
+printer. Then look up the speed with which the
+ink comes out the nozzle. Can you calculate the
+typical mass of an ink drop?
+
+# Problem 109
+
+109 . Calculate the electric field of a dipole throughout
+space from the potential.
+
+322     7 • Chapter Review
+
+INTRODUCTION
+CHAPTER 8
+Capacitance
+8.1 Capacitors and Capacitance
+8.2 Capacitors in Series and in Parallel
+8.3 Energy Stored in a Capacitor
+8.4 Capacitor with a Dielectric
+8.5 Molecular Model of a Dielectric
+Capacitors are important components of electrical circuits in many electronic devices, including
+pacemakers, cell phones, and computers. In this chapter, we study their properties, and, over the next few chapters,
+we examine their function in combination with other circuit elements. By themselves, capacitors are often used to
+store electrical energy and release it when needed; with other circuit components, capacitors often act as part of a
+filter that allows some electrical signals to pass while blocking others. You can see why capacitors are considered
+one of the fundamental components of electrical circuits.
+8.1 Capacitors and Capacitance
+LEARNING OBJECTIVES
+By the end of this section, you will be able to:
+• Explain the concepts of a capacitor and its capacitance
+• Describe how to evaluate the capacitance of a system of conductors
+A capacitor is a device used to store electrical charge and electrical energy. Capacitors are generally with two
+electrical conductors separated by a distance. (Note that such electrical conductors are sometimes referred to as
+“electrodes,” but more correctly, they are “capacitor plates.”) The space between capacitors may simply be a
+vacuum, and, in that case, a capacitor is then known as a “vacuum capacitor.” However, the space is usually filled
+with an insulating material known as a dielectric. (You will learn more about dielectrics in the sections on dielectrics
+FIGURE 8.1 The tree-like branch patterns in this clear Plexiglas® block are known as a Lichtenberg figure, named for the German physicist
+
+Georg Christof Lichtenberg (1742–1799), who was the first to study these patterns. The “branches” are created by the dielectric
+breakdown produced by a strong electric field. (credit: modification of work by Bert Hickman)
+CHAPTER OUTLINE
+
+later in this chapter.) The amount of storage in a capacitor is determined by a property called capacitance, which you
+will learn more about a bit later in this section.
+Capacitors have applications ranging from filtering static from radio reception to energy storage in heart
+defibrillators. Typically, commercial capacitors have two conducting parts close to one another but not touching,
+such as those in Figure 8.2. Most of the time, a dielectric is used between the two plates. When battery terminals
+are connected to an initially uncharged capacitor, the battery potential moves a small amount of charge of
+magnitude Q from the positive plate to the negative plate. The capacitor remains neutral overall, but with charges
+ and  residing on opposite plates.
+FIGURE 8.2 Both capacitors shown here were initially uncharged before being connected to a battery. They now have charges of  and
+ (respectively) on their plates. (a) A parallel-plate capacitor consists of two plates of opposite charge with area A separated by distance
+d. (b) A rolled capacitor has a dielectric material between its two conducting sheets (plates).
+A system composed of two identical parallel-conducting plates separated by a distance is called a parallel-plate
+capacitor (Figure 8.3). The magnitude of the electrical field in the space between the parallel plates is ,
+where  denotes the surface charge density on one plate (recall that  is the charge Q per the surface area A). Thus,
+the magnitude of the field is directly proportional to Q.
+324 8 • Capacitance
+
+FIGURE 8.3 The charge separation in a capacitor shows that the charges remain on the surfaces of the capacitor plates. Electrical field lines
+in a parallel-plate capacitor begin with positive charges and end with negative charges. The magnitude of the electrical field in the space
+between the plates is in direct proportion to the amount of charge on the capacitor.
+Capacitors with different physical characteristics (such as shape and size of their plates) store different amounts of
+charge for the same applied voltage V across their plates. The capacitance C of a capacitor is defined as the ratio of
+the maximum charge Q that can be stored in a capacitor to the applied voltage V across its plates. In other words,
+capacitance is the largest amount of charge per volt that can be stored on the device:
+Note that in Equation 8.1, V represents the potential difference between the capacitor plates, not the potential at
+any one point. While it would be more accurate to write it as ΔV, the practice of using a plain V in this context is
+nearly universal.
+The SI unit of capacitance is the farad (F), named after Michael Faraday (1791–1867). Since capacitance is the
+charge per unit voltage, one farad is one coulomb per one volt, or
+By definition, a 1.0-F capacitor is able to store 1.0 C of charge (a very large amount of charge) when the potential
+difference between its plates is only 1.0 V. One farad is therefore a very large capacitance. Typical capacitance
+values range from picofarads  to millifarads , which also includes microfarads
+( ). Capacitors can be produced in various shapes and sizes (Figure 8.4).
+8.1
+8.1 • Capacitors and Capacitance 325
+
+FIGURE 8.4 These are some typical capacitors used in electronic devices. A capacitor’s size is not necessarily related to its capacitance
+value. (credit: Windell Oskay)
+Calculation of Capacitance
+We can calculate the capacitance of a pair of conductors with the standard approach that follows.
+PROBLEM-SOL VING S TRATEGY
+Calculating Capacitance
+1. Assume that the capacitor has a charge Q.
+2. Determine the electrical field  between the conductors. If symmetry is present in the arrangement of
+conductors, you may be able to use Gauss’s law for this calculation.
+3. Find the potential difference between the conductors from
+where the path of integration leads from one conductor to the other. The magnitude of the potential difference
+is then .
+4. With V known, obtain the capacitance directly from Equation 8.1.
+To show how this procedure works, we now calculate the capacitances of parallel-plate, spherical, and cylindrical
+capacitors. In all cases, we assume vacuum capacitors (empty capacitors) with no dielectric substance in the space
+between conductors.
+Parallel-Plate Capacitor
+The parallel-plate capacitor (Figure 8.5) has two identical conducting plates, each having a surface area A,
+separated by a distance d. When a voltage V is applied to the capacitor, it stores a charge Q, as shown. We can see
+how its capacitance may depend on A and d by considering characteristics of the Coulomb force. We know that force
+between the charges increases with charge values and decreases with the distance between them. We should
+expect that the bigger the plates are, the more charge they can store. Thus, C should be greater for a larger value of
+A. Similarly, the closer the plates are together, the greater the attraction of the opposite charges on them. Therefo
+re,
+C should be greater for a smaller d.
+8.2
+326 8 • Capacitance
+
+FIGURE 8.5 In a parallel-plate capacitor with plates separated by a distance d, each plate has the same surface area A.
+We define the surface charge density  on the plates as
+We know from previous chapters that when d is small, the electrical field between the plates is fairly uniform
+(ignoring edge effects) and that its magnitude is given by
+where the constant  is the permittivity of free space,  The SI unit of F/m is equivalent to
+ Since the electrical field  between the plates is uniform, the potential difference between the plates is
+Therefore Equation 8.1 gives the capacitance of a parallel-plate capacitor as
+Notice from this equation that capacitance is a function only of the geometry and what material fills the space
+between the plates (in this case, vacuum) of this capacitor. In fact, this is true not only for a parallel-plate capacitor,
+but for all capacitors: The capacitance is independent of Q or V. If the charge changes, the potential changes
+correspondingly so that Q/V remains constant.
+EXAMPLE 8.1
+Capacitance and Charge Stored in a Parallel-Plate Capacitor
+(a) What is the capacitance of an empty parallel-plate capacitor with metal plates that each have an area of
+, separated by 1.00 mm? (b) How much charge is stored in this capacitor if a voltage of  is
+applied to it?
+8.3
+8.1 • Capacitors and Capacitance 327
+
+Strategy
+Finding the capacitance C is a straightforward application of Equation 8.3. Once we find C, we can find the charge
+stored by using Equation 8.1.
+Solution
+a. Entering the given values into Equation 8.3 yields
+This small capacitance value indicates how difficult it is to make a device with a large capacitance.
+b. Inverting Equation 8.1 and entering the known values into this equation gives
+Significance
+This charge is only slightly greater than those found in typical static electricity applications. Since air breaks down
+(becomes conductive) at an electrical field strength of about 3.0 MV/m, much more charge can be stored on this
+capacitor by increasing the voltage.
+EXAMPLE 8.2
+A 1-F Parallel-Plate Capacitor
+Suppose you wish to construct a parallel-plate capacitor with a capacitance of 1.0 F. What area must you use for
+each plate if the plates are separated by 1.0 mm?
+Solution
+Rearranging Equation 8.3, we obtain
+Each square plate would have to be 10 km across. It used to be a common prank to ask a student to go to the
+laboratory stockroom and request a 1-F parallel-plate capacitor, until stockroom attendants got tired of the joke.
+CHECK YOUR UNDER STANDING 8.1
+The capacitance of a parallel-plate capacitor is 2.0 pF. If the area of each plate is , what is the plate
+separation?
+CHECK YOUR UNDER STANDING 8.2
+Verify that  and  have the same physical units.
+Spherical Capacitor
+A spherical capacitor is another set of conductors whose capacitance can be easily determined (Figure 8.6). It
+consists of two concentric conducting spherical shells of radii  (inner shell) and  (outer shell). The shells are
+given equal and opposite charges  and , respectively. From symmetry, the electrical field between the shells
+is directed radially outwa
+rd. We can obtain the magnitude of the field by applying Gauss’s law over a spherical
+Gaussian surface of radius r concentric with the shells. The enclosed charge is ; therefore we have
+328 8 • Capacitance
+
+Thus, the electrical field between the conductors is
+We substitute this  into Equation 8.2 and integrate along a radial path between the shells. Since, as noted in the
+problem solving strategy, V in Equation 8.1 is the magnitude of the potential difference, the integration path should
+be against the direction of the electric field, from  to :
+We substitute this result into Equation 8.1 to find the capacitance of a spherical capacitor:
+Since we want the magnitude of , we could just take the absolute value at the end and not worry about tracking
+the minus signs. We can see that  gives us a positive capacitance, as required.
+FIGURE 8.6 A spherical capacitor consists of two concentric conducting spheres. Note that the charges on a conductor reside on its
+surface.
+EXAMPLE 8.3
+Capacitance of an Isolated Sphere
+Calculate the capacitance of a single isolated conducting sphere of radius  and compare it with Equation 8.4 in
+the limit as ∞ .
+Strategy
+We assume that the charge on the sphere is Q, and so we follow the four steps outlined earlier. We also assume the
+other conductor to be a concentric hollow sphere of infinite radius.
+Solution
+On the outside of an isolated conducting sphere, the electrical field is given by Equation 8.2. The magnitude of the
+potential difference between the surface of an isolated sphere and infinity is
+8.4
+8.1 • Capacitors and Capacitance 329
+
+∞ ∞ ∞
+The capacitance of an isolated sphere is therefore
+Significance
+The same result can be obtained by taking the limit of Equation 8.4 as ∞ . A single isolated sphere is
+therefore equivalent to a spherical capacitor whose outer shell has an infinitely large radius.
+CHECK YOUR UNDER STANDING 8.3
+The radius of the outer sphere of a spherical capacitor is five times the radius of its inner shell. What are the
+dimensions of this capacitor if its capacitance is 5.00 pF?
+Cylindrical Capacitor
+A cylindrical capacitor consists of two concentric, conducting cylinders (Figure 8.7). The inner cylinder, of radius ,
+may either be a shell or be completely solid. The outer cylinder is a shell of inner radius . We assume that the
+length of each cylinder is l and that the excess charges  and  reside on the inner and outer cylinders,
+respectively.
+FIGURE 8.7 A cylindrical capacitor consists of two concentric, conducting cylinders. Here, the charge on the outer surface of the inner
+cylinder is positive (indicated by ) and the charge on the inner surface of the outer cylinder is negative (indicated by ).
+With edge effects ignored, the electrical field between the conductors is directed radially outward from the common
+axis of the cylinders. Using the Gaussian surface shown in Figure 8.7, we have
+Therefore, the electrical field between the cylinders is
+Here  is the unit radial vector along the radius of the cylinder. We can substitute into Equation 8.2 and find the
+potential difference between the cylinders:
+8.5
+330 8 • Capacitance
+
+Thus, the capacitance of a cylindrical capacitor is
+As in other cases, this capacitance depends only on the geometry of the conductor arrangement. An important
+application of Equation 8.6 is the determination of the capacitance per unit length of a coaxial cable, which is
+commonly used to transmit time-varying electrical signals. A coaxial cable consists of two concentric, cylindrical
+conductors separated by an insulating material. (Here, we assume a vacuum between the conductors, but the
+physics is qualitatively almost the same when the space between the conductors is filled by a dielectric.) This
+configuration shields the electrical signal propagating down the inner conductor from stray electrical fields external
+to the cable. Current flows in opposite directions in the inner and the outer conductors, with the outer conductor
+usually grounded. Now, from Equation 8.6, the capacitance per unit length of the coaxial cable is given by
+In practical applications, it is important to select specific values of C/l. This can be accomplished with appropriate
+choices of radii of the conductors and of the insulating material between them.
+CHECK YOUR UNDER STANDING 8.4
+When a cylindrical capacitor is given a charge of 0.500 nC, a potential difference of 20.0 V is measured between the
+cylinders. (a) What is the capacitance of this system? (b) If the cylinders are 1.0 m long, what is the ratio of their
+radii?
+Several types of practical capacitors are shown in Figure 8.4. Common capacitors are often made of two small
+pieces of metal foil separated by two small pieces of insulation (see Figure 8.2(b)). The metal foil and insulation are
+encased in a protective coating, and two metal leads are used for connecting the foils to an external circuit. Some
+common
+insulating materials are mica, ceramic, paper, and Teflon™ non-stick coating.
+Another popular type of capacitor is an electrolytic capacitor. It consists of an oxidized metal in a conducting paste.
+The main advantage of an electrolytic capacitor is its high capacitance relative to other common types of capacitors.
+For example, capacitance of one type of aluminum electrolytic capacitor can be as high as 1.0 F. However, you must
+be careful when using an electrolytic capacitor in a circuit, because it only functions correctly when the metal foil is
+at a higher potential than the conducting paste. When reverse polarization occurs, electrolytic action destroys the
+oxide film. This type of capacitor cannot be connected across an alternating current source, because half of the
+time, ac voltage would have the wrong polarity, as an alternating current reverses its polarity (see Alternating-
+Current Circuits on alternating-current circuits).
+A variable air capacitor (Figure 8.8) has two sets of parallel plates. One set of plates is fixed (indicated as “stator”),
+and the other set of plates is attached to a shaft that can be rotated (indicated as “rotor”). By turning the shaft, the
+cross-sectional area in the overlap of the plates can be changed; therefore, the capacitance of this system can be
+tuned to a desired value. Capacitor tuning has applications in any type of radio transmission and in receiving radio
+signals from electronic devices. Any time you tune your car radio to your favorite station, think of capacitance.
+8.6
+8.1 • Capacitors and Capacitance 331
+
+FIGURE 8.8 In a variable air capacitor, capacitance can be tuned by changing the effective area of the plates. (credit: modification of work
+by Robbie Sproule)
+The symbols shown in Figure 8.9 are circuit representations of various types of capacitors. We generally use the
+symbol shown in Figure 8.9(a). The symbol in Figure 8.9(c) represents a variable-capacitance capacitor. Notice the
+similarity of these symbols to the symmetry of a parallel-plate capacitor. An electrolytic capacitor is represented by
+the symbol in part Figure 8.9(b), where the curved plate indicates the negative terminal.
+FIGURE 8.9 This shows three different circuit representations of capacitors. The symbol in (a) is the most commonly used one. The symbol
+in (b) represents an electrolytic capacitor. The symbol in (c) represents a variable-capacitance capacitor.
+An interesting applied example of a capacitor model comes from cell biology and deals with the electrical potential
+in the plasma membrane of a living cell (Figure 8.10). Cell membranes separate cells from their surroundings but
+allow some selected ions to pass in or out of the cell. The potential difference across a membrane is about 70 mV.
+The cell membrane may be 7 to 10 nm thick. Treating the cell membrane as a nano-sized capacitor, the estimate of
+the smallest electrical field strength across its ‘plates’ yields the value
+.
+This magnitude of electrical field is great enough to create an electrical spark in the air.
+332 8 • Capacitance
+
+FIGURE 8.10 The semipermeable membrane of a biological cell has different concentrations of ions on its interior surface than on its
+exterior. Diffusion moves the  (potassium) and  (chloride) ions in the directions shown, until the Coulomb force halts further transfer.
+In this way, the exterior of the membrane acquires a positive charge and its interior surface acquires a negative charge, creating a potential
+difference across the membrane. The membrane is normally impermeable to Na+ (sodium ions).
+The electrical charges involved with the cell membrane result in critical biological processes. Ernest Everett Just,
+whose expertise in understanding and handling egg cells led to a number of major discoveries, investigated the role
+of the cell membrane in reproductive fertilization. In one key experiment, Just established that the egg membrane
+undergoes a depolarizing "wave of negativity" the moment it fuses with a sperm cell. This change in charge is now
+known as the "fast block" that ensures that only one sperm cell fuses with an egg cell, which is critical for embryonic
+development.
+INTER ACTIVE
+Visit the PhET Explorations: Capacitor Lab (https://openstax.org/l/21phetcapacitor) to explore how a capacitor
+works. Change the size of the plates and add a dielectric to see the effect on capacitance. Change the voltage and
+see charges built up on the plates. Observe the electrical field in the capacitor. Measure the voltage and the
+electrical field.
+8.2 Capacitors in Series and in Parallel
+LEARNING OBJECTIVES
+By the end of this section, you will be able to:
+• Explain how to determine the equivalent capacitance of capacitors in series and in parallel combinations
+• Compute the potential difference across the plates and the charge on the plates for a
+ capacitor in a
+network and determine the net capacitance of a network of capacitors
+Several capacitors can be connected together to be used in a variety of applications. Multiple connections of
+capacitors behave as a single equivalent capacitor. The total capacitance of this equivalent single capacitor depends
+both on the individual capacitors and how they are connected. Capacitors can be arranged in two simple and
+common types of connections, known as series and parallel, for which we can easily calculate the total capacitance.
+These two basic combinations, series and parallel, can also be used as part of more complex connections.
+The Series Combination of Capacitors
+Figure 8.11 illustrates a series combination of three capacitors, arranged in a row within the circuit. As for any
+capacitor, the capacitance of the combination is related to the charge and voltage by using Equation 8.1. When this
+series combination is connected to a battery with voltage V, each of the capacitors acquires an identical charge Q. To
+explain, first note that the charge on the plate connected to the positive terminal of the battery is  and the charge
+on the plate connected to the negative terminal is . Charges are then induced on the other plates so that the sum
+8.2 • Capacitors in Series and in Parallel 333
+
+of the charges on all plates, and the sum of charges on any pair of capacitor plates, is zero. However, the potential
+drop  on one capacitor may be different from the potential drop  on another capacitor,
+because, generally, the capacitors may have different capacitances. The series combination of two or three
+capacitors resembles a single capacitor with a smaller capacitance. Generally, any number of capacitors connected
+in series is equivalent to one capacitor whose capacitance (called the equivalent capacitance) is smaller than the
+smallest of the capacitances in the series combination. Charge on this equivalent capacitor is the same as the
+charge on any capacitor in a series combination: That is, all capacitors of a series combination have the same
+charge. This occurs due to the conservation of charge in the circuit. When a charge Q in a series circuit is removed
+from a plate of the first capacitor (which we denote as ), it must be placed on a plate of the second capacitor
+(which we denote as  and so on.
+FIGURE 8.11 (a) Three capacitors are connected in series. The magnitude of the charge on each plate is Q. (b) The network of capacitors in
+(a) is equivalent to one capacitor that has a smaller capacitance than any of the individual capacitances in (a), and the charge on its plates is
+Q.
+We can find an expression for the total (equivalent) capacitance by considering the voltages across the individual
+capacitors. The potentials across capacitors 1, 2, and 3 are, respectively, , , and .
+These potentials must sum up to the voltage of the battery, giving the following potential balance:
+Potential V is measured across an equivalent capacitor that holds charge Q and has an equivalent capacitance .
+Entering the expressions for , , and , we get
+C
+anceling the charge Q, we obtain an expression containing the equivalent capacitance, , of three capacitors
+connected in series:
+This expression can be generalized to any number of capacitors in a series network.
+SERIES COMBINATION
+For capacitors connected in a series combination, the reciprocal of the equivalent capacitance is the sum of
+reciprocals of individual capacitances:
+334 8 • Capacitance
+
+EXAMPLE 8.4
+Equivalent Capacitance of a Series Network
+Find the total capacitance for three capacitors connected in series, given their individual capacitances are ,
+, and .
+Strategy
+Because there are only three capacitors in this network, we can find the equivalent capacitance by using Equation
+8.7 with three terms.
+Solution
+We enter the given capacitances into Equation 8.7:
+Now we invert this result and obtain
+Significance
+Note that in a series network of capacitors, the equivalent capacitance is always less than the smallest individual
+capacitance in the network.
+The Parallel Combination of Capacitors
+A parallel combination of three capacitors, with one plate of each capacitor connected to one side of the circuit and
+the other plate connected to the other side, is illustrated in Figure 8.12(a). Since the capacitors are connected in
+parallel, they all have the same voltage V across their plates. However, each capacitor in the parallel network may
+store a different charge. To find the equivalent capacitance  of the parallel network, we note that the total charge
+Q stored by the network is the sum of all the individual charges:
+On the left-hand side of this equation, we use the relation , which holds for the entire network. On the
+right-hand side of the equation, we use the relations  and  for the three
+capacitors in the network. In this way we obtain
+This equation, when simplified, is the expression for the equivalent capacitance of the parallel network of three
+capacitors:
+This expression is easily generalized to any number of capacitors connected in parallel in the network.
+8.7
+PARALLEL COMBINATION
+For capacitors connected in a parallel combination, the equivalent (net) capacitance is the sum of all individual
+capacitances in th
+e network,
+8.8
+8.2 • Capacitors in Series and in Parallel 335
+
+FIGURE 8.12 (a) Three capacitors are connected in parallel. Each capacitor is connected directly to the battery. (b) The charge on the
+equivalent capacitor is the sum of the charges on the individual capacitors.
+EXAMPLE 8.5
+Equivalent Capacitance of a Parallel Network
+Find the net capacitance for three capacitors connected in parallel, given their individual capacitances are
+Strategy
+Because there are only three capacitors in this network, we can find the equivalent capacitance by using Equation
+8.8 with three terms.
+Solution
+Entering the given capacitances into Equation 8.8 yields
+Significance
+Note that in a parallel network of capacitors, the equivalent capacitance is always larger than any of the individual
+capacitances in the network.
+Capacitor networks are usually some combination of series and parallel connections, as shown in Figure 8.13. To
+find the net capacitance of such combinations, we identify parts that contain only series or only parallel
+connections, and find their equivalent capacitances. We repeat this process until we can determine the equivalent
+capacitance of the entire network. The following example illustrates this process.
+336 8 • Capacitance
+
+FIGURE 8.13 (a) This circuit contains both series and parallel connections of capacitors. (b)  and  are in series; their equivalent
+capacitance is  (c) The equivalent capacitance  is connected in parallel with  Thus, the equivalent capacitance of the entire
+network is the sum of  and
+EXAMPLE 8.6
+Equivalent Capacitance of a Network
+Find the total capacitance of the combination of capacitors shown in Figure 8.13. Assume the capacitances are
+known to three decimal places  Round your answer to three
+decimal places.
+Strategy
+We first identify which capacitors are in series and which are in parallel. Capacitors  and  are in series. Their
+combination, labeled  is in parallel with
+Solution
+Since  are in series, their equivalent capacitance  is obtained with Equation 8.7:
+Capacitance  is connected in parallel with the third capacitance , so we use Equation 8.8 to find the equivalent
+capacitance C of the entire network:
+EXAMPLE 8.7
+Network of Capacitors
+Determine the net capacitance C of the capacitor combination shown in Figure 8.14 when the capacitances are
+ and . When a 12.0-V potential difference is maintained across the
+combination, find the charge and the voltage across each capacitor.
+8.2 • Capacitors in Series and in Parallel 337
+
+FIGURE 8.14 (a) A capacitor combination. (b) An equivalent two-capacitor combination.
+Strategy
+We first compute the net capacitance  of the parallel connection  and . Then C is the net capacitance of the
+series connection  and . We use the relation  to find the charges , , and , and the voltages
+, , and , across capacitors 1, 2, and 3, respectively.
+Solution
+The equivalent capacitance for  and  is
+The entire three-capacitor combination is equivalent to two capacitors in series,
+Consider the equivalent two-capacitor combination in Figure 8.14(b). Since the capacitors are in series, they have
+the same charge, . Also, the capacitors share the 12.0-V potential difference, so
+Now the potential difference across capacitor 1 is
+Because capacitors 2 and 3 are connected in parallel, they are at the same potential difference:
+Hence, the charges on these two capacitors are, respectively,
+Significance
+As expected, the net charge on the parallel combination of  and  is
+CHECK YOUR UNDER STANDING 8.5
+Determine the net capacitance C of each network of capacitors shown below. Assume that ,
+, , and . Find the charge on each capacitor, assuming there is a potential
+difference of 12.0 V across each network.
+338 8 • Capacitance
+
+8.3 Energy Stored in a Capacitor
+LEARNING OBJECTIVES
+By the end of this section, you will be able to:
+• Explain how energy is stored in a capacitor
+• Use energy relations to determine the energy stored in a capacitor network
+Most of us have seen dramatizations of medical personnel using a defibrillator to pass an electrical current through
+a patient’s heart to get it to beat normally. Often realistic in detail, the person applying the shock directs another
+person to “make it 400 joules this time.” The energy delivered by the defibrillator is stored in a capacitor and can be
+adjusted to fit the situation. SI units of joules are often employed. Less dramatic is the use of capacitors in
+microelectronics to supply energy when batteries are charged (Figure 8.15). Capacitors are also used to supply
+energy for flash lamps on cameras.
+8.3 • Energy Stored in a Capacitor 339
+
+FIGURE 8.15 The capacitors on the circuit board for an electronic device follow a labeling convention that identifies each one with a code
+that begins with the letter “C.” (credit: Windell Oskay)
+The energy  stored in a capacitor is electrostatic potential energy and is thus related to the charge Q and voltage
+V between the capacitor plates. A charged capacitor stores energy in the electrical field between its plates. As the
+capacitor is being charged, the electrical field builds up. When a charged capacitor is disconnected from a battery,
+its energy remains in the field in the space between its plates.
+To gain insight into how this energy may be expressed (in terms of Q and V), consider a charged, empty, parallel-
+plate capacitor; that is, a capacitor without a dielectric but with a vacuum between its plates. The space between its
+plates has a volume Ad, and it is filled with a uniform electrostatic field E. The total energy  of the capacitor is
+contained within this space. The energy density  in this space is simply  divided by the volume Ad. If we know
+the energy density, the energy can be found as . We will learn in Electromagnetic Waves (after
+completing the study of Maxwell’s equations) that the energy density  in a region of free space occupied by an
+electrical field E depends only on the magnitude of the field and is
+If we multiply the energy density by the volume between the plates, we obtain the amount of energy stored
+between the plates of a parallel-plate
+capacitor: .
+In this derivation, we used the fact that the electrical field between the plates is uniform so that  and
+ Because , we can express this result in other equivalent forms:
+The expression in Equation 8.10 for the energy stored in a parallel-plate capacitor is generally
+ valid for all types of
+capacitors. To see this, consider any uncharged capacitor (not necessarily a parallel-plate type). At some instant, we
+connect it across a battery, giving it a potential difference  between its plates. Initially, the charge on the
+plates is  As the capacitor is being charged, the charge gradually builds up on its plates, and after some time,
+it reaches the value Q. To move an infinitesimal charge dq from the negative plate to the positive plate (from a lower
+to a higher potential), the amount of work dW that must be done on dq is .
+This work becomes the energy stored in the electrical field of the capacitor. In order to charge the capacitor to a
+charge Q, the total work required is
+Since the geometry of the capacitor has not been specified, this equation holds for any type of capacitor. The total
+work W needed to charge a capacitor is the electrical potential energy  stored in it, or . When the charge
+8.9
+8.10
+340 8 • Capacitance
+
+is expressed in coulombs, potential is expressed in volts, and the capacitance is expressed in farads, this relation
+gives the energy in joules.
+Knowing that the energy stored in a capacitor is , we can now find the energy density  stored in a
+vacuum between the plates of a charged parallel-plate capacitor. We just have to divide  by the volume Ad of
+space between its plates and take into account that for a parallel-plate capacitor, we have  and
+. Therefore, we obtain
+We see that this expression for the density of energy stored in a parallel-plate capacitor is in accordance with the
+general relation expressed in Equation 8.9. We could repeat this calculation for either a spherical capacitor or a
+cylindrical capacitor—or other capacitors—and in all cases, we would end up with the general relation given by
+Equation 8.9.
+EXAMPLE 8.8
+Energy Stored in a Capacitor
+Calculate the energy stored in the capacitor network in Figure 8.14(a) when the capacitors are fully charged and
+when the capacitances are  and  respectively.
+Strategy
+We use Equation 8.10 to find the energy , , and  stored in capacitors 1, 2, and 3, respectively. The total
+energy is the sum of all these energies.
+Solution
+We identify  and ,  and ,  and  The
+energies stored in these capacitors are
+The total energy stored in this network is
+Significance
+We can verify this result by calculating the energy stored in the single  capacitor, which is found to be
+equivalent to the entire network. The voltage across the network is 12.0 V. The total energy obtained in this way
+agrees with our previously obtained result, .
+CHECK YOUR UNDER STANDING 8.6
+The potential difference across a 5.0-pF capacitor is 0.40 V. (a) What is the energy stored in this capacitor? (b) The
+potential differenc
+e is now increased to 1.20 V. By what factor is the stored energy increased?
+In a cardiac emergency, a portable electronic device known as an automated external defibrillator (AED) can be a
+lifesaver. A defibrillator (Figure 8.16) delivers a large charge in a short burst, or a shock, to a person’s heart to
+correct abnormal heart rhythm (an arrhythmia). A heart attack can arise from the onset of fast, irregular beating of
+the heart—called cardiac or ventricular fibrillation. Applying a large shock of electrical energy can terminate the
+arrhythmia and allow the body’s natural pacemaker to resume its normal rhythm. Today, it is common for
+ambulances to carry AEDs. AEDs are also found in many public places. These are designed to be used by lay
+8.3 • Energy Stored in a Capacitor 341
+
+persons. The device automatically diagnoses the patient’s heart rhythm and then applies the shock with appropriate
+energy and waveform. CPR (cardiopulmonary resuscitation) is recommended in many cases before using a
+defibrillator.
+FIGURE 8.16 Automated external defibrillators are found in many public places. These portable units provide verbal instructions for use in
+the important first few minutes for a person suffering a cardiac attack. (credit: Owain Davies)
+EXAMPLE 8.9
+Capacitance of a Heart Defibrillator
+A heart defibrillator delivers  of energy by discharging a capacitor initially at  What is its
+capacitance?
+Strategy
+We are given  and V, and we are asked to find the capacitance C. We solve Equation 8.10 for C and substitute.
+Solution
+Solving this expression for C and entering the given values yields
+8.4 Capacitor with a Dielectric
+LEARNING OBJECTIVES
+By the end of this section, you will be able to:
+• Describe the effects a dielectric in a capacitor has on capacitance and other properties
+• Calculate the capacitance of a capacitor containing a dielectric
+As we discussed earlier, an insulating material placed between the plates of a capacitor is called a dielectric.
+Inserting a dielectric between the plates of a capacitor affects its capacitance. To see why, let’s consider an
+experiment described in Figure 8.17. Initially, a capacitor with capacitance  when there is air between its plates
+is charged by a battery to voltage . When the capacitor is fully charged, the battery is disconnected. A charge
+then resides on the plates, and the potential difference between the plates is measured to be . Now, suppose we
+insert a dielectric that totally fills the gap between the plates. If we monitor the voltage, we find that the voltmeter
+342
+ 8 • Capacitance
+
+reading has dropped to a smaller value V. We write this new voltage value as a fraction of the original voltage ,
+with a positive number , :
+The constant  in this equation is called the dielectric constant of the material between the plates, and its value is
+characteristic for the material. A detailed explanation for why the dielectric reduces the voltage is given in the next
+section. Different materials have different dielectric constants (a table of values for typical materials is provided in
+the next section). Once the battery becomes disconnected, there is no path for a charge to flow to the battery from
+the capacitor plates. Hence, the insertion of the dielectric has no effect on the charge on the plate, which remains at
+a value of . Therefore, we find that the capacitance of the capacitor with a dielectric is
+This equation tells us that the capacitance  of an empty (vacuum) capacitor can be increased by a factor of
+when we insert a dielectric material to completely fill the space between its plates. Note that Equation 8.11 can also
+be used for an empty capacitor by setting . In other words, we can say that the dielectric constant of the
+vacuum is 1, which is a reference value.
+FIGURE 8.17 (a) When fully charged, a vacuum capacitor has a voltage  and charge  (the charges remain on plate’s inner surfaces; the
+schematic indicates the sign of charge on each plate). (b) In step 1, the battery is disconnected. Then, in step 2, a dielectric (that is
+electrically neutral) is inserted into the charged capacitor. When the voltage across the capacitor is now measured, it is found that the
+voltage value has decreased to . The schematic indicates the sign of the induced charge that is now present on the surfaces of the
+dielectric material between the
+ plates.
+The principle expressed by Equation 8.11 is widely used in the construction industry (Figure 8.18). Metal plates in
+an electronic stud finder act effectively as a capacitor. You place a stud finder with its flat side on the wall and move
+it continually in the horizontal direction. When the finder moves over a wooden stud, the capacitance of its plates
+changes, because wood has a different dielectric constant than a gypsum wall. This change triggers a signal in a
+circuit, and thus the stud is detected.
+8.11
+8.4 • Capacitor with a Dielectric 343
+
+FIGURE 8.18 An electronic stud finder is used to detect wooden studs behind drywall. (credit top: modification of work by Jane Whitney)
+The electrical energy stored by a capacitor is also affected by the presence of a dielectric. When the energy stored in
+an empty capacitor is , the energy U stored in a capacitor with a dielectric is smaller by a factor of ,
+As a dielectric material sample is brought near an empty charged capacitor, the sample reacts to the electrical field
+of the charges on the capacitor plates. Just as we learned in Electric Charges and Fields on electrostatics, there will
+be the induced charges on the surface of the sample; however, they are not free charges like in a conductor, because
+a perfect insulator does not have freely moving charges. These induced charges on the dielectric surface are of an
+opposite sign to the free charges on the plates of the capacitor, and so they are attracted by the free charges on the
+plates. Consequently, the dielectric is “pulled” into the gap, and the work to polarize the dielectric material between
+the plates is done at the expense of the stored electrical energy, which is reduced, in accordance with Equation
+8.12.
+EXAMPLE 8.10
+Inserting a Dielectric into an Isolated Capacitor
+An empty 20.0-pF capacitor is charged to a potential difference of 40.0 V. The charging battery is then
+disconnected, and a piece of Teflon™ with a dielectric constant of 2.1 is inserted to completely fill the space
+between the capacitor plates (see Figure 8.17). What are the values of (a) the capacitance, (b) the charge of the
+plate, (c) the potential difference between the plates, and (d) the energy stored in the capacitor with and without
+dielectric?
+Strategy
+We identify the original capacitance  and the origi
+nal potential difference  between the
+8.12
+344 8 • Capacitance
+
+plates. We combine Equation 8.11 with other relations involving capacitance and substitute.
+Solution
+a. The capacitance increases to
+b. Without dielectric, the charge on the plates is
+Since the battery is disconnected before the dielectric is inserted, the plate charge is unaffected by the
+dielectric and remains at 0.8 nC.
+c. With the dielectric, the potential difference becomes
+d. The stored energy without the dielectric is
+With the dielectric inserted, we use Equation 8.12 to find that the stored energy decreases to
+Significance
+Notice that the effect of a dielectric on the capacitance of a capacitor is a drastic increase of its capacitance. This
+effect is far more profound than a mere change in the geometry of a capacitor.
+CHECK YOUR UNDER STANDING 8.7
+When a dielectric is inserted into an isolated and charged capacitor, the stored energy decreases to 33% of its
+original value. (a) What is the dielectric constant? (b) How does the capacitance change?
+8.5 Molecular Model of a Dielectric
+LEARNING OBJECTIVES
+By the end of this section, you will be able to:
+• Explain the polarization of a dielectric in a uniform electrical field
+• Describe the effect of a polarized dielectric on the electrical field between capacitor plates
+• Explain dielectric breakdown
+We can understand the effect of a dielectric on capacitance by looking at its behavior at the molecular level. As we
+have seen in earlier chapters, in general, all molecules can be classified as either polar or nonpolar. There is a net
+separation of positive and negative charges in an isolated polar molecule, whereas there is no charge separation in
+an isolated nonpolar molecule (Figure 8.19). In other words, polar molecules have permanent electric-dipole
+moments and nonpolar molecules
+ do not. For example, a molecule of water is polar, and a molecule of oxygen is
+nonpolar. Nonpolar molecules can become polar in the presence of an external electrical field, which is called
+induced polarization.
+8.5 • Molecular Model of a Dielectric 345
+
+FIGURE 8.19 The concept of polarization: In an unpolarized atom or molecule, a negatively charged electron cloud is evenly distributed
+around positively charged centers, whereas a polarized atom or molecule has an excess of negative charge at one side so that the other
+side has an excess of positive charge. However, the entire system remains electrically neutral. The charge polarization may be caused by an
+external electrical field. Some molecules and atoms are permanently polarized (electric dipoles) even in the absence of an external
+electrical field (polar molecules and atoms).
+Let’s first consider a dielectric composed of polar molecules. In the absence of any external electrical field, the
+electric dipoles are oriented randomly, as illustrated in Figure 8.20(a). However, if the dielectric is placed in an
+external electrical field , the polar molecules align with the external field, as shown in part (b) of the figure.
+Opposite charges on adjacent dipoles within the volume of dielectric neutralize each other, so there is no net charge
+within the dielectric (see the dashed circles in part (b)). However, this is not the case very close to the upper and
+lower surfaces that border the dielectric (the region enclosed by the dashed rectangles in part (b)), where the
+alignment does produce a net charge. Since the external electrical field merely aligns the dipoles, the dielectric as a
+whole is neutral, and the surface charges induced on its opposite faces are equal and opposite. These induced
+surface charges  and  produce an additional electrical field  (an induced electrical field), which
+opposes the external field , as illustrated in part (c).
+FIGURE 8.20 A dielectric with polar molecules: (a) In the absence of an external electrical field; (b) i
+n the presence of an external electrical
+field . The dashed lines indicate the regions immediately adjacent to the capacitor plates. (c) The induced electrical field  inside the
+dielectric produced by the induced surface charge  of the dielectric. Note that, in reality, the individual molecules are not perfectly
+aligned with an external field because of thermal fluctuations; however, the average alignment is along the field lines as shown.
+346 8 • Capacitance
+
+The same effect is produced when the molecules of a dielectric are nonpolar. In this case, a nonpolar molecule
+acquires an induced electric-dipole moment because the external field  causes a separation between its
+positive and negative charges. The induced dipoles of the nonpolar molecules align with  in the same way as the
+permanent dipoles of the polar molecules are aligned (shown in part (b)). Hence, the electrical field within the
+dielectric is weakened regardless of whether its molecules are polar or nonpolar.
+Therefore, when the region between the parallel plates of a charged capacitor, such as that shown in Figure 8.21(a),
+is filled with a dielectric, within the dielectric there is an electrical field  due to the free charge  on the
+capacitor plates and an electrical field  due to the induced charge  on the surfaces of the dielectric. Their
+vector sum gives the net electrical field  within the dielectric between the capacitor plates (shown in part (b) of the
+figure):
+This net field can be considered to be the field produced by an effective charge  on the capacitor.
+FIGURE 8.21 Electrical field: (a) In an empty capacitor, electrical field . (b) In a dielectric-filled capacitor, electrical field .
+In most dielectrics, the net electrical field  is proportional to the field  produced by the free charge. In terms of
+these two electrical fields, the dielectric constant  of the material is defined as
+Since  and  point in opposite directions, the magnitude E is smaller than the magnitude  and therefore
+ Combining Equation 8.14 with Equation 8.13, and rearranging the terms, yields the following expression for
+the induced electrical field in a dielectric:
+When the magnitude of an external electrical field becomes too large, the molecules of diel
+ectric material start to
+become ionized. A molecule or an atom is ionized when one or more electrons are removed from it and become free
+electrons, no longer bound to the molecular or atomic structure. When this happens, the material can conduct,
+thereby allowing charge to move through the dielectric from one capacitor plate to the other. This phenomenon is
+called dielectric breakdown. (Figure 8.1 shows typical random-path patterns of electrical discharge during
+8.13
+8.14
+8.15
+8.5 • Molecular Model of a Dielectric 347
+
+dielectric breakdown.) The critical value, , of the electrical field at which the molecules of an insulator become
+ionized is called the dielectric strength of the material. The dielectric strength imposes a limit on the voltage that
+can be applied for a given plate separation in a capacitor. For example, the dielectric strength of air is
+, so for an air-filled capacitor with a plate separation of  the limit on the potential
+difference that can be safely applied across its plates without causing dielectric breakdown is
+  .
+However, this limit becomes 60.0 kV when the same capacitor is filled with Teflon™, whose dielectric strength is
+about . Because of this limit imposed by the dielectric strength, the amount of charge that an air-filled
+capacitor can store is only  and the charge stored on the same Teflon™-filled capacitor can be
+as much as
+which is about 42 times greater than a charge stored on an air-filled capacitor. Typical values of dielectric constants
+and dielectric strengths for various materials are given in Table 8.1. Notice that the dielectric constant  is exactly
+1.0 for a vacuum (the empty space serves as a reference condition) and very close to 1.0 for air under normal
+conditions (normal pressure at room temperature). These two values are so close that, in fact, the properties of an
+air-filled capacitor are essentially the same as those of an empty capacitor.
+Material Dielectric constant Dielectric strength
+Vacuum 1 ∞
+Dry air (1 atm) 1.00059 3.0
+Teflon™ 2.1 60 to 173
+Paraffin 2.3 11
+Silicone oil 2.5 10 to 15
+Polystyrene 2.56 19.7
+Nylon 3.4 14
+Paper 3.7 16
+Fused quartz 3.78 8
+Glass 4 to 6 9.8 to 13.8
+Concrete 4.5 –
+Bakelite 4.9 24
+Diamond 5.5 2,000
+Pyrex glass 5.6 14
+Mica 6.0 118
+TABLE 8.1 Representative Values of
+Dielectric Constants and Dielectric Strengths of Various Materials
+at Room Temperature
+348 8 • Capacitance
+
+Material Dielectric constant Dielectric strength
+Neoprene rubber 6.7 15.7 to 26.7
+Water 80
+Sulfuric acid 84 to 100
+Titanium dioxide 86 to 173 –
+Strontium titanate 310 8
+Barium titanate 1,200 to 10,000 –
+Calcium copper titanate > 250,000 –
+TABLE 8.1 Representative Values of Dielectric Constants and Dielectric Strengths of Various Materials
+at Room Temperature
+Not all substances listed in the table are good insulators, despite their high dielectric constants. Water, for example,
+consists of polar molecules and has a large dielectric constant of about 80. In a water molecule, electrons are more
+likely found around the oxygen nucleus than around the hydrogen nuclei. This makes the oxygen end of the molecule
+slightly negative and leaves the hydrogens end slightly positive, which makes the molecule easy to align along an
+external electrical field, and thus water has a large dielectric constant. However, the polar nature of water molecules
+also makes water a good solvent for many substances, which produces undesirable effects, because any
+concentration of free ions in water conducts electricity.
+EXAMPLE 8.11
+Electrical Field and Induced Surface Charge
+Suppose that the distance between the plates of the capacitor in Example 8.10 is 2.0 mm and the area of each plate
+is . Determine: (a) the electrical field between the plates before and after the Teflon™ is inserted,
+and (b) the surface charge induced on the Teflon™ surfaces.
+Strategy
+In part (a), we know that the voltage across the empty capacitor is , so to find the electrical fields we use
+the relation  and Equation 8.14. In part (b), knowing the magnitude of the electrical field, we use the
+expression for the magnitude of electrical field near a charged plate , where  is a uniform surface c
+harge
+density caused by the surface charge. We use the value of free charge  obtained in Example
+8.10.
+Solution
+a. The electrical field  between the plates of an empty capacitor is
+The electrical field E with the Teflon™ in place is
+b. The effective charge on the capacitor is the difference between the free charge  and the induced charge
+. The electrical field in the Teflon™ is caused by this effective charge. Thus
+8.5 • Molecular Model of a Dielectric 349
+
+We invert this equation to obtain , which yields
+EXAMPLE 8.12
+Inserting a Dielectric into a Capacitor Connected to a Battery
+When a battery of voltage  is connected across an empty capacitor of capacitance , the charge on its plates is
+, and the electrical field between its plates is . A dielectric of dielectric constant  is inserted between the
+plates while the battery remains in place, as shown in Figure 8.22. (a) Find the capacitance C, the voltage V across
+the capacitor, and the electrical field E between the plates after the dielectric is inserted. (b) Obtain an expression
+for the free charge Q on the plates of the filled capacitor and the induced charge  on the dielectric surface in
+terms of the original plate charge .
+FIGURE 8.22 A dielectric is inserted into the charged capacitor while the capacitor remains connected to the battery.
+Strategy
+We identify the known values: , , , , and . Our task is to express the unknown values in terms of these
+known values.
+Solution
+(a) The capacitance of the filled capacitor is . Since the battery is always connected to the capacitor plates,
+the potential difference between them does not change; hence, . Because of that, the electrical field in the
+filled capacitor is the same as the field in the empty capacitor, so we can obtain directly that
+(b) For the filled capacitor, the free charge on the plates is
+The electrical field E in the filled capacitor is due to the effective charge  (Figure 8.22(b)). Since , we
+have
+350 8 • Capacitance
+
+Solving this equation for , we obtain for the induced charge
+Significance
+Notice that for materials with dielectric constants larger than 2 (see Table 8.1), the induced charge on the surface of
+dielectric is larger than the charge on the plates of a vacuum capacitor. The opposite is true for gasses like air whose
+dielectric constant is smaller than 2.
+CHECK YOUR UNDER STANDING 8.8
+Continuing with Example 8.12, show that when the battery is connected across the plates the energy stored in
+dielectric-filled capacitor is  (larger than the energy  of an empty capacitor kept at the same voltage).
+Compare this result with the result  found previously for an isolated, charged capacitor.
+CHECK YOUR UNDER STANDING 8.9
+Repeat the calculations of Example 8.10 for the case in which the battery remains connected while the dielectric is
+placed in the capacitor.
+8.5 • Molecular Model of a Dielectric 351
+
+Chapter Review
+Key Terms
+capacitance  amount of charge stored per unit volt
+capacitor  device that stores electrical charge and
+electrical energy
+dielectric  insulating material used to fill the space
+between two plates
+dielectric breakdown  phenomenon that occurs when
+an insulator becomes a conductor in a strong
+electrical field
+dielectric constant  factor by which capacitance
+increases when a dielectric is inserted between the
+plates of a capacitor
+dielectric strength  critical electrical field strength
+above which molecules in insulator begin to break
+down and the insulator starts to conduct
+energy density  energy stored in a capacitor divided
+by the volume between the plates
+induced electric-dipole moment  dipole moment that
+a nonpolar molecule may acquire when it is placed
+in an electrical field
+induced electrical field  electrical field in the
+dielectric due to the presence of induced charges
+induced surface charges  charges that occur on a
+dielectric surface due to its polarization
+parallel combination  components in a circuit
+arranged with one side of each component
+connected to one side of the circuit and the other
+sides of the components connected to the other
+side of the circuit
+parallel-plate capacitor  system of two identical
+parallel conducting plates separated by a distance
+series combination  components in a circuit arranged
+in a row one after the other in a circuit
+Key Equations
+Capacitance
+Capacitance of a parallel-plate capacitor
+Capacitance of a vacuum spherical capacitor
+Capacitance of a vacuum cylindrical capacitor
+Capacitance of a series combination
+Capacitance of a parallel combination
+Energy density
+Energy stored in a capacitor
+Capacitance of a capacitor with dielectric
+Energy stored in an i
+solated capacitor with
+dielectric
+Dielectric constant
+Induced electrical field in a dielectric
+Summary
+8.1 Capacitors and Capacitance
+• A capacitor is a device that stores an electrical
+charge and electrical energy. The amount of
+charge a vacuum capacitor can store depends on
+two major factors: the voltage applied and the
+capacitor’s physical characteristics, such as its
+size and geometry.
+• The capacitance of a capacitor is a parameter
+that tells us how much charge can be stored in
+the capacitor per unit potential difference
+between its plates. Capacitance of a system of
+conductors depends only on the geometry of
+their arrangement and physical properties of the
+insulating material that fills the space between
+the conductors. The unit of capacitance is the
+farad, where
+8.2 Capacitors in Series and in Parallel
+• When several capacitors are connected in a
+series combination, the reciprocal of the
+equivalent capacitance is the sum of the
+reciprocals of the individual capacitances.
+• When several capacitors are connected in a
+352     8 • Chapter Review
+
+parallel combination, the equivalent capacitance
+is the sum of the individual capacitances.
+• When a network of capacitors contains a
+combination of series and parallel connections,
+we identify the series and parallel networks, and
+compute their equivalent capacitances step by
+step until the entire network becomes reduced to
+one equivalent capacitance.
+8.3 Energy Stored in a Capacitor
+• Capacitors are used to supply energy to a variety
+of devices, including defibrillators,
+microelectronics such as calculators, and flash
+lamps.
+• The energy stored in a capacitor is the work
+required to charge the capacitor, beginning with
+no charge on its plates. The energy is stored in
+the electrical field in the space between the
+capacitor plates. It depends on the amount of
+electrical charge on the plates and on the
+potential difference between the plates.
+• The energy stored in a capacitor network is the
+sum of the energies stored on individual
+capacitors in the network. It can be computed as
+the energy stored in the equivalent capacitor of
+the network.
+8.4 Capacitor with a Dielectric
+• The capacitance of an empty capacitor is
+increased by a factor of  when the space
+between its plates is completely filled by a
+dielectric with dielectric constant .
+• Each dielectric material has its specific dielectric
+constant.
+• The energy stored in an empty isolated capacitor
+is decreased by a factor of  when the space
+between its plates is completely filled with a
+dielectric with dielectric constant  while
+disconnecting the battery and keeping the charge
+on the capacitor constant.
+8.5 Molecular Model of a Dielectric
+• When a dielectric is inserted between the plates
+of a capacitor, equal and opposite surface charge
+is induced on the two faces of
+ the dielectric. The
+induced surface charge produces an induced
+electrical field that opposes the field of the free
+charge on the capacitor plates.
+• The dielectric constant of a material is the ratio
+of the electrical field in vacuum to the net
+electrical field in the material. A capacitor filled
+with dielectric has a larger capacitance than an
+empty capacitor.
+• The dielectric strength of an insulator represents
+a critical value of electrical field at which the
+molecules in an insulating material start to
+become ionized. When this happens, the material
+can conduct and dielectric breakdown is
+observed.
+Conceptual Questions
+8.1 Capacitors and Capacitance
