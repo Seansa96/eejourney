@@ -1,3 +1,18 @@
-mjx-container.MathJax {
+/* Block math only */
+mjx-container.MathJax[display="true"] {
     font-size: 140%;
+    text-align: left !important;
+    overflow-x: auto;
+    max-width: 100%;
 }
+
+/* Override MathJax's equation positioning */
+mjx-container.MathJax[display="true"] mjx-math {
+    margin-left: 0 !important;
+}
+
+/* Keep equation tags positioned on the right */
+mjx-container.MathJax[display="true"] mjx-mtags {
+    text-align: right !important;
+}
+

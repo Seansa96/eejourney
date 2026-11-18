@@ -1,1595 +1,195 @@
 # Chapter 6 Practice Problems
 
-## Extracted problems
+> [!note] Source-faithful practice set
+> Cropped source figures preserve diagrams and mathematical notation that the PDF text layer does not represent reliably.
 
 # Problem 21
 
-21 . Calculate the flux through the sheet of the
-previous problem if the plane of the sheet is at
-an angle of  to the field. Find the flux for both
-directions of the unit normal to the sheet.
+21 . Calculate the flux through the sheet of the previous problem if the plane of the sheet is at an angle of to the field. Find the flux for both directions of the unit normal to the sheet.
 
 # Problem 23
 
-23 . The electric flux through a square-shaped area
-of side 5 cm near a large charged sheet is found
-to be  when the area is
-parallel to the plate. Find the charge density on
-the sheet.
+23 . The electric flux through a square-shaped area of side 5 cm near a large charged sheet is found to be when the area is parallel to the plate. Find the charge density on the sheet.
 
 # Problem 25
 
-25 . A square surface of area  is in a space of
-uniform electric field of magnitude . The
-amount of flux through it depends on how the
-square is oriented relative to the direction of the
-electric field. Find the electric flux through the
-square, when the normal to it makes the
-followin
-g angles with electric field: (a) , (b)
-, and (c) . Note that these angles can also
-be given as .
+25 . A square surface of area is in a space of uniform electric field of magnitude . The amount of flux through it depends on how the square is oriented relative to the direction of the electric field. Find the electric flux through the square, when the normal to it makes the followin g angles with electric field: (a) , (b) , and (c) . Note that these angles can also be given as .
 
 # Problem 27
 
-27 . Consider the uniform electric field
- What is its
-electric flux through a circular area of radius 2.0
-m that lies in the xy-plane?
+27 . Consider the uniform electric field What is its electric flux through a circular area of radius 2.0 m that lies in the xy-plane?
 
 # Problem 29
 
-29 . An infinite charged wire with charge per unit
-length  lies along the central axis of a
-cylindrical surface of radius r and length l. What
-is the flux through the surface due to the electric
-field of the charged wire?
-6.2 Explaining Gauss’s Law
+29 . An infinite charged wire with charge per unit length lies along the central axis of a cylindrical surface of radius r and length l. What is the flux through the surface due to the electric field of the charged wire? 6.2 Explaining Gauss’s Law
 
 # Problem 31
 
-31 . Find the electric flux through the closed surface
-whose cross-sections are shown below.
+31 . Find the electric flux through the closed surface whose cross-sections are shown below.
 
 # Problem 33
 
-33 . A point charge of  is at an unspecified
-location inside a cube of side 2 cm. Find the net
-electric flux though the surfaces of the cube.
+33 . A point charge of is at an unspecified location inside a cube of side 2 cm. Find the net electric flux though the surfaces of the cube.
+
+> [!figure] Original figure and notation
+> ![[assets/physics2-ch6-problem-33-source.png]]
 
 # Problem 35
 
-35 . A charge q is placed at one of the corners of a
-cube of side a, as shown below. Find the
-magnitude of the electric flux through the
-shaded face due to q. Assume .
+35 . A charge q is placed at one of the corners of a cube of side a, as shown below. Find the magnitude of the electric flux through the shaded face due to q. Assume .
+
+> [!figure] Original figure and notation
+> ![[assets/physics2-ch6-problem-35-source.png]]
 
 # Problem 37
 
-37 . The electric flux through a spherical surface is
- What is the net charge
-enclosed by the surface?
+37 . The electric flux through a spherical surface is What is the net charge enclosed by the surface?
 
 # Problem 39
 
-39 . Repeat the previous problem, assuming that the
-electric field is directed along a body diagonal of
-the cube.
+39 . Repeat the previous problem, assuming that the electric field is directed along a body diagonal of the cube.
 
 # Problem 41
 
-41 . Recall that in the example of a uniform charged
-sphere,  Rewrite the answers
-in terms of the total charge Q on the sphere.
+41 . Recall that in the example of a uniform charged sphere, Rewrite the answers in terms of the total charge Q on the sphere.
+
+> [!figure] Original figure and notation
+> ![[assets/physics2-ch6-problem-41-source.png]]
 
 # Problem 43
 
-43 . A very long, thin wire has a uniform linear charge
-density of  What is the electric field at
-a distance 2.0 cm from the wire?
+43 . A very long, thin wire has a uniform linear charge density of What is the electric field at a distance 2.0 cm from the wire?
 
 # Problem 45
 
-45 . Repeat your calculations for the preceding
-problem, given that the charge is distributed
-uniformly over the surface of a spherical
-conductor of radius 10.0 cm.
+45 . Repeat your calculations for the preceding problem, given that the charge is distributed uniformly over the surface of a spherical conductor of radius 10.0 cm.
 
 # Problem 47
 
-47 . When a charge is placed on a metal sphere, it
-ends up in equilibrium at the outer surface. Use
-this information to determine the electric field of
- charge put on a 5.0-cm aluminum
-spherical ball at the following two points in
-space: (a) a point 1.0 cm from the center of the
-ball (an inside point) and (b) a point 10 cm from
-the center of the ball (an outside point).
+47 . When a charge is placed on a metal sphere, it ends up in equilibrium at the outer surface. Use this information to determine the electric field of charge put on a 5.0-cm aluminum spherical ball at the following two points in space: (a) a point 1.0 cm from the center of the ball (an inside point) and (b) a point 10 cm from the center of the ball (an outside point).
 
 # Problem 49
 
-49 . Determine if approximate cylindrical symmetry
-holds for the following situations. State why or
-why not. (a) A 300-cm long copper rod of radius
-1 cm is charged with +500 nC
- of charge and we
-seek electric field at a point 5 cm from the
-center of the rod. (b) A 10-cm long copper rod of
-radius 1 cm is charged with +500 nC of charge
-and we seek electric field at a point 5 cm from
-the center of the rod. (c) A 150-cm wooden rod
-is glued to a 150-cm plastic rod to make a
-300-cm long rod, which is then painted with a
-charged paint so that one obtains a uniform
-charge density. The radius of each rod is 1 cm,
-and we seek an electric field at a point that is 4
-cm from the center of the rod. (d) Same rod as
-(c), but we seek electric field at a point that is
-500 cm from the center of the rod.
+49 . Determine if approximate cylindrical symmetry holds for the following situations. State why or why not. (a) A 300-cm long copper rod of radius 1 cm is charged with +500 nC of charge and we seek electric field at a point 5 cm from the center of the rod. (b) A 10-cm long copper rod of radius 1 cm is charged with +500 nC of charge and we seek electric field at a point 5 cm from the center of the rod. (c) A 150-cm wooden rod is glued to a 150-cm plastic rod to make a 300-cm long rod, which is then painted with a charged paint so that one obtains a uniform charge density. The radius of each rod is 1 cm, and we seek an electric field at a point that is 4 cm from the center of the rod. (d) Same rod as (c), but we seek electric field at a point that is 500 cm from the center of the rod.
 
 # Problem 51
 
-51 . The electric field at 2 cm from the center of long
-copper rod of radius 1 cm has a magnitude 3 N/C
-and directed outward from the axis of the rod.
-(a) How much charge per unit length exists on
-the copper rod? (b) What would be the electric
-flux through a cube of side 5 cm situated such
-that the rod passes through opposite sides of
-the cube perpendicularly?
+51 . The electric field at 2 cm from the center of long copper rod of radius 1 cm has a magnitude 3 N/C and directed outward from the axis of the rod. (a) How much charge per unit length exists on the copper rod? (b) What would be the electric flux through a cube of side 5 cm situated such that the rod passes through opposite sides of the cube perpendicularly?
 
 # Problem 53
 
-53 . Charge is distributed uniformly with a density
-throughout an infinitely long cylindrical volume
-of radius R. Show that the field of this charge
-distribution is directed radially with respect to
-the cylinder and that
+53 . Charge is distributed uniformly with a density throughout an infinitely long cylindrical volume of radius R. Show that the field of this charge distribution is directed radially with respect to the cylinder and that
 
 # Problem 55
 
-55 . The electric field 10.0 cm from the surface of a
-copper ball of radius 5.0 cm is directed toward
-the ball’s center and has magnitude
- How much charge is on the
-surface of the ball?
+55 . The electric field 10.0 cm from the surface of a copper ball of radius 5.0 cm is directed toward the ball’s center and has magnitude How much charge is on the surface of the ball?
+
+> [!figure] Original figure and notation
+> ![[assets/physics2-ch6-problem-55-source.png]]
 
 # Problem 57
 
-57 . Charge is distributed throughout a spherical
-volume of radius R with a density
-where  is a constant. Determine the electric
-field due to the charge at points both inside and
-outside the sphere.
+57 . Charge is distributed throughout a spherical volume of radius R with a density where is a constant. Determine the electric field due to the charge at points both inside and outside the sphere.
+
+> [!figure] Original figure and notation
+> ![[assets/physics2-ch6-problem-57-source.png]]
 
 # Problem 59
 
-59 . The volume charge density of a spherical charge
-distribution is given by  where
-and  are constants. What is the electric field
-produced by this charge distribution?
-6.4 Conductors in Electrostatic Equilibrium
+59 . The volume charge density of a spherical charge distribution is given by where and are constants. What is the electric field produced by this charge distribution? 6.4 Conductors in Electrostatic Equilibrium
+
+> [!figure] Original figure and notation
+> ![[assets/physics2-ch6-problem-59-source.png]]
 
 # Problem 61
 
-61 . An uncharged spherical conductor S of radius R
-has two spherical cavities A and B of radii a and
-b, respectively as shown below. Two point
-charges  and  are placed at the center of
-the two cavities by using non-conducting
-supports. In addition, a point charge  is
-placed outside at a distance r from the center of
-the sphere. (a) Draw approximate charge
-distributions in the metal although metal sphere
-has no net charge. (b) Draw electric field lines.
-Draw enough lines to represent all distinctly
-different places.
+61 . An uncharged spherical conductor S of radius R has two spherical cavities A and B of radii a and b, respectively as shown below. Two point charges and are placed at the center of the two cavities by using non-conducting supports. In addition, a point charge is placed outside at a distance r from the center of the sphere. (a) Draw approximate charge distributions in the metal although metal sphere has no net charge. (b) Draw electric field lines. Draw enough lines to represent all distinctly different places.
 
 # Problem 63
 
-63 . A long cylinder of copper of radius 3 cm is
-charged so that it has a uniform charge per unit
-length on its surface of 3 C/m. (a) Find the
-260     6 • Chapter Review
-
-electric field inside and outside the cylinder. (b)
-Draw electric field lines in a plane perpendicular
-to the rod.
+63 . A long cylinder of copper of radius 3 cm is charged so that it has a uniform charge per unit length on its surface of 3 C/m. (a) Find the electric field inside and outside the cylinder. (b) Draw electric field lines in a plane perpendicular to the rod.
 
 # Problem 65
 
-65 . A long cylinder of aluminum of radius R meters
-is charged so that it has a uniform charge per
-unit length on its surface of . (a) Find the
-electric field inside and outside the cylinder. (b)
-Plot electric field as a function of distance from
-the center of the rod.
+65 . A long cylinder of aluminum of radius R meters is charged so that it has a uniform charge per unit length on its surface of . (a) Find the electric field inside and outside the cylinder. (b) Plot electric field as a function of distance from the center of the rod.
 
 # Problem 67
 
-67 . Two parallel plates 10 cm on a side are given
-equal and opposite charges of magnitude
- The plates are 1.5 mm apart.
-What is the electric field at the center of the
-region between the plates?
+67 . Two parallel plates 10 cm on a side are given equal and opposite charges of magnitude The plates are 1.5 mm apart. What is the electric field at the center of the region between the plates?
 
 # Problem 69
 
-69 . The surface charge density on a long straight
-metallic pipe is . What is the electric field
-outside and inside the pipe? Assume the pipe
-has a diameter of 2a.
+69 . The surface charge density on a long straight metallic pipe is . What is the electric field outside and inside the pipe? Assume the pipe has a diameter of 2a.
 
 # Problem 71
 
-71 . A solid cylindrical conductor of radius a is
-surrounded by a concentric cylindrical shell of
-inner radius b. The solid cylinder and the shell
-carry charges +Q and –Q, respectively. Assuming
-that the length L of both conductors is much
-greater than a or b, determine the electric field
-as a function of r, the distance from the common
-central axis of the cylinders, for (a)  (b)
- and (c)
-Additional Problems
+71 . A solid cylindrical conductor of radius a is surrounded by a concentric cylindrical shell of inner radius b. The solid cylinder and the shell carry charges +Q and –Q, respectively. Assuming that the length L of both conductors is much greater than a or b, determine the electric field as a function of r, the distance from the common central axis of the cylinders, for (a) (b) and (c) Additional Problems
 
 # Problem 73
 
 73 . Repeat the preceding problem, with
 
+> [!figure] Original figure and notation
+> ![[assets/physics2-ch6-problem-73-source.png]]
+
 # Problem 75
 
-75 . (a) Calculate the electric flux through the open
-hemispherical surface due to the electric field
- (see below). (b) If the hemisphere is
-rotated by  around the x-axis, what is the flux
-through it?
+75 . (a) Calculate the electric flux through the open hemispherical surface due to the electric field (see below). (b) If the hemisphere is rotated by around the x-axis, what is the flux through it?
+
+> [!figure] Original figure and notation
+> ![[assets/physics2-ch6-problem-75-source.png]]
 
 # Problem 77
 
-77 . The electric field in a region is given by
- where
- and  What
-is the net charge enclosed by the shaded volume
-shown below?
+77 . The electric field in a region is given by where and What is the net charge enclosed by the shaded volume shown below?
+
+> [!figure] Original figure and notation
+> ![[assets/physics2-ch6-problem-77-source.png]]
 
 # Problem 79
 
-79 . A fellow student calculated the flux through the
-square for the system in the preceding problem
-and got 0. What went wrong?
+79 . A fellow student calculated the flux through the square for the system in the preceding problem and got 0. What went wrong?
 
 # Problem 81
 
-81 . Two  pieces of aluminum foil of
-thickness 0.1 mm face each other with a
-separation of 5 mm. One of the foils has a charge
-of  and the other has . (a) Find
-the charge density at all surfaces, i.e., on those
-facing e
-ach other and those facing away. (b) Find
-262     6 • Chapter Review
-
-the electric field between the plates near the
-center assuming planar symmetry.
+81 . Two pieces of aluminum foil of thickness 0.1 mm face each other with a separation of 5 mm. One of the foils has a charge of and the other has . (a) Find the charge density at all surfaces, i.e., on those facing e ach other and those facing away. (b) Find the electric field between the plates near the center assuming planar symmetry.
 
 # Problem 83
 
-83 . The infinite slab between the planes defined by
- and  contains a uniform
-volume charge density  (see below). What is
-the electric field produced by this charge
-distribution, both inside and outside the
-distribution?
+83 . The infinite slab between the planes defined by and contains a uniform volume charge density (see below). What is the electric field produced by this charge distribution, both inside and outside the distribution?
 
 # Problem 85
 
-85 . A non-conducting spherical shell of inner radius
- and outer radius  is uniformly charged with
-charged density  inside another non-
-conducting spherical shell of inner radius  and
-outer radius  that is also uniformly charged
-with charge density . See below. Find the
-electric field at space point P at a distance r from
-the common center such that (a)  (b)
- (c)  (d)
-and (e) .
+85 . A non-conducting spherical shell of inner radius and outer radius is uniformly charged with charged density inside another non- conducting spherical shell of inner radius and outer radius that is also uniformly charged with charge density . See below. Find the electric field at space point P at a distance r from the common center such that (a) (b) (c) (d) and (e) .
 
 # Problem 87
 
-87 . A disk of radius R is cut in a non-conducting large
-plate that is uniformly charged with charge density
-(coulomb per square meter). See below. Find the
-electric field at a height h above the center of the
-disk.  (Hint: Fill the hole
-with
+87 . A disk of radius R is cut in a non-conducting large plate that is uniformly charged with charge density (coulomb per square meter). See below. Find the electric field at a height h above the center of the disk. (Hint: Fill the hole with
+
+> [!figure] Original figure and notation
+> ![[assets/physics2-ch6-problem-87-source.png]]
 
 # Problem 89
 
-89 . Shown below are two concentric conducting
-spherical shells of radii  and , each of
-finite thickness much less than either radius.
-The inner and outer shell carry net charges
-and  respectively, where both  and  are
-positive. What is the electric field for (a)
-(b)  and (c)  (d) What is
-the net charge on the inner surface of the inner
-shell, the outer surface of the inner shell, the
-inner surface of the outer shell, and the outer
-surface of the outer shell?
+89 . Shown below are two concentric conducting spherical shells of radii and , each of finite thickness much less than either radius. The inner and outer shell carry net charges and respectively, where both and are positive. What is the electric field for (a) (b) and (c) (d) What is the net charge on the inner surface of the inner shell, the outer surface of the inner shell, the inner surface of the outer shell, and the outer surface of the outer shell?
+
+> [!figure] Original figure and notation
+> ![[assets/physics2-ch6-problem-89-source.png]]
 
 # Problem 91
 
-91 . The Hubble Space Telescope can measure the
-energy flux from distant objects such as
-supernovae and stars. Scientists then use this
-data to calculate the energy emitted by that
-object. Choose an interstellar object which
-scientists have observed the flux at the Hubble
-with (for example, Vega3 ), find the distance to
-that object and the size of Hubble’s primary
-mirror, and calculate the total energy flux. (Hint:
-The Hubble intercepts only a small part of the
-total flux.)
+91 . The Hubble Space Telescope can measure the energy flux from distant objects such as supernovae and stars. Scientists then use this data to calculate the energy emitted by that object. Choose an interstellar object which scientists have observed the flux at the Hubble with (for example, Vega3 ), find the distance to that object and the size of Hubble’s primary mirror, and calculate the total energy flux. (Hint: The Hubble intercepts only a small part of the total flux.)
+
+> [!figure] Original figure and notation
+> ![[assets/physics2-ch6-problem-91-source.png]]
 
 # Problem 93
 
-93 . An infinite plate sheet of charge of surface charge
-density  is shown below. What is the electric field
-at a distance x from the sheet? Compare the result
-of this calculation with that of worked out in the text.
+93 . An infinite plate sheet of charge of surface charge density is shown below. What is the electric field at a distance x from the sheet? Compare the result of this calculation with that of worked out in the text.
+
+> [!figure] Original figure and notation
+> ![[assets/physics2-ch6-problem-93-source.png]]
 
 # Problem 95
 
-95 . Find the electric field of a large conducting plate
-containing a net charge q. Let A be area of one
-side of the plate and h the thickness of the plate
-(see below). The charge on the metal plate will
-distribute mostly on the two planar sides and
-very little on the edges if the plate is thin.
-3 http://adsabs.harvard.edu/abs/2004AJ....127.3508B
-
-266     6 • Chapter Review
-
-INTRODUCTION
-CHAPTER 7
-Electric Potential
-7.1 Electric Potential Energy
-7.2 Electric Potential and Potential Difference
-7.3 Calculations of Electric Potential
-7.4 Determining Field from Potential
-7.5 Equipotential Surfaces and Conductors
-7.6 Applications of Electrostatics
-In Electric Charges and Fields, we just scratched the surface (or at least rubbed it) of electrical
-phenomena. Two terms commonly used to describe electricity are its energy and voltage, which we show in this
-chapter is directly related to the potential energy in a system.
-We know, for example, that great amounts of electrical energy can be stored in batteries, are transmitted cross-
-country via currents through power lines, and may jump from clouds to explode the sap of trees. In a similar
-manner, at the molecular level, ions cross cell membranes and transfer information.
-We also know about voltages associated with electricity. Batteries are typically a few volts, the outlets in your home
-frequently produce 120 volts, and power lines can be as high as hundreds of thousands of volts. But energy and
-voltage are not the same thing. A motorcycle battery, for example, is small and would not be very successful in
-replacing a much larger car battery, yet each has the same voltage. In this chapter, we examine the relationship
-between voltage and electrical energy, and begin to explore some of the many applications of electricity.
-FIGURE 7.1 The energy released in a lightning strike is an excellent illustration of the vast quantities of energy that may be stored and
-released by an electric potential difference. In this chapter, we calculate just how much energy can be released in a lightning strike and
-how this varies with the height of the clouds from the ground. (credit: modif
-ication of work by Anthony Quintano)
-CHAPTER OUTLINE
-
-7.1 Electric Potential Energy
-LEARNING OBJECTIVES
-By the end of this section, you will be able to:
-• Define the work done by an electric force
-• Define electric potential energy
-• Apply work and potential energy in systems with electric charges
-When a free positive charge q is accelerated by an electric field, it is given kinetic energy (Figure 7.2). The process is
-analogous to an object being accelerated by a gravitational field, as if the charge were going down an electrical hill
-where its electric potential energy is converted into kinetic energy, although of course the sources of the forces are
-very different. Let us explore the work done on a charge q by the electric field in this process, so that we may
-develop a definition of electric potential energy.
-FIGURE 7.2 A charge accelerated by an electric field is analogous to a mass going down a hill. In both cases, potential energy decreases as
-kinetic energy increases, . Work is done by a force, but since this force is conservative, we can write .
-The electrostatic or Coulomb force is conservative, which means that the work done on q is independent of the path
-taken, as we will demonstrate later. This is exactly analogous to the gravitational force. When a force is conservative,
-it is possible to define a potential energy associated with the force. It is usually easier to work with the potential
-energy (because it depends only on position) than to calculate the work directly.
-To show this explicitly, consider an electric charge  fixed at the origin and move another charge  toward q in
-such a manner that, at each instant, the applied force  exactly balances the electric force  on Q (Figure 7.3).
-The work done by the applied force  on the charge Q changes the potential energy of Q. We call
- this potential
-energy the electrical potential energy of Q.
-FIGURE 7.3 Displacement of “test” charge Q in the presence of fixed “source” charge q.
-The work  done by the applied force  when the particle moves from  to  may be calculated by
-Since the applied force  balances the electric force  on Q, the two forces have equal magnitude and opposite
-directions. Therefore, the applied force is
-268 7 • Electric Potential
-
-where we have defined positive to be pointing away from the origin and r is the distance from the origin. The
-directions of both the displacement and the applied force in the system in Figure 7.3 are parallel, and thus the work
-done on the system is positive.
-We use the letter U to denote electric potential energy, which has units of joules (J). When a conservative force does
-negative work, the system gains potential energy. When a conservative force does positive work, the system loses
-potential energy,  In the system in Figure 7.3, the Coulomb force acts in the opposite direction to the
-displacement; therefore, the work is negative. However, we have increased the potential energy in the two-charge
-system.
-EXAMPLE 7.1
-Kinetic Energy of a Charged Particle
-A  charge Q is initially at rest a distance of 10 cm ( ) from a  charge q fixed at the origin (Figure
-7.4). Naturally, the Coulomb force accelerates Q away from q, eventually reaching 15 cm ( ).
-FIGURE 7.4 The charge Q is repelled by q, thus having work done on it and gaining kinetic energy.
-a. What is the work done by the electric field between  and ?
-b. How much kinetic energy does Q have at ?
-Strategy
-Calculate the work with the usual definition. Since Q started from rest, this is the same as the kinetic energy.
-Solution
-Integrating force over distance, we obtain
-This is also the value of the kinetic energy at
-Significance
-Charge Q was initially at rest; the electric field of q did work on Q, so now Q has kinetic energy equal to the work
-done by the electric field.
-CHECK YOUR UNDER STANDING 7.1
-If Q has a mass of  what is the speed of Q at
-In this example, the work W done to accelerate a positive charge from rest is positive and results from a loss in U, or
-a negative . A value f
-or U can be found at any point by taking one point as a reference and calculating the work
-needed to move a charge to the other point.
-ELECTRIC POTENTIAL ENERGY
-Work W done to accelerate a positive charge from rest is positive and results from a loss in U, or a negative .
-7.1 • Electric Potential Energy 269
-
-Gravitational potential energy and electric potential energy are quite analogous. Potential energy accounts for work
-done by a conservative force and gives added insight regarding energy and energy transformation without the
-necessity of dealing with the force directly. It is much more common, for example, to use the concept of electric
-potential energy than to deal with the Coulomb force directly in real-world applications.
-In polar coordinates with q at the origin and Q located at r, the displacement element vector is  and thus
-the work becomes
-Notice that this result only depends on the endpoints and is otherwise independent of the path taken. To explore
-this further, compare path  to  with path  in Figure 7.5.
-FIGURE 7.5 Two paths for displacement  to  The work on segments  and  are zero due to the electrical force being
-perpendicular to the displacement along these paths. Therefore, work on paths  and  are equal.
-The segments  and  are arcs of circles centered at q. Since the force on Q points either toward or away
-from q, no work is done by a force balancing the electric force, because it is perpendicular to the displacement along
-these arcs. Therefore, the only work done is along segment  which is identical to
-One implication of this work calculation is that if we were to go around the path  the net work would
-be zero (Figure 7.6). Recall that this is how we determine whether a force is conservative or not. Hence, because the
-electric force is related to the electric field by , the electric field is itself conservative. That is,
-Note that Q is a constant.
-FIGURE 7.6 A closed path in an electric field. The net work around this path is zero.
-Another implication is that we may define an electric potential energy. Recall that the work don
-e by a conservative
-force is also expressed as the difference in the potential energy corresponding to that force. Therefore, the work
- to bring a charge from a reference point to a point of interest may be written as
-Mathematically,
-7.1
-270 7 • Electric Potential
-
-and, by Equation 7.1, the difference in potential energy  of the test charge Q between the two points is
-Therefore, we can write a general expression for the potential energy of two point charges (in spherical coordinates):
-We may take the second term to be an arbitrary constant reference level, which serves as the zero reference:
-A convenient choice of reference that relies on our common sense is that when the two charges are infinitely far
-apart, there is no interaction between them. (Recall the discussion of reference potential energy in Potential Energy
-and Conservation of Energy (http://openstax.org/books/university-physics-volume-1/pages/8-introduction).) Taking
-the potential energy of this state to be zero removes the term  from the equation (just like when we say the
-ground is zero potential energy in a gravitational potential energy problem), and the potential energy of Q when it is
-separated from q by a distance r assumes the form
-This formula is symmetrical with respect to q and Q, so it is best described as the potential energy of the two-charge
-system.
-EXAMPLE 7.2
-Potential Energy of a Charged Particle
-A  charge Q is initially at rest a distance of 10 cm ( ) from a  charge q fixed at the origin (Figure
-7.7). Naturally, the Coulomb force accelerates Q away from q, eventually reaching 15 cm ( ).
-FIGURE 7.7 The charge Q is repelled by q, thus having work done on it and losing potential energy.
-What is the change in the potential energy of the two-charge system from  to
-Strategy
-Calculate the potential energy with the definition given above:  Since Q started from rest,
-this is the same as the kinetic energy.
-Solution
-We have
-∞ 7.2
-7.1 • Electric Potential Energy 271
-
-Significance
-The change in the potential energy is negative, as expected, and equal in magnitude to the change in kinetic energy
-in this system. Recall from Example 7.1 that the change in kinetic energy was positive.
-CHECK YOUR UNDER STANDING 7.2
-What is the potential energy of Q relative to the zero reference at infinity at  in the above example?
-Due to Coulomb’s law, the forces due to multiple charges on a test charge Q superimpose; they may be calculated
-individually and then added. This implies that the work integrals and hence the resulting potential energies exhibit
-the same behavior. To demonstrate this, we consider an example of assembling a system of four charges.
-EXAMPLE 7.3
-Assembling Four Positive Charges
-Find the amount of work an external agent must do in assembling four charges  and
- at the vertices of a square of side 1.0 cm, starting each charge from infinity (Figure 7.8).
-FIGURE 7.8 How much work is needed to assemble this charge configuration?
-Strategy
-We bring in the charges one at a time, giving them starting locations at infinity and calculating the work to bring
-them in from infinity to their final location. We do this in order of increasing charge.
-Solution
-Step 1. First bring the  charge to the origin. Since there are no other charges at a finite distance from this
-charge yet, no work is done in bringing it from infinity,
-Step 2. While keeping the  charge fixed at the origin, bring the  charge to
-(Figure 7.9). Now, the applied force must do work against the force exerted by the  charge fixed at the
-origin. The work done equals the change in the potential energy of the  charge:
-272 7 • Electric Potential
-
-FIGURE 7.9 Step 2. Work  to bring the  charge from infinity.
-Step 3. While keeping the charges of  and  fixed in their places, bring in the  charge to
- (Figure 7.10). The work done in this step is
-FIGURE 7.10 Step 3. The work  to bring the  charge from infinity.
-Step 4. Finally, while keeping the first three charges in their places, bring the  charge to
- (Figure 7.11). The work done here is
-FIGURE 7.11 Step 4. The work  to bring the  charge from infinity.
-Hence, the total work done by the applied force in assembling the four charges is equal to the sum of the work in
-bringing each charge from infinity to its final position:
-7.1 • Electric Potential Energy 273
-
-Significance
-The work on each charge depends only on its pairwise interactions with the other charges. No more complicated
-interactions need to be considered; the work on the third charge only depends on its interaction with the first and
-second charges, the interaction between the first and second charge does not affect the third.
-CHECK YOUR UNDER STANDING 7.3
-Is the electrical potential energy of two point charges positive or negative if the charges are of the same sign?
-Opposite signs? How does this relate to the work necessary to bring the charges into proximity from infinity?
-Note that the electrical potential energy is positive if the two charges are of the same type, either positive or
-negative, and negative if the two charges are of opposite types. This makes sense if you think of the change in the
-potential energy  as you bring the two charges closer or move them farther apart. Depending on the relative
-types of charges, you may have to work on the system or the system would do work on you, that is, your work is
-either positive or negative. If you have to do positive work on the system (actually push the charges closer), then the
-energy of the system should increase. If you bring two positive charges or two negative charges closer, you have to
-do positive work on the system, which raises their potential energy. Since potential energy is proportional to 1/r, the
-potential energy goes up when r goes down between two positive or two negative charges.
-On the other hand, if you bring a positive and a negative charge nearer, you have to do negative work on the system
-(the charges are pulling you), which means that you take energy away from the system. This reduces the potential
-energy. Since potential energy is negative in the case of a po
-sitive and a negative charge pair, the increase in 1/r
-makes the potential energy more negative, which is the same as a reduction in potential energy.
-The result from Example 7.3 may be extended to systems with any arbitrary number of charges. In this case, it is
-most convenient to write the formula as
-The factor of 1/2 accounts for adding each pair of charges twice.
-7.2 Electric Potential and Potential Difference
-LEARNING OBJECTIVES
-By the end of this section, you will be able to:
-• Define electric potential, voltage, and potential difference
-• Define the electron-volt
-• Calculate electric potential and potential difference from potential energy and electric field
-• Describe systems in which the electron-volt is a useful unit
-• Apply conservation of energy to electric systems
-Recall that earlier we defined electric field to be a quantity independent of the test charge in a given system, which
-would nonetheless allow us to calculate the force that would result on an arbitrary test charge. (The default
-assumption in the absence of other information is that the test charge is positive.) We briefly defined a field for
-gravity, but gravity is always attractive, whereas the electric force can be either attractive or repulsive. Therefore,
-although potential energy is perfectly adequate in a gravitational system, it is convenient to define a quantity that
-allows us to calculate the work on a charge independent of the magnitude of the charge. Calculating the work
-directly may be difficult, since  and the direction and magnitude of  can be complex for multiple
-charges, for odd-shaped objects, and along arbitrary paths. But we do know that because , the work, and
-hence  is proportional to the test charge q. To have a physical quantity that is independent of t
-est charge, we
-define electric potential V (or simply potential, since electric is understood) to be the potential energy per unit
-charge:
-7.3
-274 7 • Electric Potential
-
-Since U is proportional to q, the dependence on q cancels. Thus, V does not depend on q. The change in potential
-energy  is crucial, so we are concerned with the difference in potential or potential difference  between two
-points, where
-The familiar term voltage is the common name for electric potential difference. Keep in mind that whenever a
-voltage is quoted, it is understood to be the potential difference between two points. For example, every battery has
-two terminals, and its voltage is the potential difference between them. More fundamentally, the point you choose
-to be zero volts is arbitrary. This is analogous to the fact that gravitational potential energy has an arbitrary zero,
-such as sea level or perhaps a lecture hall floor. It is worthwhile to emphasize the distinction between potential
-difference and electrical potential energy.
-Voltage is not the same as energy. Voltage is the energy per unit charge. Thus, a motorcycle battery and a car battery
-can both have the same voltage (more precisely, the same potential difference between battery terminals), yet one
-stores much more energy than the other because  The car battery can move more charge than the
-motorcycle battery, although both are 12-V batteries.
-EXAMPLE 7.4
-Calculating Energy
-You have a 12.0-V motorcycle battery that can move 5000 C of charge, and a 12.0-V car battery that can move
-60,000 C of charge. How much energy does each deliver? (Assume that the numerical value of each charge is
-accurate to three significant figures.)
-Strategy
-To say we have a 12.0-V battery means that its terminals have a 12.0-V potential difference. When such a battery
-moves charge, it puts the charge through a potential difference of 12.0 V, and the charge is given a change in
-potential en
-ergy equal to  To find the energy output, we multiply the charge moved by the potential
-difference.
-ELECTRIC POTENTIAL
-The electric potential energy per unit charge is
-7.4
-ELECTRIC POTENTIAL DIFFERENCE
-The electric potential difference between points A and B,  is defined to be the change in potential
-energy of a charge q moved from A to B, divided by the charge. Units of potential difference are joules per
-coulomb, given the name volt (V) after Alessandro Volta.
-POTENTIAL DIFFERENCE AND ELECTRICAL POTENTIAL ENERGY
-The relationship between potential difference (or voltage) and electrical potential energy is given by
-7.5
-7.2 • Electric Potential and Potential Difference 275
-
-Solution
-For the motorcycle battery,  and . The total energy delivered by the motorcycle battery is
-Similarly, for the car battery,  and
-Significance
-Voltage and energy are related, but they are not the same thing. The voltages of the batteries are identical, but the
-energy supplied by each is quite different. A car battery has a much larger engine to start than a motorcycle. Note
-also that as a battery is discharged, some of its energy is used internally and its terminal voltage drops, such as
-when headlights dim because of a depleted car battery. The energy supplied by the battery is still calculated as in
-this example, but not all of the energy is available for external use.
-CHECK YOUR UNDER STANDING 7.4
-How much energy does a 1.5-V AAA battery have that can move 100 C?
-Note that the energies calculated in the previous example are absolute values. The change in potential energy for
-the battery is negative, since it loses energy. These batteries, like many electrical systems, actually move negative
-charge—electrons in particular. The batteries repel electrons from their negative terminals (A) through whatever
-circuitry is involved and attract them to their positive terminals (B), as shown in Figure 7.12. The change in potential
-is  and the charge q is negative, so that  is negative, meaning the potential
-energy of the battery has decreased when q has moved from A to B.
-FIGURE 7.12 A battery moves negative charge from its negative terminal through a headlight to its positive terminal. Appropriate
-combinations of chemicals in the battery separate charges so that the negative terminal has an excess of negative charge, which is repelled
-by it and attracted to the excess positive charge on the other terminal. In terms of potential, the positiv
-e terminal is at a higher voltage than
-the negative terminal. Inside the battery, both positive and negative charges move.
-EXAMPLE 7.5
-How Many Electrons Move through a Headlight Each Second?
-When a 12.0-V car battery powers a single 30.0-W headlight, how many electrons pass through it each second?
-Strategy
-To find the number of electrons, we must first find the charge that moves in 1.00 s. The charge moved is related to
-voltage and energy through the equations  A 30.0-W lamp uses 30.0 joules per second. Since the
-battery loses energy, we have  and, since the electrons are going from the negative terminal to the
-positive, we see that
-276 7 • Electric Potential
-
-Solution
-To find the charge q moved, we solve the equation
-Entering the values for  and , we get
-The number of electrons  is the total charge divided by the charge per electron. That is,
-Significance
-This is a very large number. It is no wonder that we do not ordinarily observe individual electrons with so many being
-present in ordinary systems. In fact, electricity had been in use for many decades before it was determined that the
-moving charges in many circumstances were negative. Positive charge moving in the opposite direction of negative
-charge often produces identical effects; this makes it difficult to determine which is moving or whether both are
-moving.
-CHECK YOUR UNDER STANDING 7.5
-How many electrons would go through a 24.0-W lamp each second from a 12-volt car battery?
-The Electron-Volt
-The energy per electron is very small in macroscopic situations like that in the previous example—a tiny fraction of a
-joule. But on a submicroscopic scale, such energy per particle (electron, proton, or ion) can be of great importance.
-For example, even a tiny fraction of a joule can be great enough for these particles to destroy organic molecules and
-harm living tissue. The particle may do its damage by direct collision, or it may create harmful X-rays, which can also
-inflict damage. It is useful to have an energy unit related to submicroscopic effects.
-Figure 7.13 shows a situation related to the definition of such an energy unit. An electron is accelerated between
-two charged metal plates, as it might be in an old-model television tube or oscilloscope. The electron gains kinetic
-energy that is later converted into another form—light in the television tube, for example. (Note that in terms of
-energy, “downhill” for the electron is “uphill” fo
-r a positive charge.) Since energy is related to voltage by
-, we can think of the joule as a coulomb-volt.
-7.2 • Electric Potential and Potential Difference 277
-
-FIGURE 7.13 A typical electron gun accelerates electrons using a potential difference between two separated metal plates. By
-conservation of energy, the kinetic energy has to equal the change in potential energy, so . The energy of the electron in electron-
-volts is numerically the same as the voltage between the plates. For example, a 5000-V potential difference produces 5000-eV electrons.
-The conceptual construct, namely two parallel plates with a hole in one, is shown in (a), while a real electron gun is shown in (b).
-An electron accelerated through a potential difference of 1 V is given an energy of 1 eV. It follows that an electron
-accelerated through 50 V gains 50 eV. A potential difference of 100,000 V (100 kV) gives an electron an energy of
-100,000 eV (100 keV), and so on. Similarly, an ion with a double positive charge accelerated through 100 V gains
-200 eV of energy. These simple relationships between accelerating voltage and particle charges make the electron-
-volt a simple and convenient energy unit in such circumstances.
-The electron-volt is commonly employed in submicroscopic processes—chemical valence energies and molecular
-and nuclear binding energies are among the quantities often expressed in electron-volts. For example, about 5 eV of
-energy is required to break up certain organic molecules. If a proton is accelerated from rest through a potential
-difference of 30 kV, it acquires an energy of 30 keV (30,000 eV) and can break up as many as 6000 of these
-molecules  Nuclear decay energies are on the order of 1 MeV
-(1,000,000 eV) per event and can thus produce significant biological damage.
-Conservation of Energy
-The total energy of a system is conserved if there is no net addition (or subtraction) due to work or heat transfer. For
-
-conservative forces, such as the electrostatic force, conservation of energy states that mechanical energy is a
-constant.
-ELECTRON-VOLT
-On the submicroscopic scale, it is more convenient to define an energy unit called the electron-volt (eV), which
-is the energy given to a fundamental charge accelerated through a potential difference of 1 V. In equation form,
-278 7 • Electric Potential
-
-Mechanical energy is the sum of the kinetic energy and potential energy of a system; that is,  A
-loss of U for a charged particle becomes an increase in its K. Conservation of energy is stated in equation form as
-or
-where i and f stand for initial and final conditions. As we have found many times before, considering energy can give
-us insights and facilitate problem solving.
-EXAMPLE 7.6
-Electrical Potential Energy Converted into Kinetic Energy
-Calculate the final speed of a free electron accelerated from rest through a potential difference of 100 V. (Assume
-that this numerical value is accurate to three significant figures.)
-Strategy
-We have a system with only conservative forces. Assuming the electron is accelerated in a vacuum, and neglecting
-the gravitational force (we will check on this assumption later), all of the electrical potential energy is converted into
-kinetic energy. We can identify the initial and final forms of energy to be
-Solution
-Conservation of energy states that
-Entering the forms identified above, we obtain
-We solve this for v:
-Entering values for q, V, and m gives
-Significance
-Note that both the charge and the initial voltage are negative, as in Figure 7.13. From the discussion of electric
-charge and electric field, we know that electrostatic forces on small particles are generally very large compared with
-the gravitational force. The large final speed confirms that the gravitational force is indeed negligible here. The large
-speed also indicates how easy it is to accelerate electrons with small voltages because of their very small mass.
-Voltages much higher than the 100 V in this problem are typically used in electron guns. These higher voltages
-produce electron speeds so great that effects from special relativi
-ty must be taken into account and hence are
-reserved for a later chapter (Relativity (http://openstax.org/books/university-physics-volume-3/pages/
-5-introduction)). That is why we consider a low voltage (accurately) in this example.
-CHECK YOUR UNDER STANDING 7.6
-How would this example change with a positron? A positron is identical to an electron except the charge is positive.
-7.2 • Electric Potential and Potential Difference 279
-
-Voltage and Electric Field
-So far, we have explored the relationship between voltage and energy. Now we want to explore the relationship
-between voltage and electric field. We will start with the general case for a non-uniform  field. Recall that our
-general formula for the potential energy of a test charge q at point P relative to reference point R is
-When we substitute in the definition of electric field  this becomes
-Applying our definition of potential  to this potential energy, we find that, in general,
-From our previous discussion of the potential energy of a charge in an electric field, the result is independent of the
-path chosen, and hence we can pick the integral path that is most convenient.
-Consider the special case of a positive point charge q at the origin. To calculate the potential caused by q at a
-distance r from the origin relative to a reference of 0 at infinity (recall that we did the same for potential energy), let
- and ∞  with  and use  When we evaluate the integral
-for this system, we have
-∞
-which simplifies to
-∞ ∞
-This result,
-is the standard form of the potential of a point charge. This will be explored further in the next section.
-To examine another interesting special case, suppose a uniform electric field  is produced by placing a potential
-difference (or voltage)  across two parallel metal plates, labeled A and B (Figure 7.14). Examining this situation
-will tell us what voltage is needed to produce a certain electric field strength. It will also reveal a more fundamental
-relationship between electric potential and electric field.
-7.6
-280 7 • Electric Potential
-
-FIGURE 7.14 The relationship between V and E for parallel conducting plates is . The field points toward lower potential V.
-From a physicist’s point of view, either  or  can be used to describe any interaction between charges. However,
- is a scalar quantity and has no direction, whereas  is a vector quantity, having both magnitude and direction.
-(Note that the magnitude of the electric field, a scalar quantity, is represented by E.) The relationship between
-and  is revealed by calculating the work done by the electric force in moving a charge from point A to point B. But,
-as noted earlier, arbitrary charge distributions require calculus. We therefore look at a uniform electric field as an
-interesting special case.
-The work done by the electric field in Figure 7.14 to move a positive charge q from A, the positive plate, higher
-potential, to B, the negative plate, lower potential, is
-Work is ; here , since the path is parallel to the field. Thus, . Since
-, we see that .
-Substituting this expression for work into the previous equation gives
-The charge cancels, so we obtain for the voltage between points A and B
-where d is the distance from A to B, or the distance between the plates in Figure 7.14. Note that this equation
-implies that the units for electric field are volts per meter. We already know the units for electric field are newtons
-per coulomb; thus, the following relation among units is valid:
-Furthermore, we may extend this to the integral form. Substituting Equation 7.6 into our definition for the potential
-difference between points A and B, we obtain
-7.2 • Electric Potential and Potential Difference 281
-
-which simplifies to
-The potential difference is negative (V is lower at B than at A) when the displacement is in the same direction as the
-field. In other words, the electric field points toward lower electric potential. We are often only interested in the
-magnitude of the electric field, in which case you may see  instead of  and it is understood
-that all of the variables in the equation represent the magnitudes of the quantities. As a demonstration, from this we
-may calculate the potential difference between two points (A and B) equidistant from a point charge q at the origin,
-as shown in Figure 7.15.
-FIGURE 7.15 The arc for calculating the potential difference between two points that are equidistant from a point charge at the origin.
-To do this, we integrate around an arc of the circle of constant radius r between A and B, which means we let
- while using . Thus,
-for this system becomes
-However,  and therefore
-This result, that there is no difference in potential along a constant radius from a point charge, will come in handy
-when we map potentials.
-EXAMPLE 7.7
-What Is the Highest Voltage Possible between Two Plates?
-Dry air can support a maximum electric field strength of about  Above that value, the field creates
-enough ionization in the air to make the air a conductor. This allows a discharge or spark that reduces the field.
-What, then, is the maximum voltage between two parallel conducting plates separated by 2.5 cm of dry air?
-Strategy
-We are given the maximum electric field E between the plates and the distance d between them. We can use the
-equation  (recall that these represent absolute values) to calculate the maximum voltage.
-Solution
-The potential difference or voltage between the plates is
-7.7
-282 7 • Electric Potential
-
-Entering the given values for E and d gives
-or
-(The answer is quoted to only two digits, since the maximum field strength is approximate.)
-Significance
-One of the implications of this result is that it takes about 75 kV to make a spark jump across a 2.5-cm (1-in.) gap, or
-150 kV for a 5-cm spark. This limits the voltages that can exist between conductors, perhaps on a power
-transmission line. A smaller voltage can cause a spark if there are spines on the surface, since sharp points have
-larger field strengths than smooth surfaces. Humid air breaks down at a lower field strength, meaning that a smaller
-voltage will make a spark jump through humid air. The largest voltages can be built up with static electricity on dry
-days (Figure 7.16).
-FIGURE 7.16 A spark chamber is used to trace the paths of high-energy particles. Ionization created by the particles as they pass through
-the gas between the plates allows a spark to jump. The sparks are perpendicular to the plates, following electric field lines between them.
-The potential difference between adjacent plates is not high enough to cause sparks without the ionization produced by particles from
-accelerator experiments (or cosmic rays). This form of detector is now archaic and no longer in use except for demonstration purposes.
-(credit b: modification of work by Jack Collins)
-EXAMPLE 7.8
-Field and Force inside an Electron Gun
-An electron gun (Figure 7.13) has parallel plates separated by 4.00 cm and gives electrons 25.0 keV of energy. (a)
-What is the electric field strength between the plates? (b) What force would this field exert on a piece of plastic with
-a  charge that gets between the plates?
-Strategy
-Since the voltage and plate separation are given, the electric field strength can be calc
-ulated directly from the
-expression . Once we know the electric field strength, we can find the force on a charge by using
-Since the electric field is in only one direction, we can write this equation in terms of the magnitudes, .
-Solution
-a. The expression for the magnitude of the electric field between two uniform metal plates is
-Since the electron is a single charge and is given 25.0 keV of energy, the potential difference must be 25.0 kV.
-Entering this value for  and the plate separation of 0.0400 m, we obtain
-7.2 • Electric Potential and Potential Difference 283
-
-b. The magnitude of the force on a charge in an electric field is obtained from the equation
-Substituting known values gives
-Significance
-Note that the units are newtons, since . Because the electric field is uniform between the plates, the
-force on the charge is the same no matter where the charge is located between the plates.
-EXAMPLE 7.9
-Calculating Potential of a Point Charge
-Given a point charge  at the origin, calculate the potential difference between point  a distance
- from q, and  a distance  from q, where the two points have an angle of  between
-them (Figure 7.17).
-FIGURE 7.17 Find the difference in potential between  and .
-Strategy
-Do this in two steps. The first step is to use  and let  and
- with  and  Then perform the integral. The second step is to integrate
- around an arc of constant radius r, which means we let  with limits
- still using . Then add the two results together.
-Solution
-For the first part,  for this system becomes  which
-computes to
-For the second step,  becomes , but  and
-therefore  Adding the two parts together, we get 300 V.
-Significance
-We have demonstrated the use of the integral form of the potential difference to obtain a numerical result. Notice
-284 7 • Electric Potential
-
-that, in this particular system, we could have also used the formula for the potential due to a point charge at the two
-points and simply taken the difference.
-CHECK YOUR UNDER STANDING 7.7
-From the examples, how does the energy of a lightning strike vary with the height of the clouds from the ground?
-Consider the cloud-ground system to be two parallel plates.
-Before presenting problems involving electrostatics, we suggest a problem-solving strategy to follow for this topic.
-PROBLEM-SOL VING S TRATEGY
-Electrostatics
-1. Examine the situation to determine if static electricity is involved; this may concern separated stationary
-charges, the forces among them, and the electric fields they create.
-2. Identify the system of interest. This includes noting the number, locations, and types of charges involved.
-3. Identify exactly what needs to be determined in the problem (identify the unknowns). A written list is useful.
-Determine whether the Coulomb force is to be considered directly—if so, it may be useful to draw a free-body
-diagram, using electric field lines.
-4. Make a list of what is given or can be inferred from the problem as stated (identify the knowns). It is important
-to distinguish the Coulomb force F from the electric field E, for example.
-5. Solve the appropriate equation for the quantity to be determined (the unknown) or draw the field lines as
-requested.
-6. Examine the answer to see if it is reasonable: Does it make sense? Are units correct and the numbers involved
-reasonable?
-7.3 Calculations of Electric Potential
-LEARNING OBJECTIVES
-By the end of this section, you will be able to:
-• Calculate the potential due to a point charge
-• Calculate the potential of a system of multiple point charges
-• Describe an electric dipole
-• D
-efine dipole moment
-• Calculate the potential of a continuous charge distribution
-Point charges, such as electrons, are among the fundamental building blocks of matter. Furthermore, spherical
-charge distributions (such as charge on a metal sphere) create external electric fields exactly like a point charge. The
-electric potential due to a point charge is, thus, a case we need to consider.
-We can use calculus to find the work needed to move a test charge q from a large distance away to a distance of r
-from a point charge q. Noting the connection between work and potential  as in the last section, we
-can obtain the following result.
-ELECTRIC POTENTIAL V OF A POINT CHARGE
-The electric potential V of a point charge is given by
-where k is a constant equal to
-7.8
-7.3 • Calculations of Electric Potential 285
-
-The potential at infinity is chosen to be zero. Thus, V for a point charge decreases with distance, whereas  for a
-point charge decreases with distance squared:
-Recall that the electric potential difference V is a scalar and has no direction, whereas the electric field  is a
-vector. To find the voltage due to a combination of point charges, given zero voltage at infinitely far away, you add
-the individual voltages as numbers. We will assume for the rest of this chapter that there is zero voltage measured
-infinitely far away. To find the total electric field, you must add the individual fields as vectors, taking magnitude and
-direction into account. This is consistent with the fact that V is closely associated with energy, a scalar, whereas
-is closely associated with force, a vector.
-EXAMPLE 7.10
-What Voltage Is Produced by a Small Charge on a Metal Sphere?
-Charges in static electricity are typically in the nanocoulomb (nC) to microcoulomb  range. What is the voltage
-5.00 cm away from the center of a 1-cm-diameter solid metal sphere that has a –3.00-nC static charge?
-Strategy
-As we discussed in Electric Charges and Fields, charge on a metal sphere spreads out uniformly and produces a field
-like that of a point charge located at its center. Thus, we can find the voltage using the equation
-Solution
-Entering known values into the expression for the potential of a point charge, we obtain
-Significance
-The negative value for voltage means a positive charge would be attracted from a larger distance, since the potential
-is lower (more negative) than at larger distances. Conversely, a negative charge would be repelled, as expected.
-EXAMPLE 7.11
-What Is the Excess Charge on a Van de Graaff Generator?
-A demonstration Van de Graaff generator has a 25
-.0-cm-diameter metal sphere that produces a voltage of 100 kV
-near its surface (Figure 7.18). What excess charge resides on the sphere? (Assume that each numerical value here is
-shown with three significant figures.)
-286 7 • Electric Potential
-
-FIGURE 7.18 The voltage of this demonstration Van de Graaff generator is measured between the charged sphere and ground. Earth’s
-potential is taken to be zero as a reference. The potential of the charged conducting sphere is the same as that of an equal point charge at
-its center.
-Strategy
-The potential on the surface is the same as that of a point charge at the center of the sphere, 12.5 cm away. (The
-radius of the sphere is 12.5 cm.) We can thus determine the excess charge using the equation
-Solution
-Solving for q and entering known values gives
-Significance
-This is a relatively small charge, but it produces a rather large voltage. We have another indication here that it is
-difficult to store isolated charges.
-CHECK YOUR UNDER STANDING 7.8
-What is the potential inside the metal sphere in Example 7.10?
-The voltages in both of these examples could be measured with a meter that compares the measured potential with
-ground potential. Ground potential is often taken to be zero (instead of taking the potential at infinity to be zero). It
-is the potential difference between two points that is of importance, and very often there is a tacit assumption that
-some reference point, such as Earth or a very distant point, is at zero potential. As noted earlier, this is analogous to
-taking sea level as  when considering gravitational potential energy .
-Systems of Multiple Point Charges
-Just as the electric field obeys a superposition principle, so does the electric potential. Consider a system consisting
-7.3 • Calculations of Electric Potential 287
-
-of N charges  What is the net electric potential V at a space point P from these charges? Each of these
-charges is a source charge that produces its own electric potential at point P, independent of whatever other
-changes may be doing. Let  be the electric potentials at P produced by the charges
-respectively. Then, the net electric potential  at that point is equal to the sum of these individual electric
-potentials. You can easily show this by calculating the potential energy of a test charge when you bring the test
-charge from the reference point at infinity to point P:
-Note that electric potential follows the same principle of superposition as electric field and electric potential energy.
-To show this more explicitly, note that a test charge  at the point P in space has distances of  from
-the N charges fixed in space above, as shown in Figure 7.19. Using our formula for the potential of a point charge for
-each of these (assumed to be point) charges, we find that
-Therefore, the electric potential energy of the test charge is
-which is the same as the work to bring the test charge into the system, as found in the first section of the chapter.
-FIGURE 7.19 Notation for direct distances from charges to a space point P.
-The Electric Dipole
-An electric dipole is a system of two equal but opposite charges a fixed distance apart. This system is used to
-model many real-world systems, including atomic and molecular interactions. One of these systems is the water
-molecule, under certain circumstances. These circumstances are met inside a microwave oven, where electric fields
-with alternating directions make the water molecules change orientation. This vibration is the same as heat at the
-molecular level.
-EXAMPLE 7.12
-Electric Potential of a Dipole
-C
-onsider the dipole in Figure 7.20 with the charge magnitude of  and separation distance
-What is the potential at the following locations in space? (a) (0, 0, 1.0 cm); (b) (0, 0, –5.0 cm); (c) (3.0 cm, 0, 2.0
-cm).
-7.9
-288 7 • Electric Potential
-
-FIGURE 7.20 A general diagram of an electric dipole, and the notation for the distances from the individual charges to a point P in space.
-Strategy
-Apply  to each of these three points.
-Solution
-a.
-b.
-c.
-Significance
-Note that evaluating potential is significantly simpler than electric field, due to potential being a scalar instead of a
-vector.
-CHECK YOUR UNDER STANDING 7.9
-What is the potential on the x-axis? The z-axis?
-Now let us consider the special case when the distance of the point P from the dipole is much greater than the
-distance between the charges in the dipole,  for example, when we are interested in the electric potential due
-to a polarized molecule such as a water molecule. This is not so far (infinity) that we can simply treat the potential as
-zero, but the distance is great enough that we can simplify our calculations relative to the previous example.
-We start by noting that in Figure 7.21 the potential is given by
-7.3 • Calculations of Electric Potential 289
-
-where
-FIGURE 7.21 A general diagram of an electric dipole, and the notation for the distances from the individual charges to a point P in space.
-This is still the exact formula. To take advantage of the fact that  we rewrite the radii in terms of polar
-coordinates, with  and . This gives us
-We can simplify this expression by pulling r out of the root,
-and then multiplying out the parentheses
-The last term in the root is small enough to be negligible (remember  and hence  is extremely small,
-effectively zero to the level we will probably be measuring), leaving us with
-Using the binomial approximation (a standard result from the mathematics of series, when  is small)
-and substituting this into our formula for  , we get
-This may be written more conveniently if we define a new quantity, the electric dipole moment,
-290 7 • Electric Potential
-
-where these vectors point from the negative to the positive charge. Note that this has magnitude qd. This quantity
-allows us to write the potential at point P due to a dipole at the origin as
-A diagram of the application of this formula is shown in Figure 7.22.
-FIGURE 7.22 The geometry for the application of the potential of a dipole.
-There are also higher-order moments, for quadrupoles, octupoles, and so on. You will see these in future classes.
-Potential of Continuous Charge Distributions
-We have been working with point charges a great deal, but what about continuous charge distributions? Recall from
-Equation 7.9 that
-We may treat a continuous charge distribution as a collection of infinitesimally separated individual points. This
-yields the integral
-for the potential at a point P. Note that r is the distance from each individual point in the charge distribution to the
-point P. As we saw in Electric Charges and Fields, the infinitesimal charges are given by
-where  is linear charge density,  is the charge per unit area, and  is the charge per unit volume.
-EXAMPLE 7.13
-Potential of a Line of Charge
-Find the electric potential of a uniformly charged, nonconducting wire with linear density  (coulomb/meter) and
-length L at a point that lies on a line that divides the wire into two equal parts.
-7.10
-7.11
-7.12
-7.3 • Calculations of Electric Potential 291
-
-Strategy
-To set up the problem, we choose Cartesian coordinates in such a way as to exploit the symmetry in the problem as
-much as possible. We place the origin at the center of the wire and orient the y-axis along the wire so that the ends
-of the wire are at . The field point P is in the xy-plane and since the choice of axes is up to us, we choose
-the x-axis to pass through the field point P, as shown in Figure 7.23.
-FIGURE 7.23 We want to calculate the electric potential due to a line of charge.
-Solution
-Consider a small element of the charge distribution between y and . The charge in this cell is  and
-the distance from the cell to the field point P is  Therefore, the potential becomes
-Significance
-Note that this was simpler than the equivalent problem for electric field, due to the use of scalar quantities. Recall
-that we expect the zero level of the potential to be at infinity, when we have a finite charge. To examine this, we take
-the limit of the above potential as x approaches infinity; in this case, the terms inside the natural log approach one,
-and hence the potential approaches zero in this limit. Note that we could have done this problem equivalently in
-cylindrical coordinates; the only effect would be to substitute r for x and z for y.
-EXAMPLE 7.14
-Potential Due to a Ring of Charge
-A ring has a uniform charge density , with units of coulomb per unit meter of arc. Find the electric potential at a
-point on the axis passing through the center of the ring.
-Strategy
-We use the same procedure as for the charged wire. The difference here is that the charge is distributed on a circle.
-We divide the circle into infinitesimal elements shaped as arcs on the circle and use cylindrical coordinates shown in
-Figure 7.24.
-292 7 • Electric P
-otential
-
-FIGURE 7.24 We want to calculate the electric potential due to a ring of charge.
-Solution
-A general element of the arc between  and  is of length  and therefore contains a charge equal to
-The element is at a distance of  from P, and therefore the potential is
-Significance
-This result is expected because every element of the ring is at the same distance from point P. The net potential at P
-is that of the total charge placed at the common distance, .
-EXAMPLE 7.15
-Potential Due to a Uniform Disk of Charge
-A disk of radius R has a uniform charge density , with units of coulomb meter squared. Find the electric potential at
-any point on the axis passing through the center of the disk.
-Strategy
-We divide the disk into ring-shaped cells, and make use of the result for a ring worked out in the previous example,
-then integrate over r in addition to . This is shown in Figure 7.25.
-7.3 • Calculations of Electric Potential 293
-
-FIGURE 7.25 We want to calculate the electric potential due to a disk of charge.
-Solution
-An infinitesimal width cell between cylindrical coordinates r and  shown in Figure 7.25 will be a ring of
-charges whose electric potential  at the field point has the following expression
-where
-The superposition of potential of all the infinitesimal rings that make up the disk gives the net potential at point P.
-This is accomplished by integrating from  to :
-Significance
-The basic procedure for a disk is to first integrate around  and then over r. This has been demonstrated for uniform
-(constant) charge density. Often, the charge density will vary with r, and then the last integral will give different
-results.
-EXAMPLE 7.16
-Potential Due to an Infinite Charged Wire
-Find the electric potential due to an infinitely long uniformly charged wire.
-Strategy
-Since we have already worked out the potential of a finite wire of length L in Example 7.13, we might wonder if
-taking ∞  in our previous result will work:
-∞
-294 7 • Electric Potential
-
-However, this limit does not exist because the argument of the logarithm becomes [2/0] as ∞ , so this way of
-finding V of an infinite wire does not work. The reason for this problem may be traced to the fact that the charges are
-not localized in some space but continue to infinity in the direction of the wire. Hence, our (unspoken) assumption
-that zero potential must be an infinite distance from the wire is no longer valid.
-To avoid this difficulty in calculating limits, let us use the definition of potential by integrating over the electric field
-from the previous section, and the value of the electric field from this charge configuration from the previous
-chapter.
-Solution
-We use the integral
-where R is a finite distance from the line of charge, as shown in Figure 7.26.
-FIGURE 7.26 Points of interest for calculating the potential of an infinite line of charge.
-With this setup, we use  and  to obtain
-Now, if we define the reference potential  at  this simplifies to
-Note that this form of the potential is quite usable; it is 0 at 1 m and is undefined at infinity, which is why we could
-not use the latter as a reference.
-Significance
-Although calculating potential directly can be quite convenient, we just found a system for which this strategy does
-not work well. In such cases, going back to the definition of potential in terms of the electric field may offer a way
-forward.
-CHECK YOUR UNDER STANDING 7.10
-What is the potential on the axis of a nonuniform ring of charge, where the charge density is  ?
-7.3 • Calculations of Electric Potential 295
-
-7.4 Determining Field from Potential
-LEARNING OBJECTIVES
-By the end of this section, you will be able to:
-• Explain how to calculate the electric field in a system from the given potential
-• Calculate the electric field in a given direction from a given potential
-• Calculate the electric field throughout space from a given potential
-Recall that we were able, in certain systems, to calculate the potential by integrating over the electric field. As you
-may already suspect, this means that we may calculate the electric field by taking derivatives of the potential,
-although going from a scalar to a vector quantity introduces some interesting wrinkles. We frequently need  to
-calculate the force in a system; since it is often simpler to calculate the potential directly, there are systems in which
-it is useful to calculate V and then derive  from it.
-In general, regardless of whether the electric field is uniform, it points in the direction of decreasing potential,
-because the force on a positive charge is in the direction of  and also in the direction of lower potential V.
-Furthermore, the magnitude of  equals the rate of decrease of V with distance. The faster V decreases over
-distance, the greater the electric field. This gives us the following result.
-For continually changing potentials,  and  become infinitesimals, and we need differential calculus to
-determine the electric field. As shown in Figure 7.27, if we treat the distance  as very small so that the electric
-field is essentially constant over it, we find that
-FIGURE 7.27 The electric field component, , along the displacement  is given by . Note that A and B are assumed to be so
-close together that the field is constant along .
-Therefore, the electric field components in the Cartesian
-directions are given by
-This allows us to define the “grad” or “del” vector operator, which allows us to compute the gradient in one step. In
-Cartesian coordinates, it takes the form
-RELATIONSHIP BETWEEN VOLTAGE AND UNIFORM ELECTRIC FIELD
-In equation form, the relationship between voltage and uniform electric field is
-where  is the distance over which the change in potential  takes place. The minus sign tells us that E
-points in the direction of decreasing potential. The electric field is said to be the gradient (as in grade or slope) of
-the electric potential.
-7.13
-296 7 • Electric Potential
-
-With this notation, we can calculate the electric field from the potential with
-a process we call calculating the gradient of the potential.
-If we have a system with either cylindrical or spherical symmetry, we only need to use the del operator in the
-appropriate coordinates:
-EXAMPLE 7.17
-Electric Field of a Point Charge
-Calculate the electric field of a point charge from the potential.
-Strategy
-The potential is known to be , which has a spherical symmetry. Therefore, we use the spherical del operator
-in the formula .
-Solution
-Performing this calculation gives us
-This equation simplifies to
-as expected.
-Significance
-We not only obtained the equation for the electric field of a point particle that we’ve seen before, we also have a
-demonstration that  points in the direction of decreasing potential, as shown in Figure 7.28.
-7.14
-7.15
-7.16
-7.17
-7.4 • Determining Field from Potential 297
-
-FIGURE 7.28 Electric field vectors inside and outside a uniformly charged sphere.
-EXAMPLE 7.18
-Electric Field of a Ring of Charge
-Use the potential found in Example 7.14 to calculate the electric field along the axis of a ring of charge (Figure 7.29).
-FIGURE 7.29 We want to calculate the electric field from the electric potential due to a ring charge.
-Strategy
-In this case, we are only interested in one dimension, the z-axis. Therefore, we use
-with the potential  found previously.
-298 7 • Electric Potential
-
-Solution
-Taking the derivative of the potential yields
-Significance
-Again, this matches the equation for the electric field found previously. It also demonstrates a system in which using
-the full del operator is not necessary.
-CHECK YOUR UNDER STANDING 7.11
-Which coordinate system would you use to calculate the electric field of a dipole?
-7.5 Equipotential Surfaces and Conductors
-LEARNING OBJECTIVES
-By the end of this section, you will be able to:
-• Define equipotential surfaces and equipotential lines
-• Explain the relationship between equipotential lines and electric field lines
-• Map equipotential lines for one or two point charges
-• Describe the potential of a conductor
-• Compare and contrast equipotential lines and elevation lines on topographic maps
-We can represent electric potentials (voltages) pictorially, just as we drew pictures to illustrate electric fields. This is
-not surprising, since the two concepts are related. Consider Figure 7.30, which shows an isolated positive point
-charge and its electric field lines, which radiate out from a positive charge and terminate on negative charges. We
-use red arrows to represent the magnitude and direction of the electric field, and we use black lines to represent
-places where the electric potential is constant. These are called equipotential surfaces in three dimensions, or
-equipotential lines in two dimensions. The term equipotential is also used as a noun, referring to an equipotential
-line or surface. The potential for a point charge is the same anywhere on an imaginary sphere of radius r surrounding
-the charge. This is true because the potential for a point charge is given by  and thus has the same value at
-any point that is a given distance r from the charge. An equipotential sph
-ere is a circle in the two-dimensional view
-of Figure 7.30. Because the electric field lines point radially away from the charge, they are perpendicular to the
-equipotential lines.
-FIGURE 7.30 An isolated point charge Q with its electric field lines in red and equipotential lines in black. The potential is the same along
-each equipotential line, meaning that no work is required to move a charge anywhere along one of those lines. Work is needed to move a
-charge from one equipotential line to another. Equipotential lines are perpendicular to electric field lines in every case. For a three-
-dimensional version, explore the first interactive link.
-7.5 • Equipotential Surfaces and Conductors 299
-
-It is important to note that equipotential lines are always perpendicular to electric field lines. No work is required to
-move a charge along an equipotential, since . Thus, the work is
-Work is zero if the direction of the force is perpendicular to the displacement. Force is in the same direction as E, so
-motion along an equipotential must be perpendicular to E. More precisely, work is related to the electric field by
-Note that in this equation, E and F symbolize the magnitudes of the electric field and force, respectively. Neither q
-nor E is zero; d is also not zero. So  must be 0, meaning  must be . In other words, motion along an
-equipotential is perpendicular to E.
-One of the rules for static electric fields and conductors is that the electric field must be perpendicular to the
-surface of any conductor. This implies that a conductor is an equipotential surface in static situations. There can be
-no voltage difference across the surface of a conductor, or charges will flow. One of the uses of this fact is that a
-conductor can be fixed at what we consider zero volts by connecting it to the earth with a good conductor—a process
-called grounding. Grounding can be a useful safety tool. For example, grounding the metal case of an electrical
-appliance ensures that it is at zero volts relative to Earth.
-Because a conductor is an equipotential, it can replace any equipotential surface. For example, in Figure 7.30, a
-charged spherical conductor can replace the point charge, and the electric field and potential surfaces outside of it
-will be unchanged, confirming the contention that a spherical charge distribution is equivalent to a point charge at
-its center.
-Figure 7.31 shows the electric field and equipotential lines for two equal and opposite cha
-rges. Given the electric
-field lines, the equipotential lines can be drawn simply by making them perpendicular to the electric field lines.
-Conversely, given the equipotential lines, as in Figure 7.32(a), the electric field lines can be drawn by making them
-perpendicular to the equipotentials, as in Figure 7.32(b).
-FIGURE 7.31 The electric field lines and equipotential lines for two equal but opposite charges. The equipotential lines can be drawn by
-making them perpendicular to the electric field lines, if those are known. Note that the potential is greatest (most positive) near the positive
-charge and least (most negative) near the negative charge. For a three-dimensional version, explore the first interactive link.
-300 7 • Electric Potential
-
-FIGURE 7.32 (a) These equipotential lines might be measured with a voltmeter in a laboratory experiment. (b) The corresponding electric
-field lines are found by drawing them perpendicular to the equipotentials. Note that these fields are consistent with two equal negative
-charges. For a three-dimensional version, play with the first interactive link.
-To improve your intuition, we show a three-dimensional variant of the potential in a system with two opposing
-charges. Figure 7.33 displays a three-dimensional map of electric potential, where lines on the map are for
-equipotential surfaces. The hill is at the positive charge, and the trough is at the negative charge. The potential is
-zero far away from the charges. Note that the cut off at a particular potential implies that the charges are on
-conducting spheres with a finite radius.
-FIGURE 7.33 Electric potential map of two opposite charges of equal magnitude on conducting spheres. The potential is negative near the
-negative charge and positive near the positive charge.
-A two-dimensional map of the cross-sectional plane that contains both charges is shown in Figure 7.34. The line
-that is equidistant from the two opposite charges corresponds to zero potential, since at the points on the line, the
-positive potential from the positive charge cancels the negative potential from the negative charge. Equipotential
-lines in the cross-sectional plane are closed loops, which are not necessarily circles, since at each point, the net
-potential is the sum of the potentials from each charge.
-7.5 • Equipotential Surfaces and Conductors 301
-
-FIGURE 7.34 A cross-section of the electric potential map of two opposite charges of equal magnitude. The potential is negative near the
-negative charge and positive near the positive charge.
-INTER ACTIVE
-View this simulation (https://openstax.org/l/21equipsurelec) to observe and modify the equipotential surfaces and
-electric fields for many standard charge configurations. There’s a lot to explore.
-One of the most important cases is that of the familiar parallel conducting plates shown in Figure 7.35. Between the
-plates, the equipotentials are evenly spaced and parallel. The same field could be maintained by placing conducting
-plates at the equipotential lines at the potentials shown.
-FIGURE 7.35 The electric field and equipotential lines between two metal plates. Note that the electric field is perpendicular to the
-equipotentials and hence normal to the plates at their surface as well as in the center of the region between them.
-Consider the parallel plates in Figure 7.2. These have equipotential lines that are parallel to the plates in the space
-between and evenly spaced. An example of this (with sample values) is given in Figure 7.35. We could draw a similar
-set of equipotential isolines for gravity on the hill shown in Figure 7.2. If the hill has any extent at the same slope,
-the isolines along that extent would be parallel to each other. Furthermore, in regions of constant slope, the isolines
-would be evenly spaced. An example of real topographic lines is shown in Figure 7.36.
-302 7 • Electric Potential
-
-FIGURE 7.36 A topographical map along a ridge has roughly parallel elevation lines, similar to the equipotential lines in Figure 7.35. (a) A
-topographical map of Devil’s Tower, Wyoming. Lines that are close together indicate very steep terrain. (b) A perspective photo of Devil’s
-Tower shows just how steep its sides are. Notice the top of the tower has the same shape as the center of the topographical map.
-EXAMPLE 7.19
-Calculating Equipotential Lines
-You have seen the equipotential lines of a point charge in Figure 7.30. How do we calculate them? For example, if
-we have a  charge at the origin, what are the equipotential surfaces at which the potential is (a) 100 V, (b) 50
-V, (c) 20 V, and (d) 10 V?
-Strategy
-Set the equation for the potential of a point charge equal to a constant and solve for the remaining variable(s). Then
-calculate values as needed.
-Solution
-In , let V be a constant. The only remaining variable is r; hence, . Thus, the
-equipotential surfaces are spheres about the origin. Their locations are:
-a. ;
-b. ;
-c. ;
-d. .
-Significance
-This means that equipotential surfaces around a point charge are spheres of constant radius, as shown earlier, with
-well-defined locations.
-7.5 • Equipotential Surfaces and Conductors 303
-
-EXAMPLE 7.20
-Potential Difference between Oppositely Charged Parallel Plates
-Two large conducting plates carry equal and opposite charges, with a surface charge density  of magnitude
- as shown in Figure 7.37. The separation between the plates is . (a) What is the
-electric field between the plates? (b) What is the potential difference between the plates? (c) What is the distance
-between equipotential planes which differ by 100 V?
-FIGURE 7.37 The electric field between oppositely charged parallel plates. A portion is released at the positive plate.
-Strategy
-(a) Since the plates are described as “large” and the distance between them is not, we will approximate each of
-them as an infinite plane, and apply the result from Gauss’s law in the previous chapter.
-(b) Use .
-(c) Since the electric field is constant, find the ratio of 100 V to the total potential difference; then calculate this
-fraction of the distance.
-Solution
-a. The electric field is directed from the positive to the negative plate as shown in the figure, and its magnitude is
-given by
-b. To find the potential difference  between the plates, we use a path from the negative to the positive plate
-that is directed against the field. The displacement vector  and the electric field  are antiparallel so
- The potential difference between the positive plate and the negative plate is then
-c. The total potential difference is 500 V, so 1/5 of the distance between the plates will be the distance between
-100-V potential differences. The distance between the plates is 6.5 mm, so there will be 1.3 mm between
-304 7 • Electric Potential
-
-100-V potential differences.
-Significance
-You have now seen a numerical calculation of the locations of equipotentials between two charged parallel plates.
-CHECK YOUR UNDER STANDING 7.12
-What are the equipotential surfaces for an infinite line charge?
-Distribution of Charges on Conductors
-In Example 7.19 with a point charge, we found that the equipotential surfaces were in the form of spheres, with the
-point charge at the center. Given that a conducting sphere in electrostatic equilibrium is a spherical equipotential
-surface, we should expect that we could replace one of the surfaces in Example 7.19 with a conducting sphere and
-have an identical solution outside the sphere. Inside will be rather different, however.
-FIGURE 7.38 An isolated conducting sphere.
-To investigate this, consider the isolated conducting sphere of Figure 7.38 that has a radius R and an excess charge
-q. To find the electric field both inside and outside the sphere, note that the sphere is isolated, so its surface change
-distribution and the electric field of that distribution are spherically symmetric. We can therefore represent the field
-as  To calculate E(r), we apply Gauss’s law over a closed spherical surface S of radius r that is concentric
-with the conducting sphere. Since r is constant and  on the sphere,
-For , S is within the conductor, so recall from our previous study of Gauss’s law that  and Gauss’s law
-gives , as expected inside a conductor at equilibrium. If , S encloses the conductor so
-From Gauss’s law,
-The electric field of the sphere may therefore be written as
-As expected, in the region  the electric field due to a charge q placed on an isolated conducting sphere of
-radius R is identical to the electric field of a point charge q located at the cente
-r of the sphere.
-7.5 • Equipotential Surfaces and Conductors 305
-
-To find the electric potential inside and outside the sphere, note that for  the potential must be the same as
-that of an isolated point charge q located at ,
-simply due to the similarity of the electric field.
-For  so V(r) is constant in this region. Since
-We will use this result to show that
-for two conducting spheres of radii , with surface charge densities  respectively, that are
-connected by a thin wire, as shown in Figure 7.39. The spheres are sufficiently separated so that each can be
-treated as if it were isolated (aside from the wire). Note that the connection by the wire means that this entire
-system must be an equipotential.
-FIGURE 7.39 Two conducting spheres are connected by a thin conducting wire.
-We have just seen that the electrical potential at the surface of an isolated, charged conducting sphere of radius R is
-Now, the spheres are connected by a conductor and are therefore at the same potential; hence
-and
-The net charge on a conducting sphere and its surface charge density are related by  Substituting this
-equation into the previous one, we find
-Obviously, two spheres connected by a thin wire do not constitute a typical conductor with a variable radius of
-curvature. Nevertheless, this result does at least provide a qualitative idea of how charge density varies over the
-surface of a conductor. The equation indicates that where the radius of curvature is large (points B and D in Figure
-7.40),  and E are small.
-Similarly, the charges tend to be denser where the curvature of the surface is greater, as demonstrated by the
-charge distribution on oddly shaped metal (Figure 7.40). The surface charge density is higher at locations with a
-306 7 • Electric Potential
-
-small radius of curvature than at locations with a large radius of curvature.
-FIGURE 7.40 The surface charge density and the electric field of a conductor are greater at regions with smaller radii of curvature.
-A practical application of this phenomenon is the lightning rod, which is simply a grounded metal rod with a sharp
-end pointing upward. As positive charge accumulates in the ground due to a negatively charged cloud overhead, the
-electric field around the sharp point gets very large. When the field reaches a value of approximately
-(the dielectric strength of the air), the free ions in the air are accelerated to such high energies that their collisions
-with air molecules actually ionize the molecules. The resulting free electrons in the air then flow through the rod to
-Earth, thereby neutralizing some of the positive charge. This keeps the electric field between the cloud and the
-ground from getting large enough to produce a lightning bolt in the region around the rod.
-An important application of electric fields and equipotential lines involves the heart. The heart relies on electrical
-signals to maintain its rhythm. The movement of electrical signals causes the chambers of the heart to contract and
-relax. When a person has a heart attack, the movement of these electrical signals may be disturbed. An artificial
-pacemaker and a defibrillator can be used to initiate the rhythm of electrical signals. The equipotential lines around
-the heart, the thoracic region, and the axis of the heart are useful ways of monitoring the structure and functions of
-the heart. An electrocardiogram (ECG) measures the small electric signals being generated during the activity of the
-heart.
-INTER ACTIVE
-Play with the simulation (https://openstax.org/l/21fieldlin
-drapr) to move point charges around on the playing field
-and then view the electric field, voltages, equipotential lines, and more.
-7.6 Applications of Electrostatics
-LEARNING OBJECTIVES
-By the end of this section, you will be able to:
-• Describe some of the many practical applications of electrostatics, including several printing technologies
-• Relate these applications to Newton’s second law and the electric force
-The study of electrostatics has proven useful in many areas. This module covers just a few of the many applications
-of electrostatics.
-The Van de Graaff Generator
-Van de Graaff generators (or Van de Graaffs) are not only spectacular devices used to demonstrate high voltage
-7.6 • Applications of Electrostatics 307
-
-due to static electricity—they are also used for serious research. The first was built by Robert Van de Graaff in 1931
-(based on original suggestions by Lord Kelvin) for use in nuclear physics research. Figure 7.41 shows a schematic of
-a large research version. Van de Graaffs use both smooth and pointed surfaces, and conductors and insulators to
-generate large static charges and, hence, large voltages.
-A very large excess charge can be deposited on the sphere because it moves quickly to the outer surface. Practical
-limits arise because the large electric fields polarize and eventually ionize surrounding materials, creating free
-charges that neutralize excess charge or allow it to escape. Nevertheless, voltages of 15 million volts are well within
-practical limits.
-FIGURE 7.41 Schematic of Van de Graaff generator. A battery (A) supplies excess positive charge to a pointed conductor, the points of
-which spray the charge onto a moving insulating belt near the bottom. The pointed conductor (B) on top in the large sphere picks up the
-charge. (The induced electric field at the points is so large that it removes the charge from the belt.) This can be done because the charge
-does not remain inside the conducting sphere but moves to its outside surface. An ion source inside the sphere produces positive ions,
-which are accelerated away from the positive sphere to high velocities.
-Xerography
-Most copy machines use an electrostatic process called xerography—a word coined from the Greek words xeros for
-dry and graphos for writing. The heart of the process is shown in simplified form in Figure 7.42.
-308 7 • Electric Potential
-
-FIGURE 7.42 Xerography is a dry copying process based on electrostatics. The major steps in the process are the charging of the
-photoconducting drum, transfer of an image, creating a positive charge duplicate, attraction of toner to the charged parts of the drum, and
-transfer of toner to the paper. Not shown are heat treatment of the paper and cleansing of the drum for the next copy.
-A selenium-coated aluminum drum is sprayed with positive charge from points on a device called a corotron.
-Selenium is a substance with an interesting property—it is a photoconductor. That is, selenium is an insulator when
-in the dark and a conductor when exposed to light.
-In the first stage of the xerography process, the conducting aluminum drum is grounded so that a negative charge is
-induced under the thin layer of uniformly positively charged selenium. In the second stage, the surface of the drum
-is exposed to the image of whatever is to be copied. In locations where the image is light, the selenium becomes
-conducting, and the positive charge is neutralized. In dark areas, the positive charge remains, so the image has been
-transferred to the drum.
-The third stage takes a dry black powder, called toner, and sprays it with a negative charge so that it is attracted to
-the positive regions of the drum. Next, a blank piece of paper is given a greater positive charge than on the drum so
-that it will pull the toner from the drum. Finally, the paper and electrostatically held toner are passed through heated
-pressure rollers, which melt and permanently adhere the toner to the fibers of the paper.
-Laser Printers
-Laser printers use the xerographic process to make high-quality images on paper, employing a laser to produce an
-image on the photoconducting drum as shown in
-Figure 7.43. In its most common application, the laser printer
-receives output from a computer, and it can achieve high-quality output because of the precision with which laser
-light can be controlled. Many laser printers do significant information processing, such as making sophisticated
-letters or fonts, and in the past may have contained a computer more powerful than the one giving them the raw
-data to be printed.
-7.6 • Applications of Electrostatics 309
-
-FIGURE 7.43 In a laser printer, a laser beam is scanned across a photoconducting drum, leaving a positively charged image. The other
-steps for charging the drum and transferring the image to paper are the same as in xerography. Laser light can be very precisely controlled,
-enabling laser printers to produce high-quality images.
-Ink Jet Printers and Electrostatic Painting
-The ink jet printer, commonly used to print computer-generated text and graphics, also employs electrostatics. A
-nozzle makes a fine spray of tiny ink droplets, which are then given an electrostatic charge (Figure 7.44).
-Once charged, the droplets can be directed, using pairs of charged plates, with great precision to form letters and
-images on paper. Ink jet printers can produce color images by using a black jet and three other jets with primary
-colors, usually cyan, magenta, and yellow, much as a color television produces color. (This is more difficult with
-xerography, requiring multiple drums and toners.)
-FIGURE 7.44 The nozzle of an ink-jet printer produces small ink droplets, which are sprayed with electrostatic charge. Various computer-
-driven devices are then used to direct the droplets to the correct positions on a page.
-Electrostatic painting employs electrostatic charge to spray paint onto oddly shaped surfaces. Mutual repulsion of
-like charges causes the paint to fly away from its source. Surface tension forms drops, which are then attracted by
-unlike charges to the surface to be painted. Electrostatic painting can reach hard-to-get-to places, applying an even
-coat in a controlled manner. If the object is a conductor, the electric field is perpendicular to the surface, tending to
-bring the drops in perpendicularly. Corners and points on conductors will receive extra
-paint. Felt can similarly be
-applied.
-Smoke Precipitators and Electrostatic Air Cleaning
-Another important application of electrostatics is found in air cleaners, both large and small. The electrostatic part
-of the process places excess (usually positive) charge on smoke, dust, pollen, and other particles in the air and then
-passes the air through an oppositely charged grid that attracts and retains the charged particles (Figure 7.45)
-Large electrostatic precipitators are used industrially to remove over  of the particles from stack gas emissions
-associated with the burning of coal and oil. Home precipitators, often in conjunction with the home heating and air
-conditioning system, are very effective in removing polluting particles, irritants, and allergens.
-310 7 • Electric Potential
-
-FIGURE 7.45 (a) Schematic of an electrostatic precipitator. Air is passed through grids of opposite charge. The first grid charges airborne
-particles, while the second attracts and collects them. (b) The dramatic effect of electrostatic precipitators is seen by the absence of smoke
-from this power plant. (credit b: modification of work by “Cmdalgleish”/Wikimedia Commons)
-7.6 • Applications of Electrostatics 311
-
-Chapter Review
-Key Terms
-electric dipole  system of two equal but opposite
-charges a fixed distance apart
-electric dipole moment  quantity defined as
-for all dipoles, where the vector points from the
-negative to positive charge
-electric potential  potential energy per unit charge
-electric potential difference  the change in potential
-energy of a charge q moved between two points,
-divided by the charge.
-electric potential energy  potential energy stored in a
-system of charged objects due to the charges
-electron-volt  energy given to a fundamental charge
-accelerated through a potential difference of one
-volt
-electrostatic precipitators  filters that apply charges
-to particles in the air, then attract those charges to a
-filter, removing them from the airstream
-equipotential line  two-dimensional representation of
-an equipotential surface
-equipotential surface  surface (usually in three
-dimensions) on which all points are at the same
-potential
-grounding  process of attaching a conductor to the
-earth to ensure that there is no potential difference
-between it and Earth
-ink jet printer  small ink droplets sprayed with an
-electric charge are controlled by electrostatic plates
-to create images on paper
-photoconductor  substance that is an insulator until it
-is exposed to light, when it becomes a conductor
-Van de Graaff generator  machine that produces a
-large amount of excess charge, used for
-experiments with high voltage
-voltage  change in potential energy of a charge moved
-from one point to another, divided by the charge;
-units of potential difference are joules per coulomb,
-known as volt
-xerography  dry copying process based on
-electrostatics
-Key Equations
-Potential energy of a two-charge system
-Work done to assemble a sys
-tem of charges
-Potential difference
-Electric potential
-Potential difference between two points
-Electric potential of a point charge
-Electric potential of a system of point charges
-Electric dipole moment
-Electric potential due to a dipole
-Electric potential of a continuous charge distribution
-Electric field components
-Del operator in Cartesian coordinates
-Electric field as gradient of potential
-Del operator in cylindrical coordinates
-Del operator in spherical coordinates
-312     7 • Chapter Review
-
-Summary
-7.1 Electric Potential Energy
-• The work done to move a charge from point A to
-B in an electric field is path independent, and the
-work around a closed path is zero. Therefore, the
-electric field and electric force are conservative.
-• We can define an electric potential energy, which
-between point charges is , with the
-zero reference taken to be at infinity.
-• The superposition principle holds for electric
-potential energy; the potential energy of a
-system of multiple charges is the sum of the
-potential energies of the individual pairs.
-7.2 Electric Potential and Potential Difference
-• Electric potential is potential energy per unit
-charge.
-• The potential difference between points A and B,
- that is, the change in potential of a
-charge q moved from A to B, is equal to the
-change in potential energy divided by the charge.
-• Potential difference is commonly called voltage,
-represented by the symbol :
-• An electron-volt is the energy given to a
-fundamental charge accelerated through a
-potential difference of 1 V. In equation form,
-7.3 Calculations of Electric Potential
-• Electric potential is a scalar whereas electric
-field is a vector.
-• Addition of voltages as numbers gives the voltage
-due to a combination of point charges, allowing
-us to use the principle of superposition:
-.
-• An electric dipole consists of two equal and
-opposite charges a fixed distance apart, with a
-dipole moment .
-• Continuous charge distributions may be
-calculated with .
-7.4 Determining Field from Potential
-• Just as we may integrate over the electric field to
-calculate the potential, we may take the
-derivative of the potential to calculate the
-electric field.
-• This may be done for individual components of
-the electric field, or we may c
-alculate the entire
-electric field vector with the gradient operator.
-7.5 Equipotential Surfaces and Conductors
-• An equipotential surface is the collection of
-points in space that are all at the same potential.
-Equipotential lines are the two-dimensional
-representation of equipotential surfaces.
-• Equipotential surfaces are always perpendicular
-to electric field lines.
-• Conductors in static equilibrium are
-equipotential surfaces.
-• Topographic maps may be thought of as showing
-gravitational equipotential lines.
-7.6 Applications of Electrostatics
-• Electrostatics is the study of electric fields in
-static equilibrium.
-• In addition to research using equipment such as
-a Van de Graaff generator, many practical
-applications of electrostatics exist, including
-photocopiers, laser printers, ink jet printers, and
-electrostatic air filters.
-Conceptual Questions
-7.1 Electric Potential Energy
+95 . Find the electric field of a large conducting plate containing a net charge q. Let A be area of one side of the plate and h the thickness of the plate (see below). The charge on the metal plate will distribute mostly on the two planar sides and very little on the edges if the plate is thin. 3 http://adsabs.harvard.edu/abs/2004AJ....127.3508B INTRODUCTION CHAPTER 7 Electric Potential 7.1 Electric Potential Energy 7.2 Electric Potential and Potential Difference 7.3 Calculations of Electric Potential 7.4 Determining Field from Potential 7.5 Equipotential Surfaces and Conductors 7.6 Applications of Electrostatics In Electric Charges and Fields, we just scratched the surface (or at least rubbed it) of electrical phenomena. Two terms commonly used to describe electricity are its energy and voltage, which we show in this chapter is directly related to the potential energy in a system. We know, for example, that great amounts of electrical energy can be stored in batteries, are transmitted cross- country via currents through power lines, and may jump from clouds to explode the sap of trees. In a similar manner, at the molecular level, ions cross cell membranes and transfer information. We also know about voltages associated with electricity. Batteries are typically a few volts, the outlets in your home frequently produce 120 volts, and power lines can be as high as hundreds of thousands of volts. But energy and voltage are not the same thing. A motorcycle battery, for example, is small and would not be very successful in replacing a much larger car battery, yet each has the same voltage. In this chapter, we examine the relationship between voltage and electrical energy, and begin to explore some of the many applications of electricity. FIGURE 7.1 The energy released in a lightning strike is an excellent illustration of the vast quantities of energy that may be stored and released by an electric potential difference. In this chapter, we calculate just how much energy can be released in a lightning strike and how this varies with the height of the clouds from the ground. (credit: modif ication of work by Anthony Quintano) CHAPTER OUTLINE 7.1 Electric Potential Energy LEARNING OBJECTIVES By the end of this section, you will be able to: • Define the work done by an electric force • Define electric potential energy • Apply work and potential energy in systems with electric charges When a free positive charge q is accelerated by an electric field, it is given kinetic energy (Figure 7.2). The process is analogous to an object being accelerated by a gravitational field, as if the charge were going down an electrical hill where its electric potential energy is converted into kinetic energy, although of course the sources of the forces are very different. Let us explore the work done on a charge q by the electric field in this process, so that we may develop a definition of electric potential energy. FIGURE 7.2 A charge accelerated by an electric field is analogous to a mass going down a hill. In both cases, potential energy decreases as kinetic energy increases, . Work is done by a force, but since this force is conservative, we can write . The electrostatic or Coulomb force is conservative, which means that the work done on q is independent of the path taken, as we will demonstrate later. This is exactly analogous to the gravitational force. When a force is conservative, it is possible to define a potential energy associated with the force. It is usually easier to work with the potential energy (because it depends only on position) than to calculate the work directly. To show this explicitly, consider an electric charge fixed at the origin and move another charge toward q in such a manner that, at each instant, the applied force exactly balances the electric force on Q (Figure 7.3). The work done by the applied force on the charge Q changes the potential energy of Q. We call this potential energy the electrical potential energy of Q. FIGURE 7.3 Displacement of “test” charge Q in the presence of fixed “source” charge q. The work done by the applied force when the particle moves from to may be calculated by Since the applied force balances the electric force on Q, the two forces have equal magnitude and opposite directions. Therefore, the applied force is 268 7 • Electric Potential where we have defined positive to be pointing away from the origin and r is the distance from the origin. The directions of both the displacement and the applied force in the system in Figure 7.3 are parallel, and thus the work done on the system is positive. We use the letter U to denote electric potential energy, which has units of joules (J). When a conservative force does negative work, the system gains potential energy. When a conservative force does positive work, the system loses potential energy, In the system in Figure 7.3, the Coulomb force acts in the opposite direction to the displacement; therefore, the work is negative. However, we have increased the potential energy in the two-charge system. EXAMPLE 7.1 Kinetic Energy of a Charged Particle A charge Q is initially at rest a distance of 10 cm ( ) from a charge q fixed at the origin (Figure 7.4). Naturally, the Coulomb force accelerates Q away from q, eventually reaching 15 cm ( ). FIGURE 7.4 The charge Q is repelled by q, thus having work done on it and gaining kinetic energy. a. What is the work done by the electric field between and ? b. How much kinetic energy does Q have at ? Strategy Calculate the work with the usual definition. Since Q started from rest, this is the same as the kinetic energy. Solution Integrating force over distance, we obtain This is also the value of the kinetic energy at Significance Charge Q was initially at rest; the electric field of q did work on Q, so now Q has kinetic energy equal to the work done by the electric field. CHECK YOUR UNDER STANDING 7.1 If Q has a mass of what is the speed of Q at In this example, the work W done to accelerate a positive charge from rest is positive and results from a loss in U, or a negative . A value f or U can be found at any point by taking one point as a reference and calculating the work needed to move a charge to the other point. ELECTRIC POTENTIAL ENERGY Work W done to accelerate a positive charge from rest is positive and results from a loss in U, or a negative . 7.1 • Electric Potential Energy 269 Gravitational potential energy and electric potential energy are quite analogous. Potential energy accounts for work done by a conservative force and gives added insight regarding energy and energy transformation without the necessity of dealing with the force directly. It is much more common, for example, to use the concept of electric potential energy than to deal with the Coulomb force directly in real-world applications. In polar coordinates with q at the origin and Q located at r, the displacement element vector is and thus the work becomes Notice that this result only depends on the endpoints and is otherwise independent of the path taken. To explore this further, compare path to with path in Figure 7.5. FIGURE 7.5 Two paths for displacement to The work on segments and are zero due to the electrical force being perpendicular to the displacement along these paths. Therefore, work on paths and are equal. The segments and are arcs of circles centered at q. Since the force on Q points either toward or away from q, no work is done by a force balancing the electric force, because it is perpendicular to the displacement along these arcs. Therefore, the only work done is along segment which is identical to One implication of this work calculation is that if we were to go around the path the net work would be zero (Figure 7.6). Recall that this is how we determine whether a force is conservative or not. Hence, because the electric force is related to the electric field by , the electric field is itself conservative. That is, Note that Q is a constant. FIGURE 7.6 A closed path in an electric field. The net work around this path is zero. Another implication is that we may define an electric potential energy. Recall that the work don e by a conservative force is also expressed as the difference in the potential energy corresponding to that force. Therefore, the work to bring a charge from a reference point to a point of interest may be written as Mathematically, 7.1 270 7 • Electric Potential and, by Equation 7.1, the difference in potential energy of the test charge Q between the two points is Therefore, we can write a general expression for the potential energy of two point charges (in spherical coordinates): We may take the second term to be an arbitrary constant reference level, which serves as the zero reference: A convenient choice of reference that relies on our common sense is that when the two charges are infinitely far apart, there is no interaction between them. (Recall the discussion of reference potential energy in Potential Energy and Conservation of Energy (http://openstax.org/books/university-physics-volume-1/pages/8-introduction).) Taking the potential energy of this state to be zero removes the term from the equation (just like when we say the ground is zero potential energy in a gravitational potential energy problem), and the potential energy of Q when it is separated from q by a distance r assumes the form This formula is symmetrical with respect to q and Q, so it is best described as the potential energy of the two-charge system. EXAMPLE 7.2 Potential Energy of a Charged Particle A charge Q is initially at rest a distance of 10 cm ( ) from a charge q fixed at the origin (Figure 7.7). Naturally, the Coulomb force accelerates Q away from q, eventually reaching 15 cm ( ). FIGURE 7.7 The charge Q is repelled by q, thus having work done on it and losing potential energy. What is the change in the potential energy of the two-charge system from to Strategy Calculate the potential energy with the definition given above: Since Q started from rest, this is the same as the kinetic energy. Solution We have ∞ 7.2 7.1 • Electric Potential Energy 271 Significance The change in the potential energy is negative, as expected, and equal in magnitude to the change in kinetic energy in this system. Recall from Example 7.1 that the change in kinetic energy was positive. CHECK YOUR UNDER STANDING 7.2 What is the potential energy of Q relative to the zero reference at infinity at in the above example? Due to Coulomb’s law, the forces due to multiple charges on a test charge Q superimpose; they may be calculated individually and then added. This implies that the work integrals and hence the resulting potential energies exhibit the same behavior. To demonstrate this, we consider an example of assembling a system of four charges. EXAMPLE 7.3 Assembling Four Positive Charges Find the amount of work an external agent must do in assembling four charges and at the vertices of a square of side 1.0 cm, starting each charge from infinity (Figure 7.8). FIGURE 7.8 How much work is needed to assemble this charge configuration? Strategy We bring in the charges one at a time, giving them starting locations at infinity and calculating the work to bring them in from infinity to their final location. We do this in order of increasing charge. Solution Step 1. First bring the charge to the origin. Since there are no other charges at a finite distance from this charge yet, no work is done in bringing it from infinity, Step 2. While keeping the charge fixed at the origin, bring the charge to (Figure 7.9). Now, the applied force must do work against the force exerted by the charge fixed at the origin. The work done equals the change in the potential energy of the charge: 272 7 • Electric Potential FIGURE 7.9 Step 2. Work to bring the charge from infinity. Step 3. While keeping the charges of and fixed in their places, bring in the charge to (Figure 7.10). The work done in this step is FIGURE 7.10 Step 3. The work to bring the charge from infinity. Step 4. Finally, while keeping the first three charges in their places, bring the charge to (Figure 7.11). The work done here is FIGURE 7.11 Step 4. The work to bring the charge from infinity. Hence, the total work done by the applied force in assembling the four charges is equal to the sum of the work in bringing each charge from infinity to its final position: 7.1 • Electric Potential Energy 273 Significance The work on each charge depends only on its pairwise interactions with the other charges. No more complicated interactions need to be considered; the work on the third charge only depends on its interaction with the first and second charges, the interaction between the first and second charge does not affect the third. CHECK YOUR UNDER STANDING 7.3 Is the electrical potential energy of two point charges positive or negative if the charges are of the same sign? Opposite signs? How does this relate to the work necessary to bring the charges into proximity from infinity? Note that the electrical potential energy is positive if the two charges are of the same type, either positive or negative, and negative if the two charges are of opposite types. This makes sense if you think of the change in the potential energy as you bring the two charges closer or move them farther apart. Depending on the relative types of charges, you may have to work on the system or the system would do work on you, that is, your work is either positive or negative. If you have to do positive work on the system (actually push the charges closer), then the energy of the system should increase. If you bring two positive charges or two negative charges closer, you have to do positive work on the system, which raises their potential energy. Since potential energy is proportional to 1/r, the potential energy goes up when r goes down between two positive or two negative charges. On the other hand, if you bring a positive and a negative charge nearer, you have to do negative work on the system (the charges are pulling you), which means that you take energy away from the system. This reduces the potential energy. Since potential energy is negative in the case of a po sitive and a negative charge pair, the increase in 1/r makes the potential energy more negative, which is the same as a reduction in potential energy. The result from Example 7.3 may be extended to systems with any arbitrary number of charges. In this case, it is most convenient to write the formula as The factor of 1/2 accounts for adding each pair of charges twice. 7.2 Electric Potential and Potential Difference LEARNING OBJECTIVES By the end of this section, you will be able to: • Define electric potential, voltage, and potential difference • Define the electron-volt • Calculate electric potential and potential difference from potential energy and electric field • Describe systems in which the electron-volt is a useful unit • Apply conservation of energy to electric systems Recall that earlier we defined electric field to be a quantity independent of the test charge in a given system, which would nonetheless allow us to calculate the force that would result on an arbitrary test charge. (The default assumption in the absence of other information is that the test charge is positive.) We briefly defined a field for gravity, but gravity is always attractive, whereas the electric force can be either attractive or repulsive. Therefore, although potential energy is perfectly adequate in a gravitational system, it is convenient to define a quantity that allows us to calculate the work on a charge independent of the magnitude of the charge. Calculating the work directly may be difficult, since and the direction and magnitude of can be complex for multiple charges, for odd-shaped objects, and along arbitrary paths. But we do know that because , the work, and hence is proportional to the test charge q. To have a physical quantity that is independent of t est charge, we define electric potential V (or simply potential, since electric is understood) to be the potential energy per unit charge: 7.3 274 7 • Electric Potential Since U is proportional to q, the dependence on q cancels. Thus, V does not depend on q. The change in potential energy is crucial, so we are concerned with the difference in potential or potential difference between two points, where The familiar term voltage is the common name for electric potential difference. Keep in mind that whenever a voltage is quoted, it is understood to be the potential difference between two points. For example, every battery has two terminals, and its voltage is the potential difference between them. More fundamentally, the point you choose to be zero volts is arbitrary. This is analogous to the fact that gravitational potential energy has an arbitrary zero, such as sea level or perhaps a lecture hall floor. It is worthwhile to emphasize the distinction between potential difference and electrical potential energy. Voltage is not the same as energy. Voltage is the energy per unit charge. Thus, a motorcycle battery and a car battery can both have the same voltage (more precisely, the same potential difference between battery terminals), yet one stores much more energy than the other because The car battery can move more charge than the motorcycle battery, although both are 12-V batteries. EXAMPLE 7.4 Calculating Energy You have a 12.0-V motorcycle battery that can move 5000 C of charge, and a 12.0-V car battery that can move 60,000 C of charge. How much energy does each deliver? (Assume that the numerical value of each charge is accurate to three significant figures.) Strategy To say we have a 12.0-V battery means that its terminals have a 12.0-V potential difference. When such a battery moves charge, it puts the charge through a potential difference of 12.0 V, and the charge is given a change in potential en ergy equal to To find the energy output, we multiply the charge moved by the potential difference. ELECTRIC POTENTIAL The electric potential energy per unit charge is 7.4 ELECTRIC POTENTIAL DIFFERENCE The electric potential difference between points A and B, is defined to be the change in potential energy of a charge q moved from A to B, divided by the charge. Units of potential difference are joules per coulomb, given the name volt (V) after Alessandro Volta. POTENTIAL DIFFERENCE AND ELECTRICAL POTENTIAL ENERGY The relationship between potential difference (or voltage) and electrical potential energy is given by 7.5 7.2 • Electric Potential and Potential Difference 275 Solution For the motorcycle battery, and . The total energy delivered by the motorcycle battery is Similarly, for the car battery, and Significance Voltage and energy are related, but they are not the same thing. The voltages of the batteries are identical, but the energy supplied by each is quite different. A car battery has a much larger engine to start than a motorcycle. Note also that as a battery is discharged, some of its energy is used internally and its terminal voltage drops, such as when headlights dim because of a depleted car battery. The energy supplied by the battery is still calculated as in this example, but not all of the energy is available for external use. CHECK YOUR UNDER STANDING 7.4 How much energy does a 1.5-V AAA battery have that can move 100 C? Note that the energies calculated in the previous example are absolute values. The change in potential energy for the battery is negative, since it loses energy. These batteries, like many electrical systems, actually move negative charge—electrons in particular. The batteries repel electrons from their negative terminals (A) through whatever circuitry is involved and attract them to their positive terminals (B), as shown in Figure 7.12. The change in potential is and the charge q is negative, so that is negative, meaning the potential energy of the battery has decreased when q has moved from A to B. FIGURE 7.12 A battery moves negative charge from its negative terminal through a headlight to its positive terminal. Appropriate combinations of chemicals in the battery separate charges so that the negative terminal has an excess of negative charge, which is repelled by it and attracted to the excess positive charge on the other terminal. In terms of potential, the positiv e terminal is at a higher voltage than the negative terminal. Inside the battery, both positive and negative charges move. EXAMPLE 7.5 How Many Electrons Move through a Headlight Each Second? When a 12.0-V car battery powers a single 30.0-W headlight, how many electrons pass through it each second? Strategy To find the number of electrons, we must first find the charge that moves in 1.00 s. The charge moved is related to voltage and energy through the equations A 30.0-W lamp uses 30.0 joules per second. Since the battery loses energy, we have and, since the electrons are going from the negative terminal to the positive, we see that 276 7 • Electric Potential Solution To find the charge q moved, we solve the equation Entering the values for and , we get The number of electrons is the total charge divided by the charge per electron. That is, Significance This is a very large number. It is no wonder that we do not ordinarily observe individual electrons with so many being present in ordinary systems. In fact, electricity had been in use for many decades before it was determined that the moving charges in many circumstances were negative. Positive charge moving in the opposite direction of negative charge often produces identical effects; this makes it difficult to determine which is moving or whether both are moving. CHECK YOUR UNDER STANDING 7.5 How many electrons would go through a 24.0-W lamp each second from a 12-volt car battery? The Electron-Volt The energy per electron is very small in macroscopic situations like that in the previous example—a tiny fraction of a joule. But on a submicroscopic scale, such energy per particle (electron, proton, or ion) can be of great importance. For example, even a tiny fraction of a joule can be great enough for these particles to destroy organic molecules and harm living tissue. The particle may do its damage by direct collision, or it may create harmful X-rays, which can also inflict damage. It is useful to have an energy unit related to submicroscopic effects. Figure 7.13 shows a situation related to the definition of such an energy unit. An electron is accelerated between two charged metal plates, as it might be in an old-model television tube or oscilloscope. The electron gains kinetic energy that is later converted into another form—light in the television tube, for example. (Note that in terms of energy, “downhill” for the electron is “uphill” fo r a positive charge.) Since energy is related to voltage by , we can think of the joule as a coulomb-volt. 7.2 • Electric Potential and Potential Difference 277 FIGURE 7.13 A typical electron gun accelerates electrons using a potential difference between two separated metal plates. By conservation of energy, the kinetic energy has to equal the change in potential energy, so . The energy of the electron in electron- volts is numerically the same as the voltage between the plates. For example, a 5000-V potential difference produces 5000-eV electrons. The conceptual construct, namely two parallel plates with a hole in one, is shown in (a), while a real electron gun is shown in (b). An electron accelerated through a potential difference of 1 V is given an energy of 1 eV. It follows that an electron accelerated through 50 V gains 50 eV. A potential difference of 100,000 V (100 kV) gives an electron an energy of 100,000 eV (100 keV), and so on. Similarly, an ion with a double positive charge accelerated through 100 V gains 200 eV of energy. These simple relationships between accelerating voltage and particle charges make the electron- volt a simple and convenient energy unit in such circumstances. The electron-volt is commonly employed in submicroscopic processes—chemical valence energies and molecular and nuclear binding energies are among the quantities often expressed in electron-volts. For example, about 5 eV of energy is required to break up certain organic molecules. If a proton is accelerated from rest through a potential difference of 30 kV, it acquires an energy of 30 keV (30,000 eV) and can break up as many as 6000 of these molecules Nuclear decay energies are on the order of 1 MeV (1,000,000 eV) per event and can thus produce significant biological damage. Conservation of Energy The total energy of a system is conserved if there is no net addition (or subtraction) due to work or heat transfer. For conservative forces, such as the electrostatic force, conservation of energy states that mechanical energy is a constant. ELECTRON-VOLT On the submicroscopic scale, it is more convenient to define an energy unit called the electron-volt (eV), which is the energy given to a fundamental charge accelerated through a potential difference of 1 V. In equation form, 278 7 • Electric Potential Mechanical energy is the sum of the kinetic energy and potential energy of a system; that is, A loss of U for a charged particle becomes an increase in its K. Conservation of energy is stated in equation form as or where i and f stand for initial and final conditions. As we have found many times before, considering energy can give us insights and facilitate problem solving. EXAMPLE 7.6 Electrical Potential Energy Converted into Kinetic Energy Calculate the final speed of a free electron accelerated from rest through a potential difference of 100 V. (Assume that this numerical value is accurate to three significant figures.) Strategy We have a system with only conservative forces. Assuming the electron is accelerated in a vacuum, and neglecting the gravitational force (we will check on this assumption later), all of the electrical potential energy is converted into kinetic energy. We can identify the initial and final forms of energy to be Solution Conservation of energy states that Entering the forms identified above, we obtain We solve this for v: Entering values for q, V, and m gives Significance Note that both the charge and the initial voltage are negative, as in Figure 7.13. From the discussion of electric charge and electric field, we know that electrostatic forces on small particles are generally very large compared with the gravitational force. The large final speed confirms that the gravitational force is indeed negligible here. The large speed also indicates how easy it is to accelerate electrons with small voltages because of their very small mass. Voltages much higher than the 100 V in this problem are typically used in electron guns. These higher voltages produce electron speeds so great that effects from special relativi ty must be taken into account and hence are reserved for a later chapter (Relativity (http://openstax.org/books/university-physics-volume-3/pages/ 5-introduction)). That is why we consider a low voltage (accurately) in this example. CHECK YOUR UNDER STANDING 7.6 How would this example change with a positron? A positron is identical to an electron except the charge is positive. 7.2 • Electric Potential and Potential Difference 279 Voltage and Electric Field So far, we have explored the relationship between voltage and energy. Now we want to explore the relationship between voltage and electric field. We will start with the general case for a non-uniform field. Recall that our general formula for the potential energy of a test charge q at point P relative to reference point R is When we substitute in the definition of electric field this becomes Applying our definition of potential to this potential energy, we find that, in general, From our previous discussion of the potential energy of a charge in an electric field, the result is independent of the path chosen, and hence we can pick the integral path that is most convenient. Consider the special case of a positive point charge q at the origin. To calculate the potential caused by q at a distance r from the origin relative to a reference of 0 at infinity (recall that we did the same for potential energy), let and ∞ with and use When we evaluate the integral for this system, we have ∞ which simplifies to ∞ ∞ This result, is the standard form of the potential of a point charge. This will be explored further in the next section. To examine another interesting special case, suppose a uniform electric field is produced by placing a potential difference (or voltage) across two parallel metal plates, labeled A and B (Figure 7.14). Examining this situation will tell us what voltage is needed to produce a certain electric field strength. It will also reveal a more fundamental relationship between electric potential and electric field. 7.6 280 7 • Electric Potential FIGURE 7.14 The relationship between V and E for parallel conducting plates is . The field points toward lower potential V. From a physicist’s point of view, either or can be used to describe any interaction between charges. However, is a scalar quantity and has no direction, whereas is a vector quantity, having both magnitude and direction. (Note that the magnitude of the electric field, a scalar quantity, is represented by E.) The relationship between and is revealed by calculating the work done by the electric force in moving a charge from point A to point B. But, as noted earlier, arbitrary charge distributions require calculus. We therefore look at a uniform electric field as an interesting special case. The work done by the electric field in Figure 7.14 to move a positive charge q from A, the positive plate, higher potential, to B, the negative plate, lower potential, is Work is ; here , since the path is parallel to the field. Thus, . Since , we see that . Substituting this expression for work into the previous equation gives The charge cancels, so we obtain for the voltage between points A and B where d is the distance from A to B, or the distance between the plates in Figure 7.14. Note that this equation implies that the units for electric field are volts per meter. We already know the units for electric field are newtons per coulomb; thus, the following relation among units is valid: Furthermore, we may extend this to the integral form. Substituting Equation 7.6 into our definition for the potential difference between points A and B, we obtain 7.2 • Electric Potential and Potential Difference 281 which simplifies to The potential difference is negative (V is lower at B than at A) when the displacement is in the same direction as the field. In other words, the electric field points toward lower electric potential. We are often only interested in the magnitude of the electric field, in which case you may see instead of and it is understood that all of the variables in the equation represent the magnitudes of the quantities. As a demonstration, from this we may calculate the potential difference between two points (A and B) equidistant from a point charge q at the origin, as shown in Figure 7.15. FIGURE 7.15 The arc for calculating the potential difference between two points that are equidistant from a point charge at the origin. To do this, we integrate around an arc of the circle of constant radius r between A and B, which means we let while using . Thus, for this system becomes However, and therefore This result, that there is no difference in potential along a constant radius from a point charge, will come in handy when we map potentials. EXAMPLE 7.7 What Is the Highest Voltage Possible between Two Plates? Dry air can support a maximum electric field strength of about Above that value, the field creates enough ionization in the air to make the air a conductor. This allows a discharge or spark that reduces the field. What, then, is the maximum voltage between two parallel conducting plates separated by 2.5 cm of dry air? Strategy We are given the maximum electric field E between the plates and the distance d between them. We can use the equation (recall that these represent absolute values) to calculate the maximum voltage. Solution The potential difference or voltage between the plates is 7.7 282 7 • Electric Potential Entering the given values for E and d gives or (The answer is quoted to only two digits, since the maximum field strength is approximate.) Significance One of the implications of this result is that it takes about 75 kV to make a spark jump across a 2.5-cm (1-in.) gap, or 150 kV for a 5-cm spark. This limits the voltages that can exist between conductors, perhaps on a power transmission line. A smaller voltage can cause a spark if there are spines on the surface, since sharp points have larger field strengths than smooth surfaces. Humid air breaks down at a lower field strength, meaning that a smaller voltage will make a spark jump through humid air. The largest voltages can be built up with static electricity on dry days (Figure 7.16). FIGURE 7.16 A spark chamber is used to trace the paths of high-energy particles. Ionization created by the particles as they pass through the gas between the plates allows a spark to jump. The sparks are perpendicular to the plates, following electric field lines between them. The potential difference between adjacent plates is not high enough to cause sparks without the ionization produced by particles from accelerator experiments (or cosmic rays). This form of detector is now archaic and no longer in use except for demonstration purposes. (credit b: modification of work by Jack Collins) EXAMPLE 7.8 Field and Force inside an Electron Gun An electron gun (Figure 7.13) has parallel plates separated by 4.00 cm and gives electrons 25.0 keV of energy. (a) What is the electric field strength between the plates? (b) What force would this field exert on a piece of plastic with a charge that gets between the plates? Strategy Since the voltage and plate separation are given, the electric field strength can be calc ulated directly from the expression . Once we know the electric field strength, we can find the force on a charge by using Since the electric field is in only one direction, we can write this equation in terms of the magnitudes, . Solution a. The expression for the magnitude of the electric field between two uniform metal plates is Since the electron is a single charge and is given 25.0 keV of energy, the potential difference must be 25.0 kV. Entering this value for and the plate separation of 0.0400 m, we obtain 7.2 • Electric Potential and Potential Difference 283 b. The magnitude of the force on a charge in an electric field is obtained from the equation Substituting known values gives Significance Note that the units are newtons, since . Because the electric field is uniform between the plates, the force on the charge is the same no matter where the charge is located between the plates. EXAMPLE 7.9 Calculating Potential of a Point Charge Given a point charge at the origin, calculate the potential difference between point a distance from q, and a distance from q, where the two points have an angle of between them (Figure 7.17). FIGURE 7.17 Find the difference in potential between and . Strategy Do this in two steps. The first step is to use and let and with and Then perform the integral. The second step is to integrate around an arc of constant radius r, which means we let with limits still using . Then add the two results together. Solution For the first part, for this system becomes which computes to For the second step, becomes , but and therefore Adding the two parts together, we get 300 V. Significance We have demonstrated the use of the integral form of the potential difference to obtain a numerical result. Notice 284 7 • Electric Potential that, in this particular system, we could have also used the formula for the potential due to a point charge at the two points and simply taken the difference. CHECK YOUR UNDER STANDING 7.7 From the examples, how does the energy of a lightning strike vary with the height of the clouds from the ground? Consider the cloud-ground system to be two parallel plates. Before presenting problems involving electrostatics, we suggest a problem-solving strategy to follow for this topic. PROBLEM-SOL VING S TRATEGY Electrostatics 1. Examine the situation to determine if static electricity is involved; this may concern separated stationary charges, the forces among them, and the electric fields they create. 2. Identify the system of interest. This includes noting the number, locations, and types of charges involved. 3. Identify exactly what needs to be determined in the problem (identify the unknowns). A written list is useful. Determine whether the Coulomb force is to be considered directly—if so, it may be useful to draw a free-body diagram, using electric field lines. 4. Make a list of what is given or can be inferred from the problem as stated (identify the knowns). It is important to distinguish the Coulomb force F from the electric field E, for example. 5. Solve the appropriate equation for the quantity to be determined (the unknown) or draw the field lines as requested. 6. Examine the answer to see if it is reasonable: Does it make sense? Are units correct and the numbers involved reasonable? 7.3 Calculations of Electric Potential LEARNING OBJECTIVES By the end of this section, you will be able to: • Calculate the potential due to a point charge • Calculate the potential of a system of multiple point charges • Describe an electric dipole • D efine dipole moment • Calculate the potential of a continuous charge distribution Point charges, such as electrons, are among the fundamental building blocks of matter. Furthermore, spherical charge distributions (such as charge on a metal sphere) create external electric fields exactly like a point charge. The electric potential due to a point charge is, thus, a case we need to consider. We can use calculus to find the work needed to move a test charge q from a large distance away to a distance of r from a point charge q. Noting the connection between work and potential as in the last section, we can obtain the following result. ELECTRIC POTENTIAL V OF A POINT CHARGE The electric potential V of a point charge is given by where k is a constant equal to 7.8 7.3 • Calculations of Electric Potential 285 The potential at infinity is chosen to be zero. Thus, V for a point charge decreases with distance, whereas for a point charge decreases with distance squared: Recall that the electric potential difference V is a scalar and has no direction, whereas the electric field is a vector. To find the voltage due to a combination of point charges, given zero voltage at infinitely far away, you add the individual voltages as numbers. We will assume for the rest of this chapter that there is zero voltage measured infinitely far away. To find the total electric field, you must add the individual fields as vectors, taking magnitude and direction into account. This is consistent with the fact that V is closely associated with energy, a scalar, whereas is closely associated with force, a vector. EXAMPLE 7.10 What Voltage Is Produced by a Small Charge on a Metal Sphere? Charges in static electricity are typically in the nanocoulomb (nC) to microcoulomb range. What is the voltage 5.00 cm away from the center of a 1-cm-diameter solid metal sphere that has a –3.00-nC static charge? Strategy As we discussed in Electric Charges and Fields, charge on a metal sphere spreads out uniformly and produces a field like that of a point charge located at its center. Thus, we can find the voltage using the equation Solution Entering known values into the expression for the potential of a point charge, we obtain Significance The negative value for voltage means a positive charge would be attracted from a larger distance, since the potential is lower (more negative) than at larger distances. Conversely, a negative charge would be repelled, as expected. EXAMPLE 7.11 What Is the Excess Charge on a Van de Graaff Generator? A demonstration Van de Graaff generator has a 25 .0-cm-diameter metal sphere that produces a voltage of 100 kV near its surface (Figure 7.18). What excess charge resides on the sphere? (Assume that each numerical value here is shown with three significant figures.) 286 7 • Electric Potential FIGURE 7.18 The voltage of this demonstration Van de Graaff generator is measured between the charged sphere and ground. Earth’s potential is taken to be zero as a reference. The potential of the charged conducting sphere is the same as that of an equal point charge at its center. Strategy The potential on the surface is the same as that of a point charge at the center of the sphere, 12.5 cm away. (The radius of the sphere is 12.5 cm.) We can thus determine the excess charge using the equation Solution Solving for q and entering known values gives Significance This is a relatively small charge, but it produces a rather large voltage. We have another indication here that it is difficult to store isolated charges. CHECK YOUR UNDER STANDING 7.8 What is the potential inside the metal sphere in Example 7.10? The voltages in both of these examples could be measured with a meter that compares the measured potential with ground potential. Ground potential is often taken to be zero (instead of taking the potential at infinity to be zero). It is the potential difference between two points that is of importance, and very often there is a tacit assumption that some reference point, such as Earth or a very distant point, is at zero potential. As noted earlier, this is analogous to taking sea level as when considering gravitational potential energy . Systems of Multiple Point Charges Just as the electric field obeys a superposition principle, so does the electric potential. Consider a system consisting 7.3 • Calculations of Electric Potential 287 of N charges What is the net electric potential V at a space point P from these charges? Each of these charges is a source charge that produces its own electric potential at point P, independent of whatever other changes may be doing. Let be the electric potentials at P produced by the charges respectively. Then, the net electric potential at that point is equal to the sum of these individual electric potentials. You can easily show this by calculating the potential energy of a test charge when you bring the test charge from the reference point at infinity to point P: Note that electric potential follows the same principle of superposition as electric field and electric potential energy. To show this more explicitly, note that a test charge at the point P in space has distances of from the N charges fixed in space above, as shown in Figure 7.19. Using our formula for the potential of a point charge for each of these (assumed to be point) charges, we find that Therefore, the electric potential energy of the test charge is which is the same as the work to bring the test charge into the system, as found in the first section of the chapter. FIGURE 7.19 Notation for direct distances from charges to a space point P. The Electric Dipole An electric dipole is a system of two equal but opposite charges a fixed distance apart. This system is used to model many real-world systems, including atomic and molecular interactions. One of these systems is the water molecule, under certain circumstances. These circumstances are met inside a microwave oven, where electric fields with alternating directions make the water molecules change orientation. This vibration is the same as heat at the molecular level. EXAMPLE 7.12 Electric Potential of a Dipole C onsider the dipole in Figure 7.20 with the charge magnitude of and separation distance What is the potential at the following locations in space? (a) (0, 0, 1.0 cm); (b) (0, 0, –5.0 cm); (c) (3.0 cm, 0, 2.0 cm). 7.9 288 7 • Electric Potential FIGURE 7.20 A general diagram of an electric dipole, and the notation for the distances from the individual charges to a point P in space. Strategy Apply to each of these three points. Solution a. b. c. Significance Note that evaluating potential is significantly simpler than electric field, due to potential being a scalar instead of a vector. CHECK YOUR UNDER STANDING 7.9 What is the potential on the x-axis? The z-axis? Now let us consider the special case when the distance of the point P from the dipole is much greater than the distance between the charges in the dipole, for example, when we are interested in the electric potential due to a polarized molecule such as a water molecule. This is not so far (infinity) that we can simply treat the potential as zero, but the distance is great enough that we can simplify our calculations relative to the previous example. We start by noting that in Figure 7.21 the potential is given by 7.3 • Calculations of Electric Potential 289 where FIGURE 7.21 A general diagram of an electric dipole, and the notation for the distances from the individual charges to a point P in space. This is still the exact formula. To take advantage of the fact that we rewrite the radii in terms of polar coordinates, with and . This gives us We can simplify this expression by pulling r out of the root, and then multiplying out the parentheses The last term in the root is small enough to be negligible (remember and hence is extremely small, effectively zero to the level we will probably be measuring), leaving us with Using the binomial approximation (a standard result from the mathematics of series, when is small) and substituting this into our formula for , we get This may be written more conveniently if we define a new quantity, the electric dipole moment, 290 7 • Electric Potential where these vectors point from the negative to the positive charge. Note that this has magnitude qd. This quantity allows us to write the potential at point P due to a dipole at the origin as A diagram of the application of this formula is shown in Figure 7.22. FIGURE 7.22 The geometry for the application of the potential of a dipole. There are also higher-order moments, for quadrupoles, octupoles, and so on. You will see these in future classes. Potential of Continuous Charge Distributions We have been working with point charges a great deal, but what about continuous charge distributions? Recall from Equation 7.9 that We may treat a continuous charge distribution as a collection of infinitesimally separated individual points. This yields the integral for the potential at a point P. Note that r is the distance from each individual point in the charge distribution to the point P. As we saw in Electric Charges and Fields, the infinitesimal charges are given by where is linear charge density, is the charge per unit area, and is the charge per unit volume. EXAMPLE 7.13 Potential of a Line of Charge Find the electric potential of a uniformly charged, nonconducting wire with linear density (coulomb/meter) and length L at a point that lies on a line that divides the wire into two equal parts. 7.10 7.11 7.12 7.3 • Calculations of Electric Potential 291 Strategy To set up the problem, we choose Cartesian coordinates in such a way as to exploit the symmetry in the problem as much as possible. We place the origin at the center of the wire and orient the y-axis along the wire so that the ends of the wire are at . The field point P is in the xy-plane and since the choice of axes is up to us, we choose the x-axis to pass through the field point P, as shown in Figure 7.23. FIGURE 7.23 We want to calculate the electric potential due to a line of charge. Solution Consider a small element of the charge distribution between y and . The charge in this cell is and the distance from the cell to the field point P is Therefore, the potential becomes Significance Note that this was simpler than the equivalent problem for electric field, due to the use of scalar quantities. Recall that we expect the zero level of the potential to be at infinity, when we have a finite charge. To examine this, we take the limit of the above potential as x approaches infinity; in this case, the terms inside the natural log approach one, and hence the potential approaches zero in this limit. Note that we could have done this problem equivalently in cylindrical coordinates; the only effect would be to substitute r for x and z for y. EXAMPLE 7.14 Potential Due to a Ring of Charge A ring has a uniform charge density , with units of coulomb per unit meter of arc. Find the electric potential at a point on the axis passing through the center of the ring. Strategy We use the same procedure as for the charged wire. The difference here is that the charge is distributed on a circle. We divide the circle into infinitesimal elements shaped as arcs on the circle and use cylindrical coordinates shown in Figure 7.24. 292 7 • Electric P otential FIGURE 7.24 We want to calculate the electric potential due to a ring of charge. Solution A general element of the arc between and is of length and therefore contains a charge equal to The element is at a distance of from P, and therefore the potential is Significance This result is expected because every element of the ring is at the same distance from point P. The net potential at P is that of the total charge placed at the common distance, . EXAMPLE 7.15 Potential Due to a Uniform Disk of Charge A disk of radius R has a uniform charge density , with units of coulomb meter squared. Find the electric potential at any point on the axis passing through the center of the disk. Strategy We divide the disk into ring-shaped cells, and make use of the result for a ring worked out in the previous example, then integrate over r in addition to . This is shown in Figure 7.25. 7.3 • Calculations of Electric Potential 293 FIGURE 7.25 We want to calculate the electric potential due to a disk of charge. Solution An infinitesimal width cell between cylindrical coordinates r and shown in Figure 7.25 will be a ring of charges whose electric potential at the field point has the following expression where The superposition of potential of all the infinitesimal rings that make up the disk gives the net potential at point P. This is accomplished by integrating from to : Significance The basic procedure for a disk is to first integrate around and then over r. This has been demonstrated for uniform (constant) charge density. Often, the charge density will vary with r, and then the last integral will give different results. EXAMPLE 7.16 Potential Due to an Infinite Charged Wire Find the electric potential due to an infinitely long uniformly charged wire. Strategy Since we have already worked out the potential of a finite wire of length L in Example 7.13, we might wonder if taking ∞ in our previous result will work: ∞ 294 7 • Electric Potential However, this limit does not exist because the argument of the logarithm becomes [2/0] as ∞ , so this way of finding V of an infinite wire does not work. The reason for this problem may be traced to the fact that the charges are not localized in some space but continue to infinity in the direction of the wire. Hence, our (unspoken) assumption that zero potential must be an infinite distance from the wire is no longer valid. To avoid this difficulty in calculating limits, let us use the definition of potential by integrating over the electric field from the previous section, and the value of the electric field from this charge configuration from the previous chapter. Solution We use the integral where R is a finite distance from the line of charge, as shown in Figure 7.26. FIGURE 7.26 Points of interest for calculating the potential of an infinite line of charge. With this setup, we use and to obtain Now, if we define the reference potential at this simplifies to Note that this form of the potential is quite usable; it is 0 at 1 m and is undefined at infinity, which is why we could not use the latter as a reference. Significance Although calculating potential directly can be quite convenient, we just found a system for which this strategy does not work well. In such cases, going back to the definition of potential in terms of the electric field may offer a way forward. CHECK YOUR UNDER STANDING 7.10 What is the potential on the axis of a nonuniform ring of charge, where the charge density is ? 7.3 • Calculations of Electric Potential 295 7.4 Determining Field from Potential LEARNING OBJECTIVES By the end of this section, you will be able to: • Explain how to calculate the electric field in a system from the given potential • Calculate the electric field in a given direction from a given potential • Calculate the electric field throughout space from a given potential Recall that we were able, in certain systems, to calculate the potential by integrating over the electric field. As you may already suspect, this means that we may calculate the electric field by taking derivatives of the potential, although going from a scalar to a vector quantity introduces some interesting wrinkles. We frequently need to calculate the force in a system; since it is often simpler to calculate the potential directly, there are systems in which it is useful to calculate V and then derive from it. In general, regardless of whether the electric field is uniform, it points in the direction of decreasing potential, because the force on a positive charge is in the direction of and also in the direction of lower potential V. Furthermore, the magnitude of equals the rate of decrease of V with distance. The faster V decreases over distance, the greater the electric field. This gives us the following result. For continually changing potentials, and become infinitesimals, and we need differential calculus to determine the electric field. As shown in Figure 7.27, if we treat the distance as very small so that the electric field is essentially constant over it, we find that FIGURE 7.27 The electric field component, , along the displacement is given by . Note that A and B are assumed to be so close together that the field is constant along . Therefore, the electric field components in the Cartesian directions are given by This allows us to define the “grad” or “del” vector operator, which allows us to compute the gradient in one step. In Cartesian coordinates, it takes the form RELATIONSHIP BETWEEN VOLTAGE AND UNIFORM ELECTRIC FIELD In equation form, the relationship between voltage and uniform electric field is where is the distance over which the change in potential takes place. The minus sign tells us that E points in the direction of decreasing potential. The electric field is said to be the gradient (as in grade or slope) of the electric potential. 7.13 296 7 • Electric Potential With this notation, we can calculate the electric field from the potential with a process we call calculating the gradient of the potential. If we have a system with either cylindrical or spherical symmetry, we only need to use the del operator in the appropriate coordinates: EXAMPLE 7.17 Electric Field of a Point Charge Calculate the electric field of a point charge from the potential. Strategy The potential is known to be , which has a spherical symmetry. Therefore, we use the spherical del operator in the formula . Solution Performing this calculation gives us This equation simplifies to as expected. Significance We not only obtained the equation for the electric field of a point particle that we’ve seen before, we also have a demonstration that points in the direction of decreasing potential, as shown in Figure 7.28. 7.14 7.15 7.16 7.17 7.4 • Determining Field from Potential 297 FIGURE 7.28 Electric field vectors inside and outside a uniformly charged sphere. EXAMPLE 7.18 Electric Field of a Ring of Charge Use the potential found in Example 7.14 to calculate the electric field along the axis of a ring of charge (Figure 7.29). FIGURE 7.29 We want to calculate the electric field from the electric potential due to a ring charge. Strategy In this case, we are only interested in one dimension, the z-axis. Therefore, we use with the potential found previously. 298 7 • Electric Potential Solution Taking the derivative of the potential yields Significance Again, this matches the equation for the electric field found previously. It also demonstrates a system in which using the full del operator is not necessary. CHECK YOUR UNDER STANDING 7.11 Which coordinate system would you use to calculate the electric field of a dipole? 7.5 Equipotential Surfaces and Conductors LEARNING OBJECTIVES By the end of this section, you will be able to: • Define equipotential surfaces and equipotential lines • Explain the relationship between equipotential lines and electric field lines • Map equipotential lines for one or two point charges • Describe the potential of a conductor • Compare and contrast equipotential lines and elevation lines on topographic maps We can represent electric potentials (voltages) pictorially, just as we drew pictures to illustrate electric fields. This is not surprising, since the two concepts are related. Consider Figure 7.30, which shows an isolated positive point charge and its electric field lines, which radiate out from a positive charge and terminate on negative charges. We use red arrows to represent the magnitude and direction of the electric field, and we use black lines to represent places where the electric potential is constant. These are called equipotential surfaces in three dimensions, or equipotential lines in two dimensions. The term equipotential is also used as a noun, referring to an equipotential line or surface. The potential for a point charge is the same anywhere on an imaginary sphere of radius r surrounding the charge. This is true because the potential for a point charge is given by and thus has the same value at any point that is a given distance r from the charge. An equipotential sph ere is a circle in the two-dimensional view of Figure 7.30. Because the electric field lines point radially away from the charge, they are perpendicular to the equipotential lines. FIGURE 7.30 An isolated point charge Q with its electric field lines in red and equipotential lines in black. The potential is the same along each equipotential line, meaning that no work is required to move a charge anywhere along one of those lines. Work is needed to move a charge from one equipotential line to another. Equipotential lines are perpendicular to electric field lines in every case. For a three- dimensional version, explore the first interactive link. 7.5 • Equipotential Surfaces and Conductors 299 It is important to note that equipotential lines are always perpendicular to electric field lines. No work is required to move a charge along an equipotential, since . Thus, the work is Work is zero if the direction of the force is perpendicular to the displacement. Force is in the same direction as E, so motion along an equipotential must be perpendicular to E. More precisely, work is related to the electric field by Note that in this equation, E and F symbolize the magnitudes of the electric field and force, respectively. Neither q nor E is zero; d is also not zero. So must be 0, meaning must be . In other words, motion along an equipotential is perpendicular to E. One of the rules for static electric fields and conductors is that the electric field must be perpendicular to the surface of any conductor. This implies that a conductor is an equipotential surface in static situations. There can be no voltage difference across the surface of a conductor, or charges will flow. One of the uses of this fact is that a conductor can be fixed at what we consider zero volts by connecting it to the earth with a good conductor—a process called grounding. Grounding can be a useful safety tool. For example, grounding the metal case of an electrical appliance ensures that it is at zero volts relative to Earth. Because a conductor is an equipotential, it can replace any equipotential surface. For example, in Figure 7.30, a charged spherical conductor can replace the point charge, and the electric field and potential surfaces outside of it will be unchanged, confirming the contention that a spherical charge distribution is equivalent to a point charge at its center. Figure 7.31 shows the electric field and equipotential lines for two equal and opposite cha rges. Given the electric field lines, the equipotential lines can be drawn simply by making them perpendicular to the electric field lines. Conversely, given the equipotential lines, as in Figure 7.32(a), the electric field lines can be drawn by making them perpendicular to the equipotentials, as in Figure 7.32(b). FIGURE 7.31 The electric field lines and equipotential lines for two equal but opposite charges. The equipotential lines can be drawn by making them perpendicular to the electric field lines, if those are known. Note that the potential is greatest (most positive) near the positive charge and least (most negative) near the negative charge. For a three-dimensional version, explore the first interactive link. 300 7 • Electric Potential FIGURE 7.32 (a) These equipotential lines might be measured with a voltmeter in a laboratory experiment. (b) The corresponding electric field lines are found by drawing them perpendicular to the equipotentials. Note that these fields are consistent with two equal negative charges. For a three-dimensional version, play with the first interactive link. To improve your intuition, we show a three-dimensional variant of the potential in a system with two opposing charges. Figure 7.33 displays a three-dimensional map of electric potential, where lines on the map are for equipotential surfaces. The hill is at the positive charge, and the trough is at the negative charge. The potential is zero far away from the charges. Note that the cut off at a particular potential implies that the charges are on conducting spheres with a finite radius. FIGURE 7.33 Electric potential map of two opposite charges of equal magnitude on conducting spheres. The potential is negative near the negative charge and positive near the positive charge. A two-dimensional map of the cross-sectional plane that contains both charges is shown in Figure 7.34. The line that is equidistant from the two opposite charges corresponds to zero potential, since at the points on the line, the positive potential from the positive charge cancels the negative potential from the negative charge. Equipotential lines in the cross-sectional plane are closed loops, which are not necessarily circles, since at each point, the net potential is the sum of the potentials from each charge. 7.5 • Equipotential Surfaces and Conductors 301 FIGURE 7.34 A cross-section of the electric potential map of two opposite charges of equal magnitude. The potential is negative near the negative charge and positive near the positive charge. INTER ACTIVE View this simulation (https://openstax.org/l/21equipsurelec) to observe and modify the equipotential surfaces and electric fields for many standard charge configurations. There’s a lot to explore. One of the most important cases is that of the familiar parallel conducting plates shown in Figure 7.35. Between the plates, the equipotentials are evenly spaced and parallel. The same field could be maintained by placing conducting plates at the equipotential lines at the potentials shown. FIGURE 7.35 The electric field and equipotential lines between two metal plates. Note that the electric field is perpendicular to the equipotentials and hence normal to the plates at their surface as well as in the center of the region between them. Consider the parallel plates in Figure 7.2. These have equipotential lines that are parallel to the plates in the space between and evenly spaced. An example of this (with sample values) is given in Figure 7.35. We could draw a similar set of equipotential isolines for gravity on the hill shown in Figure 7.2. If the hill has any extent at the same slope, the isolines along that extent would be parallel to each other. Furthermore, in regions of constant slope, the isolines would be evenly spaced. An example of real topographic lines is shown in Figure 7.36. 302 7 • Electric Potential FIGURE 7.36 A topographical map along a ridge has roughly parallel elevation lines, similar to the equipotential lines in Figure 7.35. (a) A topographical map of Devil’s Tower, Wyoming. Lines that are close together indicate very steep terrain. (b) A perspective photo of Devil’s Tower shows just how steep its sides are. Notice the top of the tower has the same shape as the center of the topographical map. EXAMPLE 7.19 Calculating Equipotential Lines You have seen the equipotential lines of a point charge in Figure 7.30. How do we calculate them? For example, if we have a charge at the origin, what are the equipotential surfaces at which the potential is (a) 100 V, (b) 50 V, (c) 20 V, and (d) 10 V? Strategy Set the equation for the potential of a point charge equal to a constant and solve for the remaining variable(s). Then calculate values as needed. Solution In , let V be a constant. The only remaining variable is r; hence, . Thus, the equipotential surfaces are spheres about the origin. Their locations are: a. ; b. ; c. ; d. . Significance This means that equipotential surfaces around a point charge are spheres of constant radius, as shown earlier, with well-defined locations. 7.5 • Equipotential Surfaces and Conductors 303 EXAMPLE 7.20 Potential Difference between Oppositely Charged Parallel Plates Two large conducting plates carry equal and opposite charges, with a surface charge density of magnitude as shown in Figure 7.37. The separation between the plates is . (a) What is the electric field between the plates? (b) What is the potential difference between the plates? (c) What is the distance between equipotential planes which differ by 100 V? FIGURE 7.37 The electric field between oppositely charged parallel plates. A portion is released at the positive plate. Strategy (a) Since the plates are described as “large” and the distance between them is not, we will approximate each of them as an infinite plane, and apply the result from Gauss’s law in the previous chapter. (b) Use . (c) Since the electric field is constant, find the ratio of 100 V to the total potential difference; then calculate this fraction of the distance. Solution a. The electric field is directed from the positive to the negative plate as shown in the figure, and its magnitude is given by b. To find the potential difference between the plates, we use a path from the negative to the positive plate that is directed against the field. The displacement vector and the electric field are antiparallel so The potential difference between the positive plate and the negative plate is then c. The total potential difference is 500 V, so 1/5 of the distance between the plates will be the distance between 100-V potential differences. The distance between the plates is 6.5 mm, so there will be 1.3 mm between 304 7 • Electric Potential 100-V potential differences. Significance You have now seen a numerical calculation of the locations of equipotentials between two charged parallel plates. CHECK YOUR UNDER STANDING 7.12 What are the equipotential surfaces for an infinite line charge? Distribution of Charges on Conductors In Example 7.19 with a point charge, we found that the equipotential surfaces were in the form of spheres, with the point charge at the center. Given that a conducting sphere in electrostatic equilibrium is a spherical equipotential surface, we should expect that we could replace one of the surfaces in Example 7.19 with a conducting sphere and have an identical solution outside the sphere. Inside will be rather different, however. FIGURE 7.38 An isolated conducting sphere. To investigate this, consider the isolated conducting sphere of Figure 7.38 that has a radius R and an excess charge q. To find the electric field both inside and outside the sphere, note that the sphere is isolated, so its surface change distribution and the electric field of that distribution are spherically symmetric. We can therefore represent the field as To calculate E(r), we apply Gauss’s law over a closed spherical surface S of radius r that is concentric with the conducting sphere. Since r is constant and on the sphere, For , S is within the conductor, so recall from our previous study of Gauss’s law that and Gauss’s law gives , as expected inside a conductor at equilibrium. If , S encloses the conductor so From Gauss’s law, The electric field of the sphere may therefore be written as As expected, in the region the electric field due to a charge q placed on an isolated conducting sphere of radius R is identical to the electric field of a point charge q located at the cente r of the sphere. 7.5 • Equipotential Surfaces and Conductors 305 To find the electric potential inside and outside the sphere, note that for the potential must be the same as that of an isolated point charge q located at , simply due to the similarity of the electric field. For so V(r) is constant in this region. Since We will use this result to show that for two conducting spheres of radii , with surface charge densities respectively, that are connected by a thin wire, as shown in Figure 7.39. The spheres are sufficiently separated so that each can be treated as if it were isolated (aside from the wire). Note that the connection by the wire means that this entire system must be an equipotential. FIGURE 7.39 Two conducting spheres are connected by a thin conducting wire. We have just seen that the electrical potential at the surface of an isolated, charged conducting sphere of radius R is Now, the spheres are connected by a conductor and are therefore at the same potential; hence and The net charge on a conducting sphere and its surface charge density are related by Substituting this equation into the previous one, we find Obviously, two spheres connected by a thin wire do not constitute a typical conductor with a variable radius of curvature. Nevertheless, this result does at least provide a qualitative idea of how charge density varies over the surface of a conductor. The equation indicates that where the radius of curvature is large (points B and D in Figure 7.40), and E are small. Similarly, the charges tend to be denser where the curvature of the surface is greater, as demonstrated by the charge distribution on oddly shaped metal (Figure 7.40). The surface charge density is higher at locations with a 306 7 • Electric Potential small radius of curvature than at locations with a large radius of curvature. FIGURE 7.40 The surface charge density and the electric field of a conductor are greater at regions with smaller radii of curvature. A practical application of this phenomenon is the lightning rod, which is simply a grounded metal rod with a sharp end pointing upward. As positive charge accumulates in the ground due to a negatively charged cloud overhead, the electric field around the sharp point gets very large. When the field reaches a value of approximately (the dielectric strength of the air), the free ions in the air are accelerated to such high energies that their collisions with air molecules actually ionize the molecules. The resulting free electrons in the air then flow through the rod to Earth, thereby neutralizing some of the positive charge. This keeps the electric field between the cloud and the ground from getting large enough to produce a lightning bolt in the region around the rod. An important application of electric fields and equipotential lines involves the heart. The heart relies on electrical signals to maintain its rhythm. The movement of electrical signals causes the chambers of the heart to contract and relax. When a person has a heart attack, the movement of these electrical signals may be disturbed. An artificial pacemaker and a defibrillator can be used to initiate the rhythm of electrical signals. The equipotential lines around the heart, the thoracic region, and the axis of the heart are useful ways of monitoring the structure and functions of the heart. An electrocardiogram (ECG) measures the small electric signals being generated during the activity of the heart. INTER ACTIVE Play with the simulation (https://openstax.org/l/21fieldlin drapr) to move point charges around on the playing field and then view the electric field, voltages, equipotential lines, and more. 7.6 Applications of Electrostatics LEARNING OBJECTIVES By the end of this section, you will be able to: • Describe some of the many practical applications of electrostatics, including several printing technologies • Relate these applications to Newton’s second law and the electric force The study of electrostatics has proven useful in many areas. This module covers just a few of the many applications of electrostatics. The Van de Graaff Generator Van de Graaff generators (or Van de Graaffs) are not only spectacular devices used to demonstrate high voltage 7.6 • Applications of Electrostatics 307 due to static electricity—they are also used for serious research. The first was built by Robert Van de Graaff in 1931 (based on original suggestions by Lord Kelvin) for use in nuclear physics research. Figure 7.41 shows a schematic of a large research version. Van de Graaffs use both smooth and pointed surfaces, and conductors and insulators to generate large static charges and, hence, large voltages. A very large excess charge can be deposited on the sphere because it moves quickly to the outer surface. Practical limits arise because the large electric fields polarize and eventually ionize surrounding materials, creating free charges that neutralize excess charge or allow it to escape. Nevertheless, voltages of 15 million volts are well within practical limits. FIGURE 7.41 Schematic of Van de Graaff generator. A battery (A) supplies excess positive charge to a pointed conductor, the points of which spray the charge onto a moving insulating belt near the bottom. The pointed conductor (B) on top in the large sphere picks up the charge. (The induced electric field at the points is so large that it removes the charge from the belt.) This can be done because the charge does not remain inside the conducting sphere but moves to its outside surface. An ion source inside the sphere produces positive ions, which are accelerated away from the positive sphere to high velocities. Xerography Most copy machines use an electrostatic process called xerography—a word coined from the Greek words xeros for dry and graphos for writing. The heart of the process is shown in simplified form in Figure 7.42. 308 7 • Electric Potential FIGURE 7.42 Xerography is a dry copying process based on electrostatics. The major steps in the process are the charging of the photoconducting drum, transfer of an image, creating a positive charge duplicate, attraction of toner to the charged parts of the drum, and transfer of toner to the paper. Not shown are heat treatment of the paper and cleansing of the drum for the next copy. A selenium-coated aluminum drum is sprayed with positive charge from points on a device called a corotron. Selenium is a substance with an interesting property—it is a photoconductor. That is, selenium is an insulator when in the dark and a conductor when exposed to light. In the first stage of the xerography process, the conducting aluminum drum is grounded so that a negative charge is induced under the thin layer of uniformly positively charged selenium. In the second stage, the surface of the drum is exposed to the image of whatever is to be copied. In locations where the image is light, the selenium becomes conducting, and the positive charge is neutralized. In dark areas, the positive charge remains, so the image has been transferred to the drum. The third stage takes a dry black powder, called toner, and sprays it with a negative charge so that it is attracted to the positive regions of the drum. Next, a blank piece of paper is given a greater positive charge than on the drum so that it will pull the toner from the drum. Finally, the paper and electrostatically held toner are passed through heated pressure rollers, which melt and permanently adhere the toner to the fibers of the paper. Laser Printers Laser printers use the xerographic process to make high-quality images on paper, employing a laser to produce an image on the photoconducting drum as shown in Figure 7.43. In its most common application, the laser printer receives output from a computer, and it can achieve high-quality output because of the precision with which laser light can be controlled. Many laser printers do significant information processing, such as making sophisticated letters or fonts, and in the past may have contained a computer more powerful than the one giving them the raw data to be printed. 7.6 • Applications of Electrostatics 309 FIGURE 7.43 In a laser printer, a laser beam is scanned across a photoconducting drum, leaving a positively charged image. The other steps for charging the drum and transferring the image to paper are the same as in xerography. Laser light can be very precisely controlled, enabling laser printers to produce high-quality images. Ink Jet Printers and Electrostatic Painting The ink jet printer, commonly used to print computer-generated text and graphics, also employs electrostatics. A nozzle makes a fine spray of tiny ink droplets, which are then given an electrostatic charge (Figure 7.44). Once charged, the droplets can be directed, using pairs of charged plates, with great precision to form letters and images on paper. Ink jet printers can produce color images by using a black jet and three other jets with primary colors, usually cyan, magenta, and yellow, much as a color television produces color. (This is more difficult with xerography, requiring multiple drums and toners.) FIGURE 7.44 The nozzle of an ink-jet printer produces small ink droplets, which are sprayed with electrostatic charge. Various computer- driven devices are then used to direct the droplets to the correct positions on a page. Electrostatic painting employs electrostatic charge to spray paint onto oddly shaped surfaces. Mutual repulsion of like charges causes the paint to fly away from its source. Surface tension forms drops, which are then attracted by unlike charges to the surface to be painted. Electrostatic painting can reach hard-to-get-to places, applying an even coat in a controlled manner. If the object is a conductor, the electric field is perpendicular to the surface, tending to bring the drops in perpendicularly. Corners and points on conductors will receive extra paint. Felt can similarly be applied. Smoke Precipitators and Electrostatic Air Cleaning Another important application of electrostatics is found in air cleaners, both large and small. The electrostatic part of the process places excess (usually positive) charge on smoke, dust, pollen, and other particles in the air and then passes the air through an oppositely charged grid that attracts and retains the charged particles (Figure 7.45) Large electrostatic precipitators are used industrially to remove over of the particles from stack gas emissions associated with the burning of coal and oil. Home precipitators, often in conjunction with the home heating and air conditioning system, are very effective in removing polluting particles, irritants, and allergens. 310 7 • Electric Potential FIGURE 7.45 (a) Schematic of an electrostatic precipitator. Air is passed through grids of opposite charge. The first grid charges airborne particles, while the second attracts and collects them. (b) The dramatic effect of electrostatic precipitators is seen by the absence of smoke from this power plant. (credit b: modification of work by “Cmdalgleish”/Wikimedia Commons) 7.6 • Applications of Electrostatics 311 Chapter Review Key Terms electric dipole system of two equal but opposite charges a fixed distance apart electric dipole moment quantity defined as for all dipoles, where the vector points from the negative to positive charge electric potential potential energy per unit charge electric potential difference the change in potential energy of a charge q moved between two points, divided by the charge. electric potential energy potential energy stored in a system of charged objects due to the charges electron-volt energy given to a fundamental charge accelerated through a potential difference of one volt electrostatic precipitators filters that apply charges to particles in the air, then attract those charges to a filter, removing them from the airstream equipotential line two-dimensional representation of an equipotential surface equipotential surface surface (usually in three dimensions) on which all points are at the same potential grounding process of attaching a conductor to the earth to ensure that there is no potential difference between it and Earth ink jet printer small ink droplets sprayed with an electric charge are controlled by electrostatic plates to create images on paper photoconductor substance that is an insulator until it is exposed to light, when it becomes a conductor Van de Graaff generator machine that produces a large amount of excess charge, used for experiments with high voltage voltage change in potential energy of a charge moved from one point to another, divided by the charge; units of potential difference are joules per coulomb, known as volt xerography dry copying process based on electrostatics Key Equations Potential energy of a two-charge system Work done to assemble a sys tem of charges Potential difference Electric potential Potential difference between two points Electric potential of a point charge Electric potential of a system of point charges Electric dipole moment Electric potential due to a dipole Electric potential of a continuous charge distribution Electric field components Del operator in Cartesian coordinates Electric field as gradient of potential Del operator in cylindrical coordinates Del operator in spherical coordinates Summary 7.1 Electric Potential Energy • The work done to move a charge from point A to B in an electric field is path independent, and the work around a closed path is zero. Therefore, the electric field and electric force are conservative. • We can define an electric potential energy, which between point charges is , with the zero reference taken to be at infinity. • The superposition principle holds for electric potential energy; the potential energy of a system of multiple charges is the sum of the potential energies of the individual pairs. 7.2 Electric Potential and Potential Difference • Electric potential is potential energy per unit charge. • The potential difference between points A and B, that is, the change in potential of a charge q moved from A to B, is equal to the change in potential energy divided by the charge. • Potential difference is commonly called voltage, represented by the symbol : • An electron-volt is the energy given to a fundamental charge accelerated through a potential difference of 1 V. In equation form, 7.3 Calculations of Electric Potential • Electric potential is a scalar whereas electric field is a vector. • Addition of voltages as numbers gives the voltage due to a combination of point charges, allowing us to use the principle of superposition: . • An electric dipole consists of two equal and opposite charges a fixed distance apart, with a dipole moment . • Continuous charge distributions may be calculated with . 7.4 Determining Field from Potential • Just as we may integrate over the electric field to calculate the potential, we may take the derivative of the potential to calculate the electric field. • This may be done for individual components of the electric field, or we may c alculate the entire electric field vector with the gradient operator. 7.5 Equipotential Surfaces and Conductors • An equipotential surface is the collection of points in space that are all at the same potential. Equipotential lines are the two-dimensional representation of equipotential surfaces. • Equipotential surfaces are always perpendicular to electric field lines. • Conductors in static equilibrium are equipotential surfaces. • Topographic maps may be thought of as showing gravitational equipotential lines. 7.6 Applications of Electrostatics • Electrostatics is the study of electric fields in static equilibrium. • In addition to research using equipment such as a Van de Graaff generator, many practical applications of electrostatics exist, including photocopiers, laser printers, ink jet printers, and electrostatic air filters. Conceptual Questions 7.1 Electric Potential Energy

@@ -11,10 +11,14 @@ $$4\le r\le5,\qquad\frac\pi2\le\theta\le\pi.$$
 # Problem 124
 
 $$0\le r\le1,\qquad-\frac\pi2\le\theta\le\frac\pi2.$$
+> [!answer]- Answer
+> ![[Pasted image 20261019223140.png]]
 
 # Problem 125
 
 $$0\le r\le\sqrt2,\qquad0\le\theta\le\pi.$$
+> [!answer]- Answer
+> ![[Pasted image 20261019224537.png]]
 
 # Problem 126
 
@@ -45,6 +49,8 @@ $$3\le r\le5,\qquad\frac{3\pi}{4}\le\theta\le\frac{5\pi}{4}.$$
 # Problem 134
 
 $$\int_0^{2\pi}\int_3^5r^3\,dr\,d\theta=272\pi.$$
+> [!answer]- Answer
+> ![[Pasted image 20261019225547.png]]
 
 # Problem 135
 

@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="file:///C:/Users/SeanS/Downloads/cir_app/frontend/node_modules/katex/dist/katex.min.css">
+<script src="file:///C:/Users/SeanS/Downloads/cir_app/frontend/node_modules/katex/dist/katex.min.js"></script>
+<script src="file:///C:/Users/SeanS/Downloads/cir_app/frontend/node_modules/katex/dist/contrib/auto-render.min.js"></script>
+<style>
+  @page { size: Letter; margin: 0.44in 0.52in 0.44in 0.52in; }
+  * { box-sizing: border-box; }
+  body { font-family: "Computer Modern Serif", "Latin Modern Roman", Georgia, "Times New Roman", serif; font-size: 9.7pt; color: #161b22; line-height: 1.35; margin: 0; }
+  .hdr { display: flex; justify-content: space-between; border-bottom: 1.8px solid #0b3a6b; padding-bottom: 3px; margin-bottom: 6px; font-family: "Segoe UI", Arial, sans-serif; font-size: 8.3pt; color: #0b3a6b; font-weight: 600; letter-spacing: 0.25px; }
+  h1 { font-family: "Segoe UI", Arial, sans-serif; font-size: 15.5pt; color: #0b3a6b; margin: 2px 0 2px 0; }
+  h2 { font-family: "Segoe UI", Arial, sans-serif; font-size: 11.2pt; color: #0b3a6b; background: #eaf1f8; border-left: 4px solid #0b3a6b; padding: 3.5px 9px; margin: 6px 0 5px 0; display: flex; justify-content: space-between; align-items: center; }
+  h3 { font-family: "Segoe UI", Arial, sans-serif; font-size: 9.8pt; color: #12467f; margin: 5px 0 2px 0; }
+  p { margin: 3.5px 0; }
+  .meta { font-family: "Segoe UI", Arial, sans-serif; font-size: 8.5pt; color: #475569; margin-bottom: 5px; }
+  .badge { font-size: 8pt; background: #0b3a6b; color: white; padding: 1px 7px; border-radius: 10px; font-weight: 600; white-space: nowrap; }
+  .box { border: 1px solid #cbd5e1; background: #f8fafc; padding: 5px 9px; border-radius: 4px; margin: 4px 0; font-size: 9.2pt; }
+  .solbox { border: 1px solid #93c5fd; border-left: 4px solid #1d4ed8; background: #f0f7ff; padding: 6px 10px; border-radius: 4px; margin: 5px 0; }
+  .ansbox { border: 1.5px solid #15803d; background: #f0fdf4; padding: 4.5px 9px; border-radius: 4px; margin: 5px 0; font-weight: 600; color: #14532d; font-size: 9.1pt; }
+  .fig-cone { text-align: center; margin: 3px 0; }
+  .fig-cone img { max-height: 155px; width: auto; max-width: 78%; }
+  .fig-ckt { text-align: center; margin: 4px 0; }
+  .fig-ckt img { max-height: 255px; width: auto; max-width: 92%; }
+  .fig-wide { text-align: center; margin: 4px 0; }
+  .fig-wide img { max-width: 95%; height: auto; max-height: 215px; }
+  .work-sm { border: 1px dashed #cbd5e1; border-radius: 4px; height: 145px; margin-top: 6px; padding: 4px 8px; font-family: "Segoe UI", sans-serif; font-size: 8.2pt; color: #94a3b8; background: repeating-linear-gradient(to bottom, transparent, transparent 19px, #f1f5f9 20px); }
+  .work-lg { border: 1px dashed #cbd5e1; border-radius: 4px; height: 220px; margin-top: 7px; padding: 4px 8px; font-family: "Segoe UI", sans-serif; font-size: 8.2pt; color: #94a3b8; background: repeating-linear-gradient(to bottom, transparent, transparent 21px, #f1f5f9 22px); }
+  ol, ul { margin: 2.5px 0 4px 0; padding-left: 20px; }
+  li { margin: 2.5px 0; }
+  .blank { display: inline-block; min-width: 140px; border-bottom: 1.2px solid #1e293b; text-align: center; font-weight: 600; color: #0b3a6b; }
+  .wb-pill { display: inline-block; background: #e2e8f0; border: 1px solid #cbd5e1; border-radius: 3px; padding: 0.5px 5px; margin: 1px 2px; font-family: "Consolas", "Courier New", monospace; font-size: 8.8pt; color: #0f172a; }
+  .pb { page-break-before: always; }
+  table { width: 100%; border-collapse: collapse; margin: 4px 0; font-size: 8.9pt; }
+  th, td { border: 1px solid #cbd5e1; padding: 3px 6px; text-align: left; }
+  th { background: #e2e8f0; font-family: "Segoe UI", sans-serif; }
+  .katex { font-size: 1.0em; }
+  .katex-display { margin: 0.32em 0; }
+</style>
+</head>
+
+<body>
+<div class="hdr">
+  <span>PHYSICS II (YOUNG &amp; FREEDMAN CH. 25–26) &bull; INTENSIVE REVIEW SCHEDULE: BLOCK S1</span>
+  <span>PAGE 1 &bull; S2C + SPEC V2 VERIFIED WORKSHEET</span>
+</div>
+
+<h1>Block S1 Exercises: Equivalent Resistance &amp; Multi-Source KVL/KCL</h1>
+<div class="meta">
+  <b>Schedule Window:</b> Sunday, Oct 18, 2:45–3:50 PM (65 min) &nbsp;|&nbsp;
+  <b>Total Points:</b> 42 pts &nbsp;|&nbsp;
+  <b>Mix:</b> 1 Calculus Derivation, 2 Spec v2 Circuit FRs, 1 Cloze + Graphing Problem
+</div>
+
+<div class="box">
+  <b>Instructions &amp; Conventions:</b> Show complete algebraic and calculus steps for full credit. Under the passive sign convention, traversing a resistor in the direction of its reference current arrow gives a potential change $\Delta V = -IR$; traversing an ideal EMF source from $-$ to $+$ gives $\Delta V = +\mathcal{E}$. Express final numerical answers to three significant figures with SI units.
+</div>
+
+<h2>
+  <span>01 &middot; First-Principles Laws &amp; Continuous Conical Conductor Calculus Proof</span>
+  <span class="badge">Ch. 25–26 &bull; 10 Points &bull; DERIVE</span>
+</h2>
+
+<ol type="a">
+  <li><b>Series Equivalent Resistance from KVL [2 points]:</b> Consider $N$ resistors $R_1, R_2, \dots, R_N$ connected in series across terminals $a$ and $b$ with terminal potential difference $V_{ab} = V_a - V_b$. Starting from steady-state charge conservation ($\nabla\cdot\mathbf{J} = 0$) and Kirchhoff's loop rule ($\oint \mathbf{E}\cdot d\mathbf{l} = 0$), derive the series equivalent resistance formula $R_{\text{eq}} = \sum_{k=1}^{N} R_k$.</li>
+
+  <li><b>Parallel Equivalent Resistance from KCL [2 points]:</b> Consider $N$ resistors $R_1, R_2, \dots, R_N$ connected in parallel between common nodes $a$ and $b$. Starting from Kirchhoff's junction rule ($\sum I_{\text{in}} = \sum I_{\text{out}}$) and the path-independence of electrostatic potential, derive the reciprocal parallel formula $\frac{1}{R_{\text{eq}}} = \sum_{k=1}^{N} \frac{1}{R_k}$ and prove algebraically why $R_{\text{eq}} < \min_{1\le k\le N}(R_k)$ whenever all $R_k > 0$.</li>
+
+  <li><b>Continuous Tapered Conductor — "Problem with Calculus" [6 points]:</b> A solid conductor of length $L$ and uniform resistivity $\rho$ has the shape of a truncated right circular cone (frustum) whose circular cross-section tapers linearly from radius $a$ at $x = 0$ to radius $b$ at $x = L$, as shown below. Assume steady current $I$ flows axially along $+x$ with uniform current density over each circular cross-section.
+  <div class="fig-cone"><img src="file:///C:/Users/SeanS/Downloads/cir_app/scratch/s1-visuals/s1-q1-cone.svg" alt="Tapered conical conductor with slab dx"></div>
+    <ol type="i">
+      <li>Write the radius $r(x)$ and cross-sectional area $A(x) = \pi [r(x)]^2$ at position $x \in [0, L]$, and express the differential resistance $dR$ of the shaded disk slice of thickness $dx$. <b>[2 pts]</b></li>
+      <li>Integrate $R = \int_0^L dR$ using a clear $u$-substitution to prove that the exact resistance between the two flat circular ends is $R = \dfrac{\rho L}{\pi a b}$. <b>[3 pts]</b></li>
+      <li>Show that your expression reduces to the elementary cylinder resistance formula in the limit $b \to a$, and write the axial electric field magnitude $E(x)$ inside the conductor as a function of $x$. <b>[1 pt]</b></li>
+    </ol>
+  </li>
+</ol>
+<div class="work-sm">Work / derivation space for Exercise 01</div>
+
+<div class="pb"></div>
+<div class="hdr">
+  <span>PHYSICS II (YOUNG &amp; FREEDMAN CH. 25–26) &bull; BLOCK S1 EXERCISES</span>
+  <span>PAGE 2 &bull; MIXED SERIES-PARALLEL LADDER</span>
+</div>
+
+<h2>
+  <span>02 &middot; Mixed Series–Parallel DC Ladder &amp; Short-Circuit Perturbation</span>
+  <span class="badge">Ch. 26 &bull; 10 Points &bull; FR + SPEC V2</span>
+</h2>
+
+<p>An ideal DC voltage source $V_s = 36.0\text{ V}$ supplies a series resistor $R_1 = 6.00\ \Omega$ connected at junction $B$ to two parallel branches returned to ground node $G$ ($V_G = 0\text{ V}$): the middle branch contains $R_2 = 18.0\ \Omega$ alone, and the right branch contains $R_3 = 4.00\ \Omega$ in series with $R_4 = 5.00\ \Omega$ joined at intermediate node $D$.</p>
+
+<div class="fig-ckt"><img src="file:///C:/Users/SeanS/Downloads/cir_app/scratch/s1-visuals/s1-q2-ladder.svg" alt="Spec v2 mixed series-parallel ladder circuit"></div>
+
+<ol type="a">
+  <li><b>Equivalent Resistance Reduction [2 points]:</b> Find the equivalent resistance $R_{BG}$ of the parallel block between node $B$ and ground $G$, and find the total equivalent resistance $R_{\text{eq}}$ connected across the $36.0\text{ V}$ source.</li>
+  <li><b>Node Potentials &amp; Branch Currents [3 points]:</b> Calculate the source current $I_{\text{src}}$, the node potential $V_B$, the parallel branch currents $I_2$ and $I_{34}$, and the intermediate node potential $V_D$. Show that $I_2$ and $I_{34}$ satisfy both KCL at node $B$ and the two-branch current-divider formula.</li>
+  <li><b>Joule Heating &amp; Power Balance [2 points]:</b> Calculate the electrical power dissipated in each of the four resistors ($P_{R_1}, P_{R_2}, P_{R_3}, P_{R_4}$) and verify that $\sum_{k=1}^4 P_{R_k}$ equals the total power supplied by the $36.0\text{ V}$ source.</li>
+  <li><b>Short-Circuit Perturbation [3 points]:</b> Suppose a conducting jumper wire accidentally shorts node $B$ directly to node $D$ (bypassing $R_3$, so $R_3 \to 0$). Calculate the new total equivalent resistance $R_{\text{eq}}'$, the new source current $I_{\text{src}}'$, and the new power $P_{R_4}'$ dissipated in $R_4$. By what numerical ratio $P_{R_4}'/P_{R_4}$ does the heating in $R_4$ increase?</li>
+</ol>
+<div class="work-lg">Work / calculation space for Exercise 02</div>
+
+<div class="pb"></div>
+<div class="hdr">
+  <span>PHYSICS II (YOUNG &amp; FREEDMAN CH. 25–26) &bull; BLOCK S1 EXERCISES</span>
+  <span>PAGE 3 &bull; MULTI-SOURCE KVL/KCL ANALYSIS</span>
+</div>
+
+<h2>
+  <span>03 &middot; Multi-Source DC Network: KCL Nodal &amp; KVL Loop Analysis</span>
+  <span class="badge">Ch. 25–26 &bull; 12 Points &bull; FR + SPEC V2</span>
+</h2>
+
+<p>Three parallel branches connect top node $A$ to grounded bottom reference node $B$ ($V_B = 0\text{ V}$). Both ideal EMF sources ($\mathcal{E}_1 = 18.0\text{ V}$ on the left and $\mathcal{E}_3 = 9.00\text{ V}$ on the right) have their positive ($+$) terminals oriented upward. Downward reference currents $I_1, I_2, I_3$ are defined from node $A$ toward node $B$ as indicated by the reference arrows on the Spec v2 schematic.</p>
+
+<div class="fig-ckt"><img src="file:///C:/Users/SeanS/Downloads/cir_app/scratch/s1-visuals/s1-q3-multisource.svg" alt="Spec v2 three-branch two-source DC circuit"></div>
+
+<ol type="a">
+  <li><b>KCL &amp; KVL Equations [3 points]:</b>
+    <ol type="i">
+      <li>Write the KCL junction equation at node $A$ in terms of the downward reference currents $I_1, I_2, I_3$.</li>
+      <li>Traversing clockwise around the left mesh ($B \to L \to A \to B$), write the KVL loop equation in terms of $I_1$ and $I_2$.</li>
+      <li>Traversing clockwise around the right mesh ($B \to A \to R \to B$), write the KVL loop equation in terms of $I_2$ and $I_3$.</li>
+    </ol>
+  </li>
+  <li><b>Nodal Voltage &amp; Signed Branch Currents [5 points]:</b> Express $I_1, I_2, I_3$ in terms of the node voltage $V_A$, solve the resulting single-node KCL equation for $V_A$, and compute the three signed currents $I_1, I_2, I_3$. For each branch, state the actual physical current direction (<i>upward</i> or <i>downward</i>) and verify your solution by substituting $I_1, I_2, I_3$ into both KVL loop equations from part (a).</li>
+  <li><b>Source Power Delivery vs. Absorption [4 points]:</b> Determine whether each EMF source ($\mathcal{E}_1 = 18.0\text{ V}$ and $\mathcal{E}_3 = 9.00\text{ V}$) <b>delivers</b> electrical power to the network or <b>absorbs</b> electrical power (is being charged). Calculate the signed power of each source and prove that net power delivered by the sources equals the total Joule heating $\sum_{k=1}^3 I_k^2 R_k$ in the three resistors.</li>
+</ol>
+<div class="work-lg">Work / calculation space for Exercise 03</div>
+
+<div class="pb"></div>
+<div class="hdr">
+  <span>PHYSICS II (YOUNG &amp; FREEDMAN CH. 25–26) &bull; BLOCK S1 EXERCISES</span>
+  <span>PAGE 4 &bull; CLOZE &amp; MAXIMUM POWER TRANSFER GRAPHS</span>
+</div>
+
+<h2>
+  <span>04 &middot; DC Circuit Laws Cloze &amp; Maximum Power Transfer Graphing</span>
+  <span class="badge">Ch. 25–26 &bull; 10 Points &bull; CLOZE + DRAW</span>
+</h2>
+
+<h3>Part A: Conceptual Cloze with Word Bank [4 points — 0.5 point each]</h3>
+<p>Fill each blank below using an entry from the word bank. Use each entry at most once; four entries are unused distractors.</p>
+<div class="box">
+  <b>WORD BANK:</b> &nbsp;
+  <span class="wb-pill">electric charge</span> &bull;
+  <span class="wb-pill">electrostatic energy</span> &bull;
+  <span class="wb-pill">magnetic flux</span> &bull;
+  <span class="wb-pill">smaller than</span> &bull;
+  <span class="wb-pill">larger than</span> &bull;
+  <span class="wb-pill">opposite to</span> &bull;
+  <span class="wb-pill">equal to</span> &bull;
+  <span class="wb-pill">$\mathcal{E} - Ir$</span> &bull;
+  <span class="wb-pill">$\mathcal{E} + Ir$</span> &bull;
+  <span class="wb-pill">open circuit</span> &bull;
+  <span class="wb-pill">short circuit</span> &bull;
+  <span class="wb-pill">zero</span>
+</div>
+
+<ol type="a">
+  <li>Kirchhoff's junction rule ($\sum I_{\text{in}} = \sum I_{\text{out}}$) expresses local conservation of <span class="blank">&nbsp;</span> at any non-accumulating circuit node.</li>
+  <li>Kirchhoff's loop rule ($\sum \Delta V = 0$ around any closed path) expresses conservation of <span class="blank">&nbsp;</span> and the conservative property $\oint \mathbf{E}\cdot d\mathbf{l} = 0$.</li>
+  <li>Connecting an additional positive resistor in parallel across an existing network makes the new equivalent resistance strictly <span class="blank">&nbsp;</span> the smallest individual branch resistance.</li>
+  <li>If solving a KVL/KCL system gives a branch current $I_k = -2.40\text{ A}$, the negative sign indicates that the actual physical current has magnitude $2.40\text{ A}$ and flows <span class="blank">&nbsp;</span> the chosen reference arrow.</li>
+  <li>When a real battery of EMF $\mathcal{E}$ and internal resistance $r$ discharges by driving current $I$ out of its positive terminal, its terminal potential difference is $V_{ab} =$ <span class="blank">&nbsp;</span>.</li>
+  <li>When an external generator forces a charging current $I$ <i>into</i> the positive terminal of a real battery, its terminal potential difference is $V_{ab} =$ <span class="blank">&nbsp;</span>.</li>
+  <li>An ideal voltmeter has $R_V \to \infty$ and therefore acts as an <span class="blank">&nbsp;</span> when placed in parallel across a circuit branch.</li>
+  <li>A source with fixed EMF $\mathcal{E}$ and internal resistance $r$ transfers maximum power to an external load $R_L$ when $R_L$ is <span class="blank">&nbsp;</span> $r$.</li>
+</ol>
+
+<h3>Part B: Maximum Power Transfer Derivation &amp; Graphing [6 points — DERIVE + DRAW]</h3>
+<p>A real DC battery with open-circuit EMF $\mathcal{E} = 18.0\text{ V}$ and internal resistance $r = 3.00\ \Omega$ is connected across a variable load resistor $R_L \in [0, 15.0\ \Omega]$.</p>
+<ol type="i">
+  <li><b>Calculus Proof [2 points]:</b> Write the load power $P_L(R_L) = I^2 R_L$ in terms of $\mathcal{E}, r, R_L$, differentiate $\frac{dP_L}{dR_L} = 0$, and prove that $P_L$ is maximized at $R_L = r = 3.00\ \Omega$ with maximum power $P_{L,\max} = \frac{\mathcal{E}^2}{4r} = 27.0\text{ W}$.</li>
+  <li><b>Graph (i) [2 points]:</b> Plot terminal voltage $V_T$ (<b>dependent variable</b>, in $\text{V}$) vs. load current $I$ (<b>independent variable</b>, in $\text{A}$) from $I = 0$ to $I_{\text{sc}} = 6.00\text{ A}$. Label the intercepts, the slope $-r$, and the matched-load point $(3.00\text{ A}, 9.00\text{ V})$.</li>
+  <li><b>Graph (ii) [2 points]:</b> Plot load power $P_L$ (<b>dependent variable</b>, in $\text{W}$) vs. load resistance $R_L$ (<b>independent variable</b>, in $\Omega$) for $0 \le R_L \le 15.0\ \Omega$. Label the peak $(3.00\ \Omega, 27.0\text{ W})$ and the values at $R_L = 0, 6.00, 15.0\ \Omega$.</li>
+</ol>
+<div class="fig-wide"><img src="file:///C:/Users/SeanS/Downloads/cir_app/scratch/s1-visuals/s1-q4-grid-blank.svg" alt="Coordinate grids for V_T(I) and P_L(R_L)"></div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    renderMathInElement(document.body, {
+      delimiters: [
+        {left: "$$", right: "$$", display: true},
+        {left: "$", right: "$", display: false}
+      ],
+      throwOnError: false
+    });
+  });
+</script>
+</body>
+</html>

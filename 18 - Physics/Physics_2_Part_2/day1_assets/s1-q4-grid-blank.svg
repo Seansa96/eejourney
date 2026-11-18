@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="290" viewBox="0 0 760 290">
+<rect width="100%" height="100%" fill="white"/>
+<style>.ax{stroke:#1e293b;stroke-width:1.8}.grid{stroke:#cbd5e1;stroke-width:0.8;stroke-dasharray:3,3}.lbl{font-family:Segoe UI,Arial,sans-serif;font-size:12px;fill:#1e293b}.ttl{font-family:Segoe UI,Arial,sans-serif;font-size:13px;font-weight:bold;fill:#0f172a}</style>
+<text x="195" y="20" text-anchor="middle" class="ttl">(i) Terminal Voltage V_T vs. Current I</text>
+<line x1="60" y1="35" x2="60" y2="235" class="grid"/>
+<text x="60" y="252" text-anchor="middle" class="lbl">0</text>
+<line x1="105" y1="35" x2="105" y2="235" class="grid"/>
+<text x="105" y="252" text-anchor="middle" class="lbl">1</text>
+<line x1="150" y1="35" x2="150" y2="235" class="grid"/>
+<text x="150" y="252" text-anchor="middle" class="lbl">2</text>
+<line x1="195" y1="35" x2="195" y2="235" class="grid"/>
+<text x="195" y="252" text-anchor="middle" class="lbl">3</text>
+<line x1="240" y1="35" x2="240" y2="235" class="grid"/>
+<text x="240" y="252" text-anchor="middle" class="lbl">4</text>
+<line x1="285" y1="35" x2="285" y2="235" class="grid"/>
+<text x="285" y="252" text-anchor="middle" class="lbl">5</text>
+<line x1="330" y1="35" x2="330" y2="235" class="grid"/>
+<text x="330" y="252" text-anchor="middle" class="lbl">6</text>
+<line x1="60" y1="235" x2="330" y2="235" class="grid"/>
+<text x="52" y="239" text-anchor="end" class="lbl">0</text>
+<line x1="60" y1="205" x2="330" y2="205" class="grid"/>
+<text x="52" y="209" text-anchor="end" class="lbl">3</text>
+<line x1="60" y1="175" x2="330" y2="175" class="grid"/>
+<text x="52" y="179" text-anchor="end" class="lbl">6</text>
+<line x1="60" y1="145" x2="330" y2="145" class="grid"/>
+<text x="52" y="149" text-anchor="end" class="lbl">9</text>
+<line x1="60" y1="115" x2="330" y2="115" class="grid"/>
+<text x="52" y="119" text-anchor="end" class="lbl">12</text>
+<line x1="60" y1="85" x2="330" y2="85" class="grid"/>
+<text x="52" y="89" text-anchor="end" class="lbl">15</text>
+<line x1="60" y1="55" x2="330" y2="55" class="grid"/>
+<text x="52" y="59" text-anchor="end" class="lbl">18</text>
+<line x1="60" y1="35" x2="60" y2="235" class="ax"/>
+<line x1="60" y1="235" x2="335" y2="235" class="ax"/>
+<text x="195" y="275" text-anchor="middle" class="lbl">Independent variable: Load Current I (A)</text>
+<text x="18" y="135" text-anchor="middle" transform="rotate(-90 18,135)" class="lbl">Dependent: V_T (V)</text>
+<text x="590" y="20" text-anchor="middle" class="ttl">(ii) Load Power P_L vs. Load Resistance R_L</text>
+<line x1="440" y1="35" x2="440" y2="235" class="grid"/>
+<text x="440" y="252" text-anchor="middle" class="lbl">0</text>
+<line x1="500" y1="35" x2="500" y2="235" class="grid"/>
+<text x="500" y="252" text-anchor="middle" class="lbl">3</text>
+<line x1="560" y1="35" x2="560" y2="235" class="grid"/>
+<text x="560" y="252" text-anchor="middle" class="lbl">6</text>
+<line x1="620" y1="35" x2="620" y2="235" class="grid"/>
+<text x="620" y="252" text-anchor="middle" class="lbl">9</text>
+<line x1="680" y1="35" x2="680" y2="235" class="grid"/>
+<text x="680" y="252" text-anchor="middle" class="lbl">12</text>
+<line x1="740" y1="35" x2="740" y2="235" class="grid"/>
+<text x="740" y="252" text-anchor="middle" class="lbl">15</text>
+<line x1="440" y1="235.00" x2="740" y2="235.00" class="grid"/>
+<text x="432" y="239.00" text-anchor="end" class="lbl">0</text>
+<line x1="440" y1="201.67" x2="740" y2="201.67" class="grid"/>
+<text x="432" y="205.67" text-anchor="end" class="lbl">5</text>
+<line x1="440" y1="168.33" x2="740" y2="168.33" class="grid"/>
+<text x="432" y="172.33" text-anchor="end" class="lbl">10</text>
+<line x1="440" y1="135.00" x2="740" y2="135.00" class="grid"/>
+<text x="432" y="139.00" text-anchor="end" class="lbl">15</text>
+<line x1="440" y1="101.67" x2="740" y2="101.67" class="grid"/>
+<text x="432" y="105.67" text-anchor="end" class="lbl">20</text>
+<line x1="440" y1="68.33" x2="740" y2="68.33" class="grid"/>
+<text x="432" y="72.33" text-anchor="end" class="lbl">25</text>
+<line x1="440" y1="35.00" x2="740" y2="35.00" class="grid"/>
+<text x="432" y="39.00" text-anchor="end" class="lbl">30</text>
+<line x1="440" y1="35" x2="440" y2="235" class="ax"/>
+<line x1="440" y1="235" x2="745" y2="235" class="ax"/>
+<text x="590" y="275" text-anchor="middle" class="lbl">Independent variable: Load Resistance R_L (Ω)</text>
+<text x="398" y="135" text-anchor="middle" transform="rotate(-90 398,135)" class="lbl">Dependent: P_L (W)</text>
+</svg>

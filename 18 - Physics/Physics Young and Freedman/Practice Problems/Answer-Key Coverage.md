@@ -1,0 +1,48 @@
+# Young & Freedman University Physics - Answer-Key Coverage
+
+This collection contains only prompts with a corresponding odd-numbered answer entry in the textbook appendix.
+
+- Chapter 1: 44 prompts
+- Chapter 2: 49 prompts
+- Chapter 3: 43 prompts
+- Chapter 4: 29 prompts
+- Chapter 5: 52 prompts
+- Chapter 6: 47 prompts
+- Chapter 7: 44 prompts
+- Chapter 8: 50 prompts
+- Chapter 9: 49 prompts
+- Chapter 10: 7 prompts
+- Chapter 11: 9 prompts
+- Chapter 12: 12 prompts
+- Chapter 13: 15 prompts
+- Chapter 14: 10 prompts
+- Chapter 15: 7 prompts
+- Chapter 16: 2 prompts
+- Chapter 17: 9 prompts
+- Chapter 18: 6 prompts
+- Chapter 19: 6 prompts
+- Chapter 20: 6 prompts
+- Chapter 21: 11 prompts
+- Chapter 22: 6 prompts
+- Chapter 23: 10 prompts
+- Chapter 24: 5 prompts
+- Chapter 25: 4 prompts
+- Chapter 26: 6 prompts
+- Chapter 27: 10 prompts
+- Chapter 28: 9 prompts
+- Chapter 29: 6 prompts
+- Chapter 30: 5 prompts
+- Chapter 31: 7 prompts
+- Chapter 32: 6 prompts
+- Chapter 33: 6 prompts
+- Chapter 34: 5 prompts
+- Chapter 35: 7 prompts
+- Chapter 36: 5 prompts
+- Chapter 37: 6 prompts
+- Chapter 38: 7 prompts
+- Chapter 39: 11 prompts
+- Chapter 40: 12 prompts
+- Chapter 41: 8 prompts
+- Chapter 42: 7 prompts
+- Chapter 43: 8 prompts
+- Chapter 44: 8 prompts

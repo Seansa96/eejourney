@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="270" viewBox="0 0 420 270" role="img" aria-labelledby="title desc">
+<title id="title">Problem 36: parallel lines cut by a transversal</title><desc id="desc">Find the adjacent angle forming a linear pair. Two parallel horizontal lines are crossed by a diagonal transversal. All angle measures are shown in their corresponding sectors. The matching parallel-arrow marks show the lines are parallel.</desc>
+<style>text{font-family:Arial, sans-serif;fill:#172554}.line{stroke:#172554;stroke-width:3}.trans{stroke:#334155;stroke-width:3}.ang{font-size:18px;font-weight:bold;text-anchor:middle}.given{fill:#075985}.target{fill:#b91c1c}.name{font-size:16px;font-style:italic}.mark{stroke:#047857;stroke-width:2.5;fill:none}</style>
+<line class="line" x1="42" y1="80" x2="378" y2="80"/><line class="line" x1="42" y1="190" x2="378" y2="190"/><line class="trans" x1="85" y1="0" x2="310" y2="270"/>
+<path class="mark" d="M350 73 l8 7 -8 7 M350 183 l8 7 -8 7"/><text x="382" y="85" class="name">ℓ</text><text x="382" y="195" class="name">m</text><text x="300" y="248" class="name">t</text>
+<circle cx="151.67" cy="80" r="3.5" fill="#172554"/><circle cx="243.33" cy="190" r="3.5" fill="#172554"/>
+<text x="55" y="28" class="name">ℓ ∥ m</text><text x="184" y="55" class="ang given">134°</text><text x="132" y="55" class="ang target">?</text>
+</svg>

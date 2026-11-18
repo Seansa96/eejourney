@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "08e3b90662ce4be3",
+        "id": "e73f1b758137d9e0",
         "type": "tabs",
         "children": [
           {
-            "id": "cf38ca5d22a6b287",
+            "id": "72c6fdb1add2c543",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "16 - Mathematics/Calculus/Calc 3/Openstax/Chapter 2.3 - Dot Product.md",
+                "file": "16 - Mathematics/Mathematical Modeling and Functional Reasoning/How to Think Like a Mathematician/1 - Sets and Functions/Chapter Summary.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chapter 2.3 - Dot Product"
+              "title": "Chapter Summary"
             }
           },
           {
-            "id": "b4f7ebc765722112",
+            "id": "5d9f28d780419f64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "16 - Mathematics/Calculus/Calc 3/Openstax/Chapter 2.3 - Dot Product Solutions.md",
+                "file": "13 - Language Fundamentals/C++/C++ Programming - From Problem Analysis to Program Design/Chapter 12 - Pointers, Classes, Virtual Functions, and Abstract Classes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,34 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chapter 2.3 - Dot Product Solutions"
-            }
-          },
-          {
-            "id": "adb8540f43c894cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "16 - Mathematics/Calculus/Calc 3/Openstax/Chapter 2.2 - Vectors in Three Dimensions Solutions.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 2.2 - Vectors in Three Dimensions Solutions"
+              "title": "Chapter 12 - Pointers, Classes, Virtual Functions, and Abstract Classes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +116,10 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -148,7 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 236.5
   },
   "right": {
     "id": "8c4b8b245682d654",
@@ -222,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "16 - Mathematics/Calculus/Calc 3/Openstax/Chapter 2.3 - Dot Product.md",
+                "file": "Excalidraw/black canvas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -246,7 +226,6 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": true,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false,
       "cmdr:Templater: Open insert template modal": false,
@@ -255,53 +234,89 @@
       "templates:Insert template": false
     }
   },
-  "active": "bbe485795af52009",
+  "floating": {
+    "id": "dffb484896255ddb",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a4413b40f3a2ffa9",
+        "type": "window",
+        "children": [
+          {
+            "id": "2701717b6b7b6a5a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "306d913137ca90db",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/black canvas.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "black canvas"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 924,
+        "y": 27,
+        "width": 600,
+        "height": 600,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "306d913137ca90db",
   "lastOpenFiles": [
-    "tmp/pdfs/qa/dot-product-solutions-final2-1.png",
-    "tmp/pdfs/qa/dot-product-solutions-final-1.png",
-    "tmp/pdfs/qa/dot-product-solutions-1.png",
-    "23 - Printables/Chapter 6.4 - Green's Theorem.pdf",
-    "23 - Printables/Chapter 6.4 - Green's Theorem Solutions.pdf",
-    "23 - Printables/Chapter 6.3 - Conservative Vector Fields.pdf",
-    "23 - Printables/Chapter 6.3 - Conservative Vector Fields Solutions.pdf",
-    "23 - Printables/Chapter 6.2 - Line Integrals.pdf",
-    "23 - Printables/Chapter 6.2 - Line Integrals Solutions.pdf",
-    "23 - Printables/Chapter 6.1 - Vector Fields.pdf",
-    "23 - Printables/Chapter 6.1 - Vector Fields Solutions.pdf",
-    "23 - Printables/Chapter 5.5 - Triple Integrals in Cylindrical and Spherical Coordinates.pdf",
-    "23 - Printables/Chapter 5.5 - Triple Integrals in Cylindrical and Spherical Coordinates Solutions.pdf",
-    "tmp/pdfs/qa/dot-product-1.png",
-    "16 - Mathematics/Calculus/Calc 3/Openstax/Chapter 2.3 - Dot Product Solutions.md",
-    "16 - Mathematics/Calculus/Calc 3/Openstax/Chapter 2.3 - Dot Product.md",
-    "16 - Mathematics/Calculus/Calc 3/Openstax/Chapter 2.2 - Vectors in Three Dimensions Solutions.md",
-    "16 - Mathematics/Calculus/Calc 3/Openstax/Chapter 2.2 - Vectors in Three Dimensions.md",
-    "16 - Mathematics/Calculus/Calc 3/Topic Lectures/Section 2.3 - Dot Product.md",
-    "16 - Mathematics/Calculus/Calc 3/Openstax/Chapter 2.1 - Vectors in the Plane Solutions.md",
-    "16 - Mathematics/Calculus/Calc 3/Topic Lectures/Section 2.2 - Vectors in Three Dimensions-MyLaptop-2.md",
-    "16 - Mathematics/Calculus/Calc 3/Topic Lectures/Section 2.2 - Vectors in Three Dimensions-MyLaptop.md",
-    "16 - Mathematics/Calculus/Calc 3/Topic Lectures/Section 2.4 - Cross Product.md",
-    "16 - Mathematics/Calculus/Calc 3/Topic Lectures/Section 2.2 - Vectors in Three Dimensions.md",
-    "16 - Mathematics/Calculus/Calc 3/Openstax/Chapter 2.1 - Vectors in the Plane.md",
+    "13 - Language Fundamentals/C++/C++ Programming - From Problem Analysis to Program Design/Chapter 12 - Pointers, Classes, Virtual Functions, and Abstract Classes.md",
     "Excalidraw/black canvas.md",
-    "17 - Chemistry/Chemistry - The Central Science (14th Edition)/Practice Problems/Chapter 1 - Introduction - Matter, Energy, and Measurement Practice Problems Solutions.md",
-    "17 - Chemistry/Chemistry - The Central Science (14th Edition)/Practice Problems/Chapter 2 - Atoms, Molecules, and Ions Practice Problems.md",
-    "17 - Chemistry/Chemistry - The Central Science (14th Edition)/Practice Problems/Chapter 2 - Atoms, Molecules, and Ions Practice Problems Solutions.md",
-    "17 - Chemistry/Chemistry - The Central Science (14th Edition)/Practice Problems/Chapter 3 - Chemical Reactions and Reaction Stoichiometry Practice Problems.md",
-    "17 - Chemistry/Chemistry - The Central Science (14th Edition)/Practice Problems/Chapter 3 - Chemical Reactions and Reaction Stoichiometry Practice Problems Solutions.md",
-    "17 - Chemistry/Chemistry - The Central Science (14th Edition)/Practice Problems/Chapter 4 - Reactions in Aqueous Solution Practice Problems.md",
-    "17 - Chemistry/Chemistry - The Central Science (14th Edition)/Practice Problems/Chapter 4 - Reactions in Aqueous Solution Practice Problems Solutions.md",
-    "17 - Chemistry/Chemistry - The Central Science (14th Edition)/Practice Problems/Chapter 5 - Thermochemistry Practice Problems.md",
-    "17 - Chemistry/Chemistry - The Central Science (14th Edition)/Practice Problems/Chapter 6 - Electronic Structure of Atoms Practice Problems.md",
-    "17 - Chemistry/Chemistry - The Central Science (14th Edition)/Practice Problems/Chapter 7 - Periodic Properties of the Elements Practice Problems.md",
-    "17 - Chemistry/Chemistry - The Central Science (14th Edition)/Practice Problems/Chapter 7 - Periodic Properties of the Elements Practice Problems Solutions.md",
-    "17 - Chemistry/Chemistry - The Central Science (14th Edition)/Practice Problems/Chapter 23 - Transition Metals and Coordination Chemistry Practice Problems.md",
-    "17 - Chemistry/Chemistry - The Central Science (14th Edition)/Practice Problems/Chapter 22 - Chemistry of the Nonmetals Practice Problems Solutions.md",
-    "11 - Images/Pasted Image 20260808202244_872.png",
-    "11 - Images/Pasted Image 20260808191645_381.png",
-    "11 - Images/Pasted Image 20260804020056_621.png",
-    "11 - Images/Pasted Image 20260804012735_258.png",
-    "11 - Images/Pasted Image 20260804012400_291.png",
-    "11 - Images/Pasted Image 20260804011902_009.png",
-    "11 - Images/Pasted Image 20260804010810_439.png"
+    "7 - Guides/AI-Written Guides/Powershell Cheat Sheet.md",
+    "13 - Language Fundamentals/C++/C++ Programming - From Problem Analysis to Program Design/Chapter 11 - Inheritance and Composition.md",
+    "11 - Images/free_images/Pasted image 20261113104812.png",
+    "16 - Mathematics/Mathematical Modeling and Functional Reasoning/How to Think Like a Mathematician/1 - Sets and Functions/Chapter Summary.md",
+    "7 - Guides/LaTeX Symbols Reference.md",
+    "11 - Images/free_images/Pasted image 20261102175209.png",
+    "1 - Rough Notes/class studenttype.md",
+    "13 - Language Fundamentals/C++/C++ Programming - From Problem Analysis to Program Design/Chapter 10 - Classes and Data Abstraction.md",
+    "13 - Language Fundamentals/C++/C++ Programming - From Problem Analysis to Program Design/Chapter 06 - User-Defined Functions.md",
+    "18 - Physics/Physics Young and Freedman/Electromagnetism/21 - Electric Charge and Electric Field/Deprecated EF-Lines-Dipoles.md",
+    "18 - Physics/Physics Young and Freedman/Electromagnetism/33 - The Nature and Propagation of Light/Notes.md",
+    "11 - Images/free_images/Pasted image 20261029144557.png",
+    "11 - Images/free_images/Pasted image 20261029142537.png",
+    "11 - Images/free_images/Pasted image 20261029142522.png",
+    "18 - Physics/Physics Young and Freedman/Electromagnetism/33 - The Nature and Propagation of Light/Examples.md",
+    "11 - Images/free_images/Pasted Image 20261029133359_234.png",
+    "11 - Images/free_images/Pasted image 20261029131503.png",
+    "18 - Physics/Physics Young and Freedman/Electromagnetism/33 - The Nature and Propagation of Light/Figures/Figure 33.29 - Swimming pool sketches.png",
+    "18 - Physics/Physics Young and Freedman/Electromagnetism/33 - The Nature and Propagation of Light/Figures/Figure 33.25 - Polarizer and analyzer.png",
+    "18 - Physics/Physics Young and Freedman/Electromagnetism/33 - The Nature and Propagation of Light/Figures/Figure 33.14a - Total reflection in a prism.png",
+    "18 - Physics/Physics Young and Freedman/Electromagnetism/33 - The Nature and Propagation of Light/Figures",
+    "18 - Physics/Physics Young and Freedman/Electromagnetism/33 - The Nature and Propagation of Light/Problem Solving Playbook.md",
+    "18 - Physics/Physics Young and Freedman/Electromagnetism/32 - Electromagnetic Waves/Notes.md",
+    "18 - Physics/Physics Young and Freedman/Electromagnetism/32 - Electromagnetic Waves/Examples.md",
+    "13 - Language Fundamentals/C++/C++ Programming - From Problem Analysis to Program Design/Chapter 09 - Records (structs).md",
+    "17 - Chemistry/Jason Overby - Chemistry (15th Edition)/Chapter 7 - The Electronic Structure of Atoms/Notes.md",
+    "17 - Chemistry/Jason Overby - Chemistry (15th Edition)/Chapter 6 - Introduction to Thermodynamics/Notes.md",
+    "17 - Chemistry/Jason Overby - Chemistry (15th Edition)/Chapter 7 - The Electronic Structure of Atoms",
+    "13 - Language Fundamentals/C++/C++ Programming - From Problem Analysis to Program Design/Chapter 08 - Arrays and Strings.md",
+    "23 - Printables/Geometry/source/validation_report.json",
+    "23 - Printables/Geometry/source/__pycache__/build_geometry_diagnostic.cpython-311.pyc",
+    "23 - Printables/Geometry/source/__pycache__",
+    "23 - Printables/Geometry/source/verify_geometry_diagnostic.py",
+    "23 - Printables/Geometry/source/README.md",
+    "23 - Printables/Geometry/source/assessment_manifest.json",
+    "23 - Printables/Geometry/Geometry Mastery Diagnostic - Solutions, Grading Rubric, and Skill Profile.pdf",
+    "23 - Printables/Geometry/Geometry Mastery Diagnostic.pdf",
+    "23 - Printables/Geometry/source/build_geometry_diagnostic.py",
+    "13 - Language Fundamentals/C++/C++ Programming - From Problem Analysis to Program Design/Chapter 04 - Control Structures I (Selection).md",
+    "13 - Language Fundamentals/C++/C++ Programming - From Problem Analysis to Program Design/Chapter 07 - User-Defined Simple Data Types, Namespaces, and the string Type.md",
+    "13 - Language Fundamentals/C++/C++ Programming - From Problem Analysis to Program Design/Chapter 05 - Control Structures II (Repetition).md",
+    "13 - Language Fundamentals/C++/C++ Programming - From Problem Analysis to Program Design/Chapter 18 - Stacks and Queues.md",
+    "13 - Language Fundamentals/C++/C++ Programming - From Problem Analysis to Program Design/Chapter 17 - Linked Lists.md"
   ]
 }

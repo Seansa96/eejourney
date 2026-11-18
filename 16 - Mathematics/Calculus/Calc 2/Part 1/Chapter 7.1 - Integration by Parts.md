@@ -128,7 +128,7 @@ p^2 \ln p dp
 $$
 
 > [!answer]- Answer
-> ![[11 - Images/Scan from 2026-06-09 10_44_40 AM.pdf]]
+> ![[Scan from 2026-06-09 10_44_40 AM.pdf]]
 
 # Example 9 
 

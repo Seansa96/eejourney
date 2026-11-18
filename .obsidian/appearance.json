@@ -6,6 +6,8 @@
     "list-color",
     "inline-math",
     "block-math",
-    "line-numbers"
-  ]
+    "line-numbers",
+    "textbook-callout"
+  ],
+  "showRibbon": true
 }

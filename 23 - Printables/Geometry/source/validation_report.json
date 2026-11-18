@@ -1,0 +1,28 @@
+{
+  "items": 30,
+  "points": 300,
+  "difficulty": {
+    "F": 10,
+    "S": 14,
+    "A": 6
+  },
+  "numerical_checks": "passed",
+  "pdfs": [
+    {
+      "file": "Geometry Mastery Diagnostic - Solutions, Grading Rubric, and Skill Profile.pdf",
+      "pages": 40,
+      "bytes": 183563,
+      "text_boundaries": "passed",
+      "glyphs": "passed",
+      "rendered_pages": 40
+    },
+    {
+      "file": "Geometry Mastery Diagnostic.pdf",
+      "pages": 32,
+      "bytes": 148797,
+      "text_boundaries": "passed",
+      "glyphs": "passed",
+      "rendered_pages": 32
+    }
+  ]
+}

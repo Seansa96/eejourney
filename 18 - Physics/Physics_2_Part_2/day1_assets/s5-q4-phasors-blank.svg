@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="225" viewBox="0 0 760 225">
+<rect width="100%" height="100%" fill="white"/>
+<defs><marker id="pa" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto"><path d="M 0 1 L 10 5 L 0 9 z" fill="#0f172a"/></marker><marker id="paB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto"><path d="M 0 1 L 10 5 L 0 9 z" fill="#0284c7"/></marker><marker id="paG" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto"><path d="M 0 1 L 10 5 L 0 9 z" fill="#16a34a"/></marker><marker id="paR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto"><path d="M 0 1 L 10 5 L 0 9 z" fill="#dc2626"/></marker></defs>
+<style>.ax{stroke:#94a3b8;stroke-width:1.4;stroke-dasharray:4,3}.lbl{font-family:Segoe UI,Arial,sans-serif;font-size:11.5px;fill:#1e293b}.ttl{font-family:Segoe UI,Arial,sans-serif;font-size:12.5px;font-weight:bold;fill:#0f172a}</style>
+<text x="190" y="18" text-anchor="middle" class="ttl">(iii) Voltage Phasor Diagram at ω_1 = 250 rad/s</text>
+<text x="570" y="18" text-anchor="middle" class="ttl">(iv) Voltage Phasor Diagram at ω_2 = 1000 rad/s</text>
+<line x1="50" y1="115" x2="330" y2="115" class="ax"/>
+<line x1="160" y1="30" x2="160" y2="205" class="ax"/>
+<line x1="160" y1="115" x2="295" y2="115" stroke="#0f172a" stroke-width="2.2" marker-end="url(#pa)"/>
+<text x="302" y="119" class="lbl" font-weight="bold">I_0 (0° ref)</text>
+<line x1="430" y1="115" x2="710" y2="115" class="ax"/>
+<line x1="540" y1="30" x2="540" y2="205" class="ax"/>
+<line x1="540" y1="115" x2="675" y2="115" stroke="#0f172a" stroke-width="2.2" marker-end="url(#pa)"/>
+<text x="682" y="119" class="lbl" font-weight="bold">I_0 (0° ref)</text>
+</svg>

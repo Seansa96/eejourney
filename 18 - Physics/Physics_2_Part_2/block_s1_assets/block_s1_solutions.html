@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="file:///C:/Users/SeanS/Downloads/cir_app/frontend/node_modules/katex/dist/katex.min.css">
+<script src="file:///C:/Users/SeanS/Downloads/cir_app/frontend/node_modules/katex/dist/katex.min.js"></script>
+<script src="file:///C:/Users/SeanS/Downloads/cir_app/frontend/node_modules/katex/dist/contrib/auto-render.min.js"></script>
+<style>
+  @page { size: Letter; margin: 0.44in 0.52in 0.44in 0.52in; }
+  * { box-sizing: border-box; }
+  body { font-family: "Computer Modern Serif", "Latin Modern Roman", Georgia, "Times New Roman", serif; font-size: 9.7pt; color: #161b22; line-height: 1.35; margin: 0; }
+  .hdr { display: flex; justify-content: space-between; border-bottom: 1.8px solid #0b3a6b; padding-bottom: 3px; margin-bottom: 6px; font-family: "Segoe UI", Arial, sans-serif; font-size: 8.3pt; color: #0b3a6b; font-weight: 600; letter-spacing: 0.25px; }
+  h1 { font-family: "Segoe UI", Arial, sans-serif; font-size: 15.5pt; color: #0b3a6b; margin: 2px 0 2px 0; }
+  h2 { font-family: "Segoe UI", Arial, sans-serif; font-size: 11.2pt; color: #0b3a6b; background: #eaf1f8; border-left: 4px solid #0b3a6b; padding: 3.5px 9px; margin: 6px 0 5px 0; display: flex; justify-content: space-between; align-items: center; }
+  h3 { font-family: "Segoe UI", Arial, sans-serif; font-size: 9.8pt; color: #12467f; margin: 5px 0 2px 0; }
+  p { margin: 3.5px 0; }
+  .meta { font-family: "Segoe UI", Arial, sans-serif; font-size: 8.5pt; color: #475569; margin-bottom: 5px; }
+  .badge { font-size: 8pt; background: #0b3a6b; color: white; padding: 1px 7px; border-radius: 10px; font-weight: 600; white-space: nowrap; }
+  .box { border: 1px solid #cbd5e1; background: #f8fafc; padding: 5px 9px; border-radius: 4px; margin: 4px 0; font-size: 9.2pt; }
+  .solbox { border: 1px solid #93c5fd; border-left: 4px solid #1d4ed8; background: #f0f7ff; padding: 6px 10px; border-radius: 4px; margin: 5px 0; }
+  .ansbox { border: 1.5px solid #15803d; background: #f0fdf4; padding: 4.5px 9px; border-radius: 4px; margin: 5px 0; font-weight: 600; color: #14532d; font-size: 9.1pt; }
+  .fig-cone { text-align: center; margin: 3px 0; }
+  .fig-cone img { max-height: 155px; width: auto; max-width: 78%; }
+  .fig-ckt { text-align: center; margin: 4px 0; }
+  .fig-ckt img { max-height: 255px; width: auto; max-width: 92%; }
+  .fig-wide { text-align: center; margin: 4px 0; }
+  .fig-wide img { max-width: 95%; height: auto; max-height: 215px; }
+  .work-sm { border: 1px dashed #cbd5e1; border-radius: 4px; height: 145px; margin-top: 6px; padding: 4px 8px; font-family: "Segoe UI", sans-serif; font-size: 8.2pt; color: #94a3b8; background: repeating-linear-gradient(to bottom, transparent, transparent 19px, #f1f5f9 20px); }
+  .work-lg { border: 1px dashed #cbd5e1; border-radius: 4px; height: 220px; margin-top: 7px; padding: 4px 8px; font-family: "Segoe UI", sans-serif; font-size: 8.2pt; color: #94a3b8; background: repeating-linear-gradient(to bottom, transparent, transparent 21px, #f1f5f9 22px); }
+  ol, ul { margin: 2.5px 0 4px 0; padding-left: 20px; }
+  li { margin: 2.5px 0; }
+  .blank { display: inline-block; min-width: 140px; border-bottom: 1.2px solid #1e293b; text-align: center; font-weight: 600; color: #0b3a6b; }
+  .wb-pill { display: inline-block; background: #e2e8f0; border: 1px solid #cbd5e1; border-radius: 3px; padding: 0.5px 5px; margin: 1px 2px; font-family: "Consolas", "Courier New", monospace; font-size: 8.8pt; color: #0f172a; }
+  .pb { page-break-before: always; }
+  table { width: 100%; border-collapse: collapse; margin: 4px 0; font-size: 8.9pt; }
+  th, td { border: 1px solid #cbd5e1; padding: 3px 6px; text-align: left; }
+  th { background: #e2e8f0; font-family: "Segoe UI", sans-serif; }
+  .katex { font-size: 1.0em; }
+  .katex-display { margin: 0.32em 0; }
+</style>
+</head>
+
+<body>
+<div class="hdr">
+  <span>PHYSICS II (YOUNG &amp; FREEDMAN CH. 25–26) &bull; INTENSIVE REVIEW SCHEDULE: BLOCK S1</span>
+  <span>PAGE 1 &bull; DETAILED WORKED SOLUTIONS &amp; RUBRIC</span>
+</div>
+
+<h1>Block S1 Solutions: Equivalent Resistance &amp; Multi-Source KVL/KCL</h1>
+<div class="meta">
+  <b>Companion Key to:</b> <span class="wb-pill">Block_S1_Exercises_EqResistance_KVL_KCL.pdf</span> &nbsp;|&nbsp;
+  <b>Verification:</b> All circuit values cross-checked via Spec v2 Modified Nodal Analysis (MNA)
+</div>
+
+<h2>
+  <span>01 &middot; Solutions: First-Principles Laws &amp; Conical Conductor Calculus Proof</span>
+  <span class="badge">10 Points</span>
+</h2>
+
+<div class="solbox">
+  <h3>(a) Series Equivalent Resistance from KVL [2 points]</h3>
+  <p><b>How to Solve / Proof:</b> In steady state, $\nabla\cdot\mathbf{J} = -\frac{\partial \rho_v}{\partial t} = 0$, so no charge accumulates at any internal junction between series resistors. By KCL at each internal node, the same current $I$ flows through every resistor: $I_1 = I_2 = \dots = I_N = I$. Applying Kirchhoff's loop rule ($\oint \mathbf{E}\cdot d\mathbf{l} = 0$) around the closed loop formed by the terminal source $V_{ab}$ and the $N$ resistors in series:</p>
+  $$V_{ab} - \sum_{k=1}^{N} V_k = 0 \implies V_{ab} = \sum_{k=1}^{N} I R_k = I \left(\sum_{k=1}^{N} R_k\right).$$
+  <p>Defining the equivalent resistance by $V_{ab} = I R_{\text{eq}}$ immediately yields $R_{\text{eq}} = \sum_{k=1}^{N} R_k$. $\blacksquare$</p>
+
+  <h3>(b) Parallel Equivalent Resistance from KCL &amp; Upper Bound Proof [2 points]</h3>
+  <p><b>How to Solve / Proof:</b> Because the electrostatic field is conservative ($\oint \mathbf{E}\cdot d\mathbf{l} = 0$), the potential difference across every parallel branch connecting node $a$ to node $b$ is identical: $V_1 = V_2 = \dots = V_N = V_{ab}$. Applying KCL at node $a$, the total current $I_{\text{total}}$ entering node $a$ splits into the $N$ parallel branches:</p>
+  $$I_{\text{total}} = \sum_{k=1}^{N} I_k = \sum_{k=1}^{N} \frac{V_{ab}}{R_k} = V_{ab} \sum_{k=1}^{N} \frac{1}{R_k}.$$
+  <p>Since $I_{\text{total}} = \frac{V_{ab}}{R_{\text{eq}}}$, dividing by $V_{ab}$ gives $\frac{1}{R_{\text{eq}}} = \sum_{k=1}^{N} \frac{1}{R_k}$. Furthermore, let $R_{\min} = \min_{1\le k\le N}(R_k)$. Because every $R_k > 0$, each term $\frac{1}{R_k} > 0$, so for $N \ge 2$:</p>
+  $$\frac{1}{R_{\text{eq}}} = \frac{1}{R_{\min}} + \sum_{k \neq \min} \frac{1}{R_k} > \frac{1}{R_{\min}} \implies R_{\text{eq}} < R_{\min} = \min_{1\le k\le N}(R_k). \quad \blacksquare$$
+
+  <h3>(c) Continuous Tapered Conical Conductor — "Problem with Calculus" [6 points]</h3>
+  <p><b>(i) Differential Slice Setup [2 pts]:</b> Because the radius varies linearly from $r(0) = a$ to $r(L) = b$, the radius and circular cross-sectional area at axial coordinate $x \in [0, L]$ are:</p>
+  $$r(x) = a + \left(\frac{b - a}{L}\right)x, \qquad A(x) = \pi [r(x)]^2 = \pi \left[a + \left(\frac{b - a}{L}\right)x\right]^2.$$
+  <p>Slicing the conductor perpendicular to the $x$-axis into infinitesimal series disks of thickness $dx$ gives differential resistance:</p>
+  $$dR = \frac{\rho\,dx}{A(x)} = \frac{\rho\,dx}{\pi \left[a + \frac{b-a}{L}x\right]^2}.$$
+  <p><b>(ii) Definite Integration [3 pts]:</b> Summing the series disk elements from $x = 0$ to $x = L$:</p>
+  $$R = \int_{0}^{L} \frac{\rho\,dx}{\pi \left[a + \frac{b-a}{L}x\right]^2}.$$
+  <p>Let $u = a + \frac{b-a}{L}x$, so that $du = \frac{b-a}{L}\,dx \implies dx = \frac{L}{b-a}\,du$. At $x=0$, $u=a$; at $x=L$, $u=b$:</p>
+  $$R = \frac{\rho}{\pi}\left(\frac{L}{b-a}\right) \int_{a}^{b} u^{-2}\,du = \frac{\rho L}{\pi(b-a)} \left[-\frac{1}{u}\right]_{a}^{b} = \frac{\rho L}{\pi(b-a)}\left(\frac{1}{a} - \frac{1}{b}\right) = \frac{\rho L}{\pi(b-a)}\left(\frac{b-a}{ab}\right) = \frac{\rho L}{\pi a b}.$$
+  <p><b>(iii) Limiting Case &amp; Electric Field $E(x)$ [1 pt]:</b> As $b \to a$, $R = \frac{\rho L}{\pi a(a)} = \frac{\rho L}{\pi a^2} = \frac{\rho L}{A}$, recovering the standard cylinder resistance! By microscopic Ohm's law, $E(x) = \rho J(x) = \frac{\rho I}{A(x)} = \frac{\rho I}{\pi \left[a + \frac{b-a}{L}x\right]^2}$.</p>
+</div>
+<div class="ansbox">Final Key (Ex 01): &nbsp; (a) $R_{\text{eq}} = \sum R_k$ &nbsp;|&nbsp; (b) $1/R_{\text{eq}} = \sum (1/R_k) \implies R_{\text{eq}} < R_{\min}$ &nbsp;|&nbsp; (c) $R = \dfrac{\rho L}{\pi a b}$, &nbsp; $E(x) = \dfrac{\rho I}{\pi [a + (b-a)x/L]^2}$</div>
+
+<div class="pb"></div>
+<div class="hdr">
+  <span>PHYSICS II (YOUNG &amp; FREEDMAN CH. 25–26) &bull; BLOCK S1 SOLUTIONS</span>
+  <span>PAGE 2 &bull; EXERCISE 02 SOLUTIONS</span>
+</div>
+
+<h2>
+  <span>02 &middot; Solutions: Mixed Series–Parallel DC Ladder &amp; Short-Circuit Perturbation</span>
+  <span class="badge">10 Points</span>
+</h2>
+
+<div class="fig-ckt"><img src="file:///C:/Users/SeanS/Downloads/cir_app/scratch/s1-visuals/s1-q2-ladder.svg" alt="Spec v2 mixed series-parallel ladder circuit"></div>
+
+<div class="solbox">
+  <p><b>(a) Network Reduction [2 pts]:</b> The right branch has $R_3$ and $R_4$ in series: $R_{34} = R_3 + R_4 = 4.00 + 5.00 = 9.00\ \Omega$. This $9.00\ \Omega$ branch is in parallel with $R_2 = 18.0\ \Omega$ between node $B$ and ground $G$:</p>
+  $$R_{BG} = \frac{R_2 R_{34}}{R_2 + R_{34}} = \frac{(18.0)(9.00)}{18.0 + 9.00} = \frac{162}{27.0} = 6.00\ \Omega, \qquad R_{\text{eq}} = R_1 + R_{BG} = 6.00 + 6.00 = 12.0\ \Omega.$$
+
+  <p><b>(b) Node Potentials &amp; Branch Currents [3 pts]:</b> Total source current leaving $V_s = 36.0\text{ V}$:</p>
+  $$I_{\text{src}} = \frac{V_s}{R_{\text{eq}}} = \frac{36.0\text{ V}}{12.0\ \Omega} = 3.00\text{ A}.$$
+  <p>Node $B$ potential is $V_B = V_A - I_{\text{src}} R_1 = 36.0 - (3.00)(6.00) = 18.0\text{ V}$. The parallel branch currents are:</p>
+  $$I_2 = \frac{V_B}{R_2} = \frac{18.0\text{ V}}{18.0\ \Omega} = 1.00\text{ A}, \qquad I_{34} = \frac{V_B}{R_3 + R_4} = \frac{18.0\text{ V}}{9.00\ \Omega} = 2.00\text{ A}, \qquad V_D = I_{34} R_4 = (2.00\text{ A})(5.00\ \Omega) = 10.0\text{ V}.$$
+  <p><i>Checks:</i> KCL at $B$: $I_2 + I_{34} = 1.00 + 2.00 = 3.00\text{ A} = I_{\text{src}}$. Current divider: $I_{34} = I_{\text{src}} \frac{R_2}{R_2 + R_{34}} = 3.00 \left(\frac{18.0}{27.0}\right) = 2.00\text{ A}$.</p>
+
+  <p><b>(c) Power Bookkeeping [2 pts]:</b></p>
+  $$P_{R_1} = I_{\text{src}}^2 R_1 = (3.00)^2(6.00) = 54.0\text{ W}, \quad P_{R_2} = I_2^2 R_2 = (1.00)^2(18.0) = 18.0\text{ W},$$
+  $$P_{R_3} = I_{34}^2 R_3 = (2.00)^2(4.00) = 16.0\text{ W}, \quad P_{R_4} = I_{34}^2 R_4 = (2.00)^2(5.00) = 20.0\text{ W}.$$
+  $$\sum_{k=1}^4 P_{R_k} = 54.0 + 18.0 + 16.0 + 20.0 = 108.0\text{ W} = V_s I_{\text{src}} = (36.0\text{ V})(3.00\text{ A}).$$
+
+  <p><b>(d) Short-Circuit Perturbation ($R_3 \to 0$) [3 pts]:</b> With $B$ shorted to $D$, $R_2 = 18.0\ \Omega$ is directly in parallel with $R_4 = 5.00\ \Omega$:</p>
+  $$R_{BG}' = \frac{(18.0)(5.00)}{18.0 + 5.00} = \frac{90.0}{23.0} \approx 3.913\ \Omega \implies R_{\text{eq}}' = R_1 + R_{BG}' = 6.00 + \frac{90.0}{23.0} = \frac{228}{23.0} \approx 9.91\ \Omega.$$
+  $$I_{\text{src}}' = \frac{36.0}{228/23} = \frac{69}{19} \approx 3.63\text{ A}, \quad V_B' = 36.0 - 6.00\left(\frac{69}{19}\right) = \frac{270}{19} \approx 14.21\text{ V}, \quad P_{R_4}' = \frac{(V_B')^2}{R_4} = \frac{(14.21)^2}{5.00} \approx 40.4\text{ W}.$$
+  <p>The heating ratio in $R_4$ is $P_{R_4}' / P_{R_4} = 40.39 / 20.0 = 2.02$ (power in $R_4$ more than doubles!).</p>
+</div>
+<div class="ansbox">Final Key (Ex 02): &nbsp; (a) $R_{BG}=6.00\ \Omega,\ R_{\text{eq}}=12.0\ \Omega$ &nbsp;|&nbsp; (b) $I_{\text{src}}=3.00\text{ A},\ I_2=1.00\text{ A},\ I_{34}=2.00\text{ A},\ V_B=18.0\text{ V},\ V_D=10.0\text{ V}$ &nbsp;|&nbsp; (c) $P_{R_4}=20.0\text{ W},\ \sum P = 108\text{ W}$ &nbsp;|&nbsp; (d) $R_{\text{eq}}'=9.91\ \Omega,\ I_{\text{src}}'=3.63\text{ A},\ P_{R_4}'=40.4\text{ W}$ ($2.02\times$)</div>
+
+<div class="pb"></div>
+<div class="hdr">
+  <span>PHYSICS II (YOUNG &amp; FREEDMAN CH. 25–26) &bull; BLOCK S1 SOLUTIONS</span>
+  <span>PAGE 3 &bull; EXERCISE 03 SOLUTIONS</span>
+</div>
+
+<h2>
+  <span>03 &middot; Solutions: Multi-Source KVL/KCL Network &amp; Power Direction</span>
+  <span class="badge">12 Points</span>
+</h2>
+
+<div class="fig-ckt"><img src="file:///C:/Users/SeanS/Downloads/cir_app/scratch/s1-visuals/s1-q3-multisource.svg" alt="Spec v2 three-branch two-source DC circuit"></div>
+
+<div class="solbox">
+  <p><b>(a) KCL &amp; KVL Formulation [3 pts]:</b></p>
+  <ul>
+    <li><b>KCL at node $A$ (all three reference arrows leave node $A$ downward):</b> $I_1 + I_2 + I_3 = 0$.</li>
+    <li><b>KVL clockwise around left mesh ($B \to L \to A \to B$):</b> Starting at $B$ ($0\text{ V}$), going up through $\mathcal{E}_1$ ($-\text{ to }+$ gives $+18.0\text{ V}$), going up through $R_1$ <i>against</i> downward arrow $I_1$ ($+I_1 R_1$), and down through $R_2$ <i>along</i> downward arrow $I_2$ ($-I_2 R_2$):
+    $$+18.0 + 3.00 I_1 - 6.00 I_2 = 0 \implies 3.00 I_1 - 6.00 I_2 = -18.0.$$</li>
+    <li><b>KVL clockwise around right mesh ($B \to A \to R \to B$):</b> Going up through $R_2$ against $I_2$ ($+6.00 I_2$), down through $R_3$ along $I_3$ ($-3.00 I_3$), and down through $\mathcal{E}_3$ from $+$ to $-$ ($-9.00\text{ V}$):
+    $$+6.00 I_2 - 3.00 I_3 - 9.00 = 0 \implies 6.00 I_2 - 3.00 I_3 = 9.00.$$</li>
+  </ul>
+
+  <p><b>(b) Nodal Voltage &amp; Signed Branch Currents [5 pts]:</b> With $V_B = 0\text{ V}$, the intermediate potentials above the batteries are $V_L = +18.0\text{ V}$ and $V_R = +9.00\text{ V}$. Writing each downward branch current in terms of $V_A$:</p>
+  $$I_1 = \frac{V_A - 18.0}{3.00}, \qquad I_2 = \frac{V_A - 0}{6.00}, \qquad I_3 = \frac{V_A - 9.00}{3.00}.$$
+  <p>Substituting into KCL ($I_1 + I_2 + I_3 = 0$) and multiplying through by $6.00\ \Omega$:</p>
+  $$2(V_A - 18.0) + V_A + 2(V_A - 9.00) = 0 \implies 5 V_A - 54.0 = 0 \implies V_A = 10.8\text{ V}.$$
+  <p>Evaluating the signed currents:</p>
+  $$I_1 = \frac{10.8 - 18.0}{3.00} = -2.40\text{ A}\text{ (2.40 A upward)}, \quad I_2 = \frac{10.8}{6.00} = +1.80\text{ A}\text{ (1.80 A downward)}, \quad I_3 = \frac{10.8 - 9.00}{3.00} = +0.600\text{ A}\text{ (0.600 A downward)}.$$
+  <p><i>KVL verification:</i> Left mesh: $3.00(-2.40) - 6.00(1.80) = -7.20 - 10.80 = -18.0\text{ V}$ (checks!). Right mesh: $6.00(1.80) - 3.00(0.600) = 10.80 - 1.80 = +9.00\text{ V}$ (checks!).</p>
+
+  <p><b>(c) Source Power Delivery vs. Absorption [4 pts]:</b></p>
+  <ul>
+    <li><b>Left source $\mathcal{E}_1 = 18.0\text{ V}$:</b> Since $I_1 = -2.40\text{ A}$, actual current of $2.40\text{ A}$ flows <b>upward</b> (out of the $+$ terminal of $\mathcal{E}_1$). Thus $\mathcal{E}_1$ <b>delivers</b> power: $P_{\mathcal{E}_1,\text{del}} = \mathcal{E}_1 |I_1| = (18.0\text{ V})(2.40\text{ A}) = +43.2\text{ W}$.</li>
+    <li><b>Right source $\mathcal{E}_3 = 9.00\text{ V}$:</b> Since $I_3 = +0.600\text{ A}$, actual current of $0.600\text{ A}$ flows <b>downward</b> (into the $+$ terminal of $\mathcal{E}_3$). Thus $\mathcal{E}_3$ <b>absorbs</b> power (is being charged): $P_{\mathcal{E}_3,\text{abs}} = \mathcal{E}_3 I_3 = (9.00\text{ V})(0.600\text{ A}) = 5.40\text{ W}$ (or $P_{\mathcal{E}_3,\text{del}} = -5.40\text{ W}$).</li>
+    <li><b>Global Energy Check:</b> Net power delivered by sources is $43.2 - 5.40 = 37.8\text{ W}$. Total resistor dissipation is:
+    $$\sum_{k=1}^3 I_k^2 R_k = (-2.40)^2(3.00) + (1.80)^2(6.00) + (0.600)^2(3.00) = 17.28 + 19.44 + 1.08 = 37.8\text{ W}. \quad \blacksquare$$</li>
+  </ul>
+</div>
+<div class="ansbox">Final Key (Ex 03): &nbsp; $V_A = 10.8\text{ V}$ &nbsp;|&nbsp; $I_1 = -2.40\text{ A}$ (upward), $I_2 = +1.80\text{ A}$ (downward), $I_3 = +0.600\text{ A}$ (downward) &nbsp;|&nbsp; $\mathcal{E}_1$ delivers $43.2\text{ W}$, $\mathcal{E}_3$ absorbs $5.40\text{ W}$, $\sum P_R = 37.8\text{ W}$</div>
+
+<div class="pb"></div>
+<div class="hdr">
+  <span>PHYSICS II (YOUNG &amp; FREEDMAN CH. 25–26) &bull; BLOCK S1 SOLUTIONS</span>
+  <span>PAGE 4 &bull; EXERCISE 04 CLOZE &amp; GRAPH SOLUTIONS</span>
+</div>
+
+<h2>
+  <span>04 &middot; Solutions: Conceptual Cloze &amp; Maximum Power Transfer Graphs</span>
+  <span class="badge">10 Points</span>
+</h2>
+
+<div class="solbox">
+  <h3>Part A: Conceptual Cloze Answer Key [4 points — 0.5 pt each]</h3>
+  <table>
+    <tr><th>Blank</th><th>Correct Word-Bank Entry</th><th>Physical Justification</th></tr>
+    <tr><td><b>(a)</b></td><td><span class="wb-pill">electric charge</span></td><td>In steady state, no net charge builds up at a junction ($dq/dt = 0$).</td></tr>
+    <tr><td><b>(b)</b></td><td><span class="wb-pill">electrostatic energy</span></td><td>Work per unit charge around any closed electrostatic loop vanishes ($\oint \mathbf{E}\cdot d\mathbf{l} = 0$).</td></tr>
+    <tr><td><b>(c)</b></td><td><span class="wb-pill">smaller than</span></td><td>Adding a parallel path increases total conductance $G_{\text{eq}} = \sum G_k > G_{\max}$, so $R_{\text{eq}} < R_{\min}$.</td></tr>
+    <tr><td><b>(d)</b></td><td><span class="wb-pill">opposite to</span></td><td>A negative value means current flows antiparallel to the chosen reference arrow.</td></tr>
+    <tr><td><b>(e)</b></td><td><span class="wb-pill">$\mathcal{E} - Ir$</span></td><td>Internal resistance drops potential by $Ir$ when current leaves the $+$ terminal.</td></tr>
+    <tr><td><b>(f)</b></td><td><span class="wb-pill">$\mathcal{E} + Ir$</span></td><td>External charger must overcome $\mathcal{E}$ plus the internal resistive drop $Ir$.</td></tr>
+    <tr><td><b>(g)</b></td><td><span class="wb-pill">open circuit</span></td><td>An ideal voltmeter draws zero current ($I_V = 0$, $R_V \to \infty$).</td></tr>
+    <tr><td><b>(h)</b></td><td><span class="wb-pill">equal to</span></td><td>$dP_L/dR_L = 0$ yields $R_L = r$ (impedance matching for DC resistance).</td></tr>
+  </table>
+  <p><i>Unused distractors:</i> <span class="wb-pill">magnetic flux</span>, <span class="wb-pill">larger than</span>, <span class="wb-pill">short circuit</span>, <span class="wb-pill">zero</span>.</p>
+
+  <h3>Part B: Maximum Power Transfer Calculus Proof &amp; Solved Plots [6 points]</h3>
+  <p><b>(i) Calculus Proof [2 pts]:</b> With loop current $I = \frac{\mathcal{E}}{r + R_L}$, the power delivered to the load resistor $R_L$ is:</p>
+  $$P_L(R_L) = I^2 R_L = \frac{\mathcal{E}^2 R_L}{(r + R_L)^2}.$$
+  <p>Differentiating with respect to $R_L$ via the quotient rule and setting $\frac{dP_L}{dR_L} = 0$:</p>
+  $$\frac{dP_L}{dR_L} = \mathcal{E}^2 \frac{(r + R_L)^2(1) - R_L \cdot 2(r + R_L)}{(r + R_L)^4} = \mathcal{E}^2 \frac{r - R_L}{(r + R_L)^3} = 0 \implies R_L = r = 3.00\ \Omega.$$
+  <p>For $R_L < r$, $dP_L/dR_L > 0$; for $R_L > r$, $dP_L/dR_L < 0$, confirming a global maximum on $[0, \infty)$:</p>
+  $$P_{L,\max} = P_L(r) = \frac{\mathcal{E}^2 r}{(2r)^2} = \frac{\mathcal{E}^2}{4r} = \frac{(18.0\text{ V})^2}{4(3.00\ \Omega)} = \frac{324}{12.0} = 27.0\text{ W}.$$
+  <p>Key points on Plot (ii): at $R_L = 0$, $P_L = 0\text{ W}$; at $R_L = 3.00\ \Omega$, $P_L = 27.0\text{ W}$; at $R_L = 6.00\ \Omega$, $P_L = \frac{324(6)}{9^2} = 24.0\text{ W}$; at $R_L = 15.0\ \Omega$, $P_L = \frac{324(15)}{18^2} = 15.0\text{ W}$.</p>
+</div>
+
+<div class="fig-wide"><img src="file:///C:/Users/SeanS/Downloads/cir_app/scratch/s1-visuals/s1-q4-grid-solved.svg" alt="Solved plots of V_T(I) and P_L(R_L)"></div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    renderMathInElement(document.body, {
+      delimiters: [
+        {left: "$$", right: "$$", display: true},
+        {left: "$", right: "$", display: false}
+      ],
+      throwOnError: false
+    });
+  });
+</script>
+</body>
+</html>

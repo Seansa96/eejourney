@@ -205,7 +205,7 @@ $$
 $$
 
 > [!answer]- Answer
-  ![[11 - Images/Scan from 2026-06-10 10_38_15 AM.pdf]]
+  ![[Scan from 2026-06-10 10_38_15 AM.pdf]]
 
 
 # Example 4

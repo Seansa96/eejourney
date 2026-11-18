@@ -4,10 +4,14 @@
 
 # Problem 13.1
 
+![[assets/chemistry-problem-13-1-page-566.png]]
+
 13.1  Rank the contents of the following containers in order of in-
 creasing entropy: [Section 13.1]
 
 # Problem 13.3
+
+![[assets/chemistry-problem-13-3-page-572.png]]
 
 13.3  Consider two ionic solids, both composed of singly charged
 ions, that have different lattice energies. ( a) Will the solids
@@ -20,11 +24,15 @@ ids. [Section 13.1]
 
 # Problem 13.7
 
+![[assets/chemistry-problem-13-7-page-599.png]]
+
 13.7  The structures of vitamins E and B6 are shown below. Pre -
 dict which is more water soluble and which is more fat solu-
 ble. [Section 13.3]
 
 # Problem 13.9
+
+![[assets/chemistry-problem-13-9-page-599.png]]
 
 13.9  The figure shows two identical volumetric flasks containing
 the same solution at two temperatures.

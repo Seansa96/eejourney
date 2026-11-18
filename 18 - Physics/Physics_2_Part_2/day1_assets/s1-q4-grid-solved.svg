@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="290" viewBox="0 0 760 290">
+<rect width="100%" height="100%" fill="white"/>
+<style>.ax{stroke:#1e293b;stroke-width:1.8}.grid{stroke:#cbd5e1;stroke-width:0.8;stroke-dasharray:3,3}.lbl{font-family:Segoe UI,Arial,sans-serif;font-size:12px;fill:#1e293b}.ttl{font-family:Segoe UI,Arial,sans-serif;font-size:13px;font-weight:bold;fill:#0f172a}</style>
+<text x="195" y="20" text-anchor="middle" class="ttl">(i) Terminal Voltage V_T vs. Current I</text>
+<line x1="60" y1="35" x2="60" y2="235" class="grid"/>
+<text x="60" y="252" text-anchor="middle" class="lbl">0</text>
+<line x1="105" y1="35" x2="105" y2="235" class="grid"/>
+<text x="105" y="252" text-anchor="middle" class="lbl">1</text>
+<line x1="150" y1="35" x2="150" y2="235" class="grid"/>
+<text x="150" y="252" text-anchor="middle" class="lbl">2</text>
+<line x1="195" y1="35" x2="195" y2="235" class="grid"/>
+<text x="195" y="252" text-anchor="middle" class="lbl">3</text>
+<line x1="240" y1="35" x2="240" y2="235" class="grid"/>
+<text x="240" y="252" text-anchor="middle" class="lbl">4</text>
+<line x1="285" y1="35" x2="285" y2="235" class="grid"/>
+<text x="285" y="252" text-anchor="middle" class="lbl">5</text>
+<line x1="330" y1="35" x2="330" y2="235" class="grid"/>
+<text x="330" y="252" text-anchor="middle" class="lbl">6</text>
+<line x1="60" y1="235" x2="330" y2="235" class="grid"/>
+<text x="52" y="239" text-anchor="end" class="lbl">0</text>
+<line x1="60" y1="205" x2="330" y2="205" class="grid"/>
+<text x="52" y="209" text-anchor="end" class="lbl">3</text>
+<line x1="60" y1="175" x2="330" y2="175" class="grid"/>
+<text x="52" y="179" text-anchor="end" class="lbl">6</text>
+<line x1="60" y1="145" x2="330" y2="145" class="grid"/>
+<text x="52" y="149" text-anchor="end" class="lbl">9</text>
+<line x1="60" y1="115" x2="330" y2="115" class="grid"/>
+<text x="52" y="119" text-anchor="end" class="lbl">12</text>
+<line x1="60" y1="85" x2="330" y2="85" class="grid"/>
+<text x="52" y="89" text-anchor="end" class="lbl">15</text>
+<line x1="60" y1="55" x2="330" y2="55" class="grid"/>
+<text x="52" y="59" text-anchor="end" class="lbl">18</text>
+<line x1="60" y1="35" x2="60" y2="235" class="ax"/>
+<line x1="60" y1="235" x2="335" y2="235" class="ax"/>
+<text x="195" y="275" text-anchor="middle" class="lbl">Independent variable: Load Current I (A)</text>
+<text x="18" y="135" text-anchor="middle" transform="rotate(-90 18,135)" class="lbl">Dependent: V_T (V)</text>
+<line x1="60" y1="55" x2="330" y2="235" stroke="#0284c7" stroke-width="3"/>
+<circle cx="60" cy="55" r="4.5" fill="#0284c7"/>
+<circle cx="195" cy="145" r="4.5" fill="#b91c1c"/>
+<circle cx="330" cy="235" r="4.5" fill="#0284c7"/>
+<text x="70" y="50" class="lbl" fill="#0284c7">V_oc = E = 18.0 V</text>
+<text x="202" y="138" class="lbl" fill="#b91c1c">(3.0 A, 9.0 V) at R_L = r</text>
+<text x="250" y="226" class="lbl" fill="#0284c7">I_sc = 6.0 A</text>
+<text x="140" y="185" class="lbl" fill="#0369a1">Slope = -r = -3.00 Ω</text>
+<text x="590" y="20" text-anchor="middle" class="ttl">(ii) Load Power P_L vs. Load Resistance R_L</text>
+<line x1="440" y1="35" x2="440" y2="235" class="grid"/>
+<text x="440" y="252" text-anchor="middle" class="lbl">0</text>
+<line x1="500" y1="35" x2="500" y2="235" class="grid"/>
+<text x="500" y="252" text-anchor="middle" class="lbl">3</text>
+<line x1="560" y1="35" x2="560" y2="235" class="grid"/>
+<text x="560" y="252" text-anchor="middle" class="lbl">6</text>
+<line x1="620" y1="35" x2="620" y2="235" class="grid"/>
+<text x="620" y="252" text-anchor="middle" class="lbl">9</text>
+<line x1="680" y1="35" x2="680" y2="235" class="grid"/>
+<text x="680" y="252" text-anchor="middle" class="lbl">12</text>
+<line x1="740" y1="35" x2="740" y2="235" class="grid"/>
+<text x="740" y="252" text-anchor="middle" class="lbl">15</text>
+<line x1="440" y1="235.00" x2="740" y2="235.00" class="grid"/>
+<text x="432" y="239.00" text-anchor="end" class="lbl">0</text>
+<line x1="440" y1="201.67" x2="740" y2="201.67" class="grid"/>
+<text x="432" y="205.67" text-anchor="end" class="lbl">5</text>
+<line x1="440" y1="168.33" x2="740" y2="168.33" class="grid"/>
+<text x="432" y="172.33" text-anchor="end" class="lbl">10</text>
+<line x1="440" y1="135.00" x2="740" y2="135.00" class="grid"/>
+<text x="432" y="139.00" text-anchor="end" class="lbl">15</text>
+<line x1="440" y1="101.67" x2="740" y2="101.67" class="grid"/>
+<text x="432" y="105.67" text-anchor="end" class="lbl">20</text>
+<line x1="440" y1="68.33" x2="740" y2="68.33" class="grid"/>
+<text x="432" y="72.33" text-anchor="end" class="lbl">25</text>
+<line x1="440" y1="35.00" x2="740" y2="35.00" class="grid"/>
+<text x="432" y="39.00" text-anchor="end" class="lbl">30</text>
+<line x1="440" y1="35" x2="440" y2="235" class="ax"/>
+<line x1="440" y1="235" x2="745" y2="235" class="ax"/>
+<text x="590" y="275" text-anchor="middle" class="lbl">Independent variable: Load Resistance R_L (Ω)</text>
+<text x="398" y="135" text-anchor="middle" transform="rotate(-90 398,135)" class="lbl">Dependent: P_L (W)</text>
+<polyline fill="none" stroke="#16a34a" stroke-width="3" points="440.00,235.00 442.00,212.52 444.00,192.81 446.00,175.50 448.00,160.26 450.00,146.84 452.00,135.00 454.00,124.55 456.00,115.33 458.00,107.19 460.00,100.00 462.00,93.66 464.00,88.06 466.00,83.13 468.00,78.80 470.00,75.00 472.00,71.67 474.00,68.77 476.00,66.25 478.00,64.07 480.00,62.20 482.00,60.61 484.00,59.26 486.00,58.14 488.00,57.22 490.00,56.49 492.00,55.92 494.00,55.50 496.00,55.21 498.00,55.05 500.00,55.00 502.00,55.05 504.00,55.19 506.00,55.41 508.00,55.70 510.00,56.07 512.00,56.49 514.00,56.96 516.00,57.49 518.00,58.06 520.00,58.67 522.00,59.32 524.00,60.00 526.00,60.71 528.00,61.44 530.00,62.20 532.00,62.98 534.00,63.77 536.00,64.59 538.00,65.41 540.00,66.25 542.00,67.10 544.00,67.96 546.00,68.82 548.00,69.69 550.00,70.57 552.00,71.45 554.00,72.34 556.00,73.22 558.00,74.11 560.00,75.00 562.00,75.89 564.00,76.78 566.00,77.66 568.00,78.55 570.00,79.43 572.00,80.31 574.00,81.19 576.00,82.06 578.00,82.93 580.00,83.80 582.00,84.66 584.00,85.52 586.00,86.37 588.00,87.22 590.00,88.06 592.00,88.90 594.00,89.73 596.00,90.56 598.00,91.38 600.00,92.19 602.00,93.00 604.00,93.80 606.00,94.60 608.00,95.39 610.00,96.17 612.00,96.95 614.00,97.72 616.00,98.49 618.00,99.25 620.00,100.00 622.00,100.75 624.00,101.49 626.00,102.22 628.00,102.95 630.00,103.67 632.00,104.39 634.00,105.10 636.00,105.80 638.00,106.50 640.00,107.19 642.00,107.87 644.00,108.55 646.00,109.23 648.00,109.89 650.00,110.56 652.00,111.21 654.00,111.86 656.00,112.50 658.00,113.14 660.00,113.78 662.00,114.40 664.00,115.02 666.00,115.64 668.00,116.25 670.00,116.85 672.00,117.45 674.00,118.05 676.00,118.64 678.00,119.22 680.00,119.80 682.00,120.37 684.00,120.94 686.00,121.51 688.00,122.06 690.00,122.62 692.00,123.17 694.00,123.71 696.00,124.25 698.00,124.78 700.00,125.31 702.00,125.84 704.00,126.36 706.00,126.87 708.00,127.39 710.00,127.89 712.00,128.40 714.00,128.89 716.00,129.39 718.00,129.88 720.00,130.36 722.00,130.84 724.00,131.32 726.00,131.80 728.00,132.27 730.00,132.73 732.00,133.19 734.00,133.65 736.00,134.10 738.00,134.55 740.00,135.00"/>
+<line x1="500" y1="55" x2="500" y2="235" stroke="#b91c1c" stroke-width="1.4" stroke-dasharray="4,3"/>
+<circle cx="500" cy="55" r="4.5" fill="#b91c1c"/>
+<text x="510" y="53" class="lbl" fill="#b91c1c">Peak: P_max = 27.0 W at R_L = r = 3.00 Ω</text>
+</svg>
